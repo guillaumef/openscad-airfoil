@@ -1,9 +1,9 @@
-/* Generated from ah93k132.dat
+/* Generated from a/ah93k132.dat
 
 Usage (copy/paste):
 
 //    AH93K132
-include <airfoil/ah93k132.scad>
+include <openscad-airfoil/a/ah93k132.scad>
 af_vec_path   = airfoil_AH93K132_path ();
 af_vec_slice  = airfoil_AH93K132_slice ();
 af_vec_range  = airfoil_AH93K132_range ();

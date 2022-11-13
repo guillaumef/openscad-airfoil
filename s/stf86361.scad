@@ -1,9 +1,9 @@
-/* Generated from stf86361.dat
+/* Generated from s/stf86361.dat
 
 Usage (copy/paste):
 
 //    STF86361
-include <airfoil/stf86361.scad>
+include <openscad-airfoil/s/stf86361.scad>
 af_vec_path   = airfoil_STF86361_path ();
 af_vec_slice  = airfoil_STF86361_slice ();
 af_vec_range  = airfoil_STF86361_range ();

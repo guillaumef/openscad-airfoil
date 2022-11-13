@@ -1,9 +1,9 @@
-/* Generated from mh117.dat
+/* Generated from m/mh117.dat
 
 Usage (copy/paste):
 
 //    MH117
-include <airfoil/mh117.scad>
+include <openscad-airfoil/m/mh117.scad>
 af_vec_path   = airfoil_MH117_path ();
 af_vec_slice  = airfoil_MH117_slice ();
 af_vec_range  = airfoil_MH117_range ();

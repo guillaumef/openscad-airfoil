@@ -1,9 +1,9 @@
-/* Generated from goe439.dat
+/* Generated from g/goe439.dat
 
 Usage (copy/paste):
 
 //    GOE439
-include <airfoil/goe439.scad>
+include <openscad-airfoil/g/goe439.scad>
 af_vec_path   = airfoil_GOE439_path ();
 af_vec_slice  = airfoil_GOE439_slice ();
 af_vec_range  = airfoil_GOE439_range ();

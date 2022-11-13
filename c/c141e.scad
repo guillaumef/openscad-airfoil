@@ -1,9 +1,9 @@
-/* Generated from c141e.dat
+/* Generated from c/c141e.dat
 
 Usage (copy/paste):
 
 //    C141E
-include <airfoil/c141e.scad>
+include <openscad-airfoil/c/c141e.scad>
 af_vec_path   = airfoil_C141E_path ();
 af_vec_slice  = airfoil_C141E_slice ();
 af_vec_range  = airfoil_C141E_range ();

@@ -1,9 +1,9 @@
-/* Generated from m8.dat
+/* Generated from m/m8.dat
 
 Usage (copy/paste):
 
 //    M8
-include <airfoil/m8.scad>
+include <openscad-airfoil/m/m8.scad>
 af_vec_path   = airfoil_M8_path ();
 af_vec_slice  = airfoil_M8_slice ();
 af_vec_range  = airfoil_M8_range ();

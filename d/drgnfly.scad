@@ -1,9 +1,9 @@
-/* Generated from drgnfly.dat
+/* Generated from d/drgnfly.dat
 
 Usage (copy/paste):
 
 //    DRGNFLY
-include <airfoil/drgnfly.scad>
+include <openscad-airfoil/d/drgnfly.scad>
 af_vec_path   = airfoil_DRGNFLY_path ();
 af_vec_slice  = airfoil_DRGNFLY_slice ();
 af_vec_range  = airfoil_DRGNFLY_range ();

@@ -1,9 +1,9 @@
-/* Generated from m21.dat
+/* Generated from m/m21.dat
 
 Usage (copy/paste):
 
 //    M21
-include <airfoil/m21.scad>
+include <openscad-airfoil/m/m21.scad>
 af_vec_path   = airfoil_M21_path ();
 af_vec_slice  = airfoil_M21_slice ();
 af_vec_range  = airfoil_M21_range ();

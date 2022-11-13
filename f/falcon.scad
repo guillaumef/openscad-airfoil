@@ -1,9 +1,9 @@
-/* Generated from falcon.dat
+/* Generated from f/falcon.dat
 
 Usage (copy/paste):
 
 //    FALCON
-include <airfoil/falcon.scad>
+include <openscad-airfoil/f/falcon.scad>
 af_vec_path   = airfoil_FALCON_path ();
 af_vec_slice  = airfoil_FALCON_slice ();
 af_vec_range  = airfoil_FALCON_range ();

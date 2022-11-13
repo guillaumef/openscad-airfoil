@@ -1,9 +1,9 @@
-/* Generated from fx73170a.dat
+/* Generated from f/fx73170a.dat
 
 Usage (copy/paste):
 
 //    FX73170A
-include <airfoil/fx73170a.scad>
+include <openscad-airfoil/f/fx73170a.scad>
 af_vec_path   = airfoil_FX73170A_path ();
 af_vec_slice  = airfoil_FX73170A_slice ();
 af_vec_range  = airfoil_FX73170A_range ();

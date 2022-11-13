@@ -1,9 +1,9 @@
-/* Generated from sc20518.dat
+/* Generated from s/sc20518.dat
 
 Usage (copy/paste):
 
 //    SC20518
-include <airfoil/sc20518.scad>
+include <openscad-airfoil/s/sc20518.scad>
 af_vec_path   = airfoil_SC20518_path ();
 af_vec_slice  = airfoil_SC20518_slice ();
 af_vec_range  = airfoil_SC20518_range ();

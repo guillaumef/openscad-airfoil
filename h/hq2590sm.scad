@@ -1,9 +1,9 @@
-/* Generated from hq2590sm.dat
+/* Generated from h/hq2590sm.dat
 
 Usage (copy/paste):
 
 //    HQ2590SM
-include <airfoil/hq2590sm.scad>
+include <openscad-airfoil/h/hq2590sm.scad>
 af_vec_path   = airfoil_HQ2590SM_path ();
 af_vec_slice  = airfoil_HQ2590SM_slice ();
 af_vec_range  = airfoil_HQ2590SM_range ();

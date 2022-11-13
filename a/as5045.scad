@@ -1,9 +1,9 @@
-/* Generated from as5045.dat
+/* Generated from a/as5045.dat
 
 Usage (copy/paste):
 
 //    AS5045
-include <airfoil/as5045.scad>
+include <openscad-airfoil/a/as5045.scad>
 af_vec_path   = airfoil_AS5045_path ();
 af_vec_slice  = airfoil_AS5045_slice ();
 af_vec_range  = airfoil_AS5045_range ();

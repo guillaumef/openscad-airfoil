@@ -1,9 +1,9 @@
-/* Generated from e678.dat
+/* Generated from e/e678.dat
 
 Usage (copy/paste):
 
 //    E678
-include <airfoil/e678.scad>
+include <openscad-airfoil/e/e678.scad>
 af_vec_path   = airfoil_E678_path ();
 af_vec_slice  = airfoil_E678_slice ();
 af_vec_range  = airfoil_E678_range ();

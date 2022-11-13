@@ -1,9 +1,9 @@
-/* Generated from goe284.dat
+/* Generated from g/goe284.dat
 
 Usage (copy/paste):
 
 //    GOE284
-include <airfoil/goe284.scad>
+include <openscad-airfoil/g/goe284.scad>
 af_vec_path   = airfoil_GOE284_path ();
 af_vec_slice  = airfoil_GOE284_slice ();
 af_vec_range  = airfoil_GOE284_range ();

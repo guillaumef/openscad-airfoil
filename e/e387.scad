@@ -1,9 +1,9 @@
-/* Generated from e387.dat
+/* Generated from e/e387.dat
 
 Usage (copy/paste):
 
 //    E387
-include <airfoil/e387.scad>
+include <openscad-airfoil/e/e387.scad>
 af_vec_path   = airfoil_E387_path ();
 af_vec_slice  = airfoil_E387_slice ();
 af_vec_range  = airfoil_E387_range ();

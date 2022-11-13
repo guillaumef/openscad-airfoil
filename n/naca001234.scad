@@ -1,9 +1,9 @@
-/* Generated from naca001234.dat
+/* Generated from n/naca001234.dat
 
 Usage (copy/paste):
 
 //    NACA001234
-include <airfoil/naca001234.scad>
+include <openscad-airfoil/n/naca001234.scad>
 af_vec_path   = airfoil_NACA001234_path ();
 af_vec_slice  = airfoil_NACA001234_slice ();
 af_vec_range  = airfoil_NACA001234_range ();

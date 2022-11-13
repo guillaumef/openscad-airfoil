@@ -1,9 +1,9 @@
-/* Generated from ys915.dat
+/* Generated from y/ys915.dat
 
 Usage (copy/paste):
 
 //    YS915
-include <airfoil/ys915.scad>
+include <openscad-airfoil/y/ys915.scad>
 af_vec_path   = airfoil_YS915_path ();
 af_vec_slice  = airfoil_YS915_slice ();
 af_vec_range  = airfoil_YS915_range ();

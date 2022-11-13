@@ -1,9 +1,9 @@
-/* Generated from usa41.dat
+/* Generated from u/usa41.dat
 
 Usage (copy/paste):
 
 //    USA41
-include <airfoil/usa41.scad>
+include <openscad-airfoil/u/usa41.scad>
 af_vec_path   = airfoil_USA41_path ();
 af_vec_slice  = airfoil_USA41_slice ();
 af_vec_range  = airfoil_USA41_range ();

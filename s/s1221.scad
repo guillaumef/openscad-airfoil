@@ -1,9 +1,9 @@
-/* Generated from s1221.dat
+/* Generated from s/s1221.dat
 
 Usage (copy/paste):
 
 //    S1221
-include <airfoil/s1221.scad>
+include <openscad-airfoil/s/s1221.scad>
 af_vec_path   = airfoil_S1221_path ();
 af_vec_slice  = airfoil_S1221_slice ();
 af_vec_range  = airfoil_S1221_range ();

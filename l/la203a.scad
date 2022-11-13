@@ -1,9 +1,9 @@
-/* Generated from la203a.dat
+/* Generated from l/la203a.dat
 
 Usage (copy/paste):
 
 //    LA203A
-include <airfoil/la203a.scad>
+include <openscad-airfoil/l/la203a.scad>
 af_vec_path   = airfoil_LA203A_path ();
 af_vec_slice  = airfoil_LA203A_slice ();
 af_vec_range  = airfoil_LA203A_range ();

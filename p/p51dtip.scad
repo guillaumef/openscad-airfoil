@@ -1,9 +1,9 @@
-/* Generated from p51dtip.dat
+/* Generated from p/p51dtip.dat
 
 Usage (copy/paste):
 
 //    P51DTIP
-include <airfoil/p51dtip.scad>
+include <openscad-airfoil/p/p51dtip.scad>
 af_vec_path   = airfoil_P51DTIP_path ();
 af_vec_slice  = airfoil_P51DTIP_slice ();
 af_vec_range  = airfoil_P51DTIP_range ();

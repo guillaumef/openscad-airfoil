@@ -1,9 +1,9 @@
-/* Generated from vr11x.dat
+/* Generated from v/vr11x.dat
 
 Usage (copy/paste):
 
 //    VR11X
-include <airfoil/vr11x.scad>
+include <openscad-airfoil/v/vr11x.scad>
 af_vec_path   = airfoil_VR11X_path ();
 af_vec_slice  = airfoil_VR11X_slice ();
 af_vec_range  = airfoil_VR11X_range ();

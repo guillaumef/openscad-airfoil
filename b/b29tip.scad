@@ -1,9 +1,9 @@
-/* Generated from b29tip.dat
+/* Generated from b/b29tip.dat
 
 Usage (copy/paste):
 
 //    B29TIP
-include <airfoil/b29tip.scad>
+include <openscad-airfoil/b/b29tip.scad>
 af_vec_path   = airfoil_B29TIP_path ();
 af_vec_slice  = airfoil_B29TIP_slice ();
 af_vec_range  = airfoil_B29TIP_range ();

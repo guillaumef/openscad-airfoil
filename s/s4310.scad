@@ -1,9 +1,9 @@
-/* Generated from s4310.dat
+/* Generated from s/s4310.dat
 
 Usage (copy/paste):
 
 //    S4310
-include <airfoil/s4310.scad>
+include <openscad-airfoil/s/s4310.scad>
 af_vec_path   = airfoil_S4310_path ();
 af_vec_slice  = airfoil_S4310_slice ();
 af_vec_range  = airfoil_S4310_range ();

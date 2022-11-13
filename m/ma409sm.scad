@@ -1,9 +1,9 @@
-/* Generated from ma409sm.dat
+/* Generated from m/ma409sm.dat
 
 Usage (copy/paste):
 
 //    MA409SM
-include <airfoil/ma409sm.scad>
+include <openscad-airfoil/m/ma409sm.scad>
 af_vec_path   = airfoil_MA409SM_path ();
 af_vec_slice  = airfoil_MA409SM_slice ();
 af_vec_range  = airfoil_MA409SM_range ();

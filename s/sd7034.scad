@@ -1,9 +1,9 @@
-/* Generated from sd7034.dat
+/* Generated from s/sd7034.dat
 
 Usage (copy/paste):
 
 //    SD7034
-include <airfoil/sd7034.scad>
+include <openscad-airfoil/s/sd7034.scad>
 af_vec_path   = airfoil_SD7034_path ();
 af_vec_slice  = airfoil_SD7034_slice ();
 af_vec_range  = airfoil_SD7034_range ();

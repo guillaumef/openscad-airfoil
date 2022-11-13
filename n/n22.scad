@@ -1,9 +1,9 @@
-/* Generated from n22.dat
+/* Generated from n/n22.dat
 
 Usage (copy/paste):
 
 //    N22
-include <airfoil/n22.scad>
+include <openscad-airfoil/n/n22.scad>
 af_vec_path   = airfoil_N22_path ();
 af_vec_slice  = airfoil_N22_slice ();
 af_vec_range  = airfoil_N22_range ();

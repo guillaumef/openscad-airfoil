@@ -1,9 +1,9 @@
-/* Generated from rae100.dat
+/* Generated from r/rae100.dat
 
 Usage (copy/paste):
 
 //    RAE100
-include <airfoil/rae100.scad>
+include <openscad-airfoil/r/rae100.scad>
 af_vec_path   = airfoil_RAE100_path ();
 af_vec_slice  = airfoil_RAE100_slice ();
 af_vec_range  = airfoil_RAE100_range ();

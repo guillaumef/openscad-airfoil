@@ -1,9 +1,9 @@
-/* Generated from e176.dat
+/* Generated from e/e176.dat
 
 Usage (copy/paste):
 
 //    E176
-include <airfoil/e176.scad>
+include <openscad-airfoil/e/e176.scad>
 af_vec_path   = airfoil_E176_path ();
 af_vec_slice  = airfoil_E176_slice ();
 af_vec_range  = airfoil_E176_range ();

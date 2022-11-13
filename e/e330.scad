@@ -1,9 +1,9 @@
-/* Generated from e330.dat
+/* Generated from e/e330.dat
 
 Usage (copy/paste):
 
 //    E330
-include <airfoil/e330.scad>
+include <openscad-airfoil/e/e330.scad>
 af_vec_path   = airfoil_E330_path ();
 af_vec_slice  = airfoil_E330_slice ();
 af_vec_range  = airfoil_E330_range ();

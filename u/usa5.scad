@@ -1,9 +1,9 @@
-/* Generated from usa5.dat
+/* Generated from u/usa5.dat
 
 Usage (copy/paste):
 
 //    USA5
-include <airfoil/usa5.scad>
+include <openscad-airfoil/u/usa5.scad>
 af_vec_path   = airfoil_USA5_path ();
 af_vec_slice  = airfoil_USA5_slice ();
 af_vec_range  = airfoil_USA5_range ();

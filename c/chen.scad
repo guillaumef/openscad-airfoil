@@ -1,9 +1,9 @@
-/* Generated from chen.dat
+/* Generated from c/chen.dat
 
 Usage (copy/paste):
 
 //    CHEN
-include <airfoil/chen.scad>
+include <openscad-airfoil/c/chen.scad>
 af_vec_path   = airfoil_CHEN_path ();
 af_vec_slice  = airfoil_CHEN_slice ();
 af_vec_range  = airfoil_CHEN_range ();

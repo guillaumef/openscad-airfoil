@@ -1,9 +1,9 @@
-/* Generated from e748.dat
+/* Generated from e/e748.dat
 
 Usage (copy/paste):
 
 //    E748
-include <airfoil/e748.scad>
+include <openscad-airfoil/e/e748.scad>
 af_vec_path   = airfoil_E748_path ();
 af_vec_slice  = airfoil_E748_slice ();
 af_vec_range  = airfoil_E748_range ();

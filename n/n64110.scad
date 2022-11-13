@@ -1,9 +1,9 @@
-/* Generated from n64110.dat
+/* Generated from n/n64110.dat
 
 Usage (copy/paste):
 
 //    N64110
-include <airfoil/n64110.scad>
+include <openscad-airfoil/n/n64110.scad>
 af_vec_path   = airfoil_N64110_path ();
 af_vec_slice  = airfoil_N64110_slice ();
 af_vec_range  = airfoil_N64110_range ();

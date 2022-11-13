@@ -1,9 +1,9 @@
-/* Generated from rae69ck.dat
+/* Generated from r/rae69ck.dat
 
 Usage (copy/paste):
 
 //    RAE69CK
-include <airfoil/rae69ck.scad>
+include <openscad-airfoil/r/rae69ck.scad>
 af_vec_path   = airfoil_RAE69CK_path ();
 af_vec_slice  = airfoil_RAE69CK_slice ();
 af_vec_range  = airfoil_RAE69CK_range ();

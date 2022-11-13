@@ -1,9 +1,9 @@
-/* Generated from b707a.dat
+/* Generated from b/b707a.dat
 
 Usage (copy/paste):
 
 //    B707A
-include <airfoil/b707a.scad>
+include <openscad-airfoil/b/b707a.scad>
 af_vec_path   = airfoil_B707A_path ();
 af_vec_slice  = airfoil_B707A_slice ();
 af_vec_range  = airfoil_B707A_range ();

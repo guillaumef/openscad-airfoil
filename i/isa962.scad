@@ -1,9 +1,9 @@
-/* Generated from isa962.dat
+/* Generated from i/isa962.dat
 
 Usage (copy/paste):
 
 //    ISA962
-include <airfoil/isa962.scad>
+include <openscad-airfoil/i/isa962.scad>
 af_vec_path   = airfoil_ISA962_path ();
 af_vec_slice  = airfoil_ISA962_slice ();
 af_vec_range  = airfoil_ISA962_range ();

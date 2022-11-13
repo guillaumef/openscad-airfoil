@@ -1,9 +1,9 @@
-/* Generated from fxs03182.dat
+/* Generated from f/fxs03182.dat
 
 Usage (copy/paste):
 
 //    FXS03182
-include <airfoil/fxs03182.scad>
+include <openscad-airfoil/f/fxs03182.scad>
 af_vec_path   = airfoil_FXS03182_path ();
 af_vec_slice  = airfoil_FXS03182_slice ();
 af_vec_range  = airfoil_FXS03182_range ();

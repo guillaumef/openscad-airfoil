@@ -1,9 +1,9 @@
-/* Generated from e818.dat
+/* Generated from e/e818.dat
 
 Usage (copy/paste):
 
 //    E818
-include <airfoil/e818.scad>
+include <openscad-airfoil/e/e818.scad>
 af_vec_path   = airfoil_E818_path ();
 af_vec_slice  = airfoil_E818_slice ();
 af_vec_range  = airfoil_E818_range ();

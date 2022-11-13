@@ -1,9 +1,9 @@
-/* Generated from usa35b.dat
+/* Generated from u/usa35b.dat
 
 Usage (copy/paste):
 
 //    USA35B
-include <airfoil/usa35b.scad>
+include <openscad-airfoil/u/usa35b.scad>
 af_vec_path   = airfoil_USA35B_path ();
 af_vec_slice  = airfoil_USA35B_slice ();
 af_vec_range  = airfoil_USA35B_range ();

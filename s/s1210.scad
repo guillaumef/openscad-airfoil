@@ -1,9 +1,9 @@
-/* Generated from s1210.dat
+/* Generated from s/s1210.dat
 
 Usage (copy/paste):
 
 //    S1210
-include <airfoil/s1210.scad>
+include <openscad-airfoil/s/s1210.scad>
 af_vec_path   = airfoil_S1210_path ();
 af_vec_slice  = airfoil_S1210_slice ();
 af_vec_range  = airfoil_S1210_range ();

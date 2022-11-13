@@ -1,9 +1,9 @@
-/* Generated from lrn1007.dat
+/* Generated from l/lrn1007.dat
 
 Usage (copy/paste):
 
 //    LRN1007
-include <airfoil/lrn1007.scad>
+include <openscad-airfoil/l/lrn1007.scad>
 af_vec_path   = airfoil_LRN1007_path ();
 af_vec_slice  = airfoil_LRN1007_slice ();
 af_vec_range  = airfoil_LRN1007_range ();

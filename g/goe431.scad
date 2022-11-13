@@ -1,9 +1,9 @@
-/* Generated from goe431.dat
+/* Generated from g/goe431.dat
 
 Usage (copy/paste):
 
 //    GOE431
-include <airfoil/goe431.scad>
+include <openscad-airfoil/g/goe431.scad>
 af_vec_path   = airfoil_GOE431_path ();
 af_vec_slice  = airfoil_GOE431_slice ();
 af_vec_range  = airfoil_GOE431_range ();

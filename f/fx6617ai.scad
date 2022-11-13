@@ -1,9 +1,9 @@
-/* Generated from fx6617ai.dat
+/* Generated from f/fx6617ai.dat
 
 Usage (copy/paste):
 
 //    FX6617AI
-include <airfoil/fx6617ai.scad>
+include <openscad-airfoil/f/fx6617ai.scad>
 af_vec_path   = airfoil_FX6617AI_path ();
 af_vec_slice  = airfoil_FX6617AI_slice ();
 af_vec_range  = airfoil_FX6617AI_range ();

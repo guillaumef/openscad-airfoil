@@ -1,9 +1,9 @@
-/* Generated from mh93.dat
+/* Generated from m/mh93.dat
 
 Usage (copy/paste):
 
 //    MH93
-include <airfoil/mh93.scad>
+include <openscad-airfoil/m/mh93.scad>
 af_vec_path   = airfoil_MH93_path ();
 af_vec_slice  = airfoil_MH93_slice ();
 af_vec_range  = airfoil_MH93_range ();

@@ -1,9 +1,9 @@
-/* Generated from clarkz.dat
+/* Generated from c/clarkz.dat
 
 Usage (copy/paste):
 
 //    CLARKZ
-include <airfoil/clarkz.scad>
+include <openscad-airfoil/c/clarkz.scad>
 af_vec_path   = airfoil_CLARKZ_path ();
 af_vec_slice  = airfoil_CLARKZ_slice ();
 af_vec_range  = airfoil_CLARKZ_range ();

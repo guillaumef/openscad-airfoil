@@ -1,9 +1,9 @@
-/* Generated from e473.dat
+/* Generated from e/e473.dat
 
 Usage (copy/paste):
 
 //    E473
-include <airfoil/e473.scad>
+include <openscad-airfoil/e/e473.scad>
 af_vec_path   = airfoil_E473_path ();
 af_vec_slice  = airfoil_E473_slice ();
 af_vec_range  = airfoil_E473_range ();

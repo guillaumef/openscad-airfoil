@@ -1,9 +1,9 @@
-/* Generated from e334.dat
+/* Generated from e/e334.dat
 
 Usage (copy/paste):
 
 //    E334
-include <airfoil/e334.scad>
+include <openscad-airfoil/e/e334.scad>
 af_vec_path   = airfoil_E334_path ();
 af_vec_slice  = airfoil_E334_slice ();
 af_vec_range  = airfoil_E334_range ();

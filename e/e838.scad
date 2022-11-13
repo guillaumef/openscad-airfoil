@@ -1,9 +1,9 @@
-/* Generated from e838.dat
+/* Generated from e/e838.dat
 
 Usage (copy/paste):
 
 //    E838
-include <airfoil/e838.scad>
+include <openscad-airfoil/e/e838.scad>
 af_vec_path   = airfoil_E838_path ();
 af_vec_slice  = airfoil_E838_slice ();
 af_vec_range  = airfoil_E838_range ();

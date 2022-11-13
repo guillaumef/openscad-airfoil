@@ -1,9 +1,9 @@
-/* Generated from s4062.dat
+/* Generated from s/s4062.dat
 
 Usage (copy/paste):
 
 //    S4062
-include <airfoil/s4062.scad>
+include <openscad-airfoil/s/s4062.scad>
 af_vec_path   = airfoil_S4062_path ();
 af_vec_slice  = airfoil_S4062_slice ();
 af_vec_range  = airfoil_S4062_range ();

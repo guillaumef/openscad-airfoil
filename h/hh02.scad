@@ -1,9 +1,9 @@
-/* Generated from hh02.dat
+/* Generated from h/hh02.dat
 
 Usage (copy/paste):
 
 //    HH02
-include <airfoil/hh02.scad>
+include <openscad-airfoil/h/hh02.scad>
 af_vec_path   = airfoil_HH02_path ();
 af_vec_slice  = airfoil_HH02_slice ();
 af_vec_range  = airfoil_HH02_range ();

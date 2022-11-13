@@ -1,9 +1,9 @@
-/* Generated from ah63k127.dat
+/* Generated from a/ah63k127.dat
 
 Usage (copy/paste):
 
 //    AH63K127
-include <airfoil/ah63k127.scad>
+include <openscad-airfoil/a/ah63k127.scad>
 af_vec_path   = airfoil_AH63K127_path ();
 af_vec_slice  = airfoil_AH63K127_slice ();
 af_vec_range  = airfoil_AH63K127_range ();

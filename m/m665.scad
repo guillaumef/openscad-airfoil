@@ -1,9 +1,9 @@
-/* Generated from m665.dat
+/* Generated from m/m665.dat
 
 Usage (copy/paste):
 
 //    M665
-include <airfoil/m665.scad>
+include <openscad-airfoil/m/m665.scad>
 af_vec_path   = airfoil_M665_path ();
 af_vec_slice  = airfoil_M665_slice ();
 af_vec_range  = airfoil_M665_range ();

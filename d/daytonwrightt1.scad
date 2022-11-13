@@ -1,9 +1,9 @@
-/* Generated from daytonwrightt1.dat
+/* Generated from d/daytonwrightt1.dat
 
 Usage (copy/paste):
 
 //    DAYTONWRIGHTT1
-include <airfoil/daytonwrightt1.scad>
+include <openscad-airfoil/d/daytonwrightt1.scad>
 af_vec_path   = airfoil_DAYTONWRIGHTT1_path ();
 af_vec_slice  = airfoil_DAYTONWRIGHTT1_slice ();
 af_vec_range  = airfoil_DAYTONWRIGHTT1_range ();

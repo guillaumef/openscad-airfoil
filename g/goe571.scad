@@ -1,9 +1,9 @@
-/* Generated from goe571.dat
+/* Generated from g/goe571.dat
 
 Usage (copy/paste):
 
 //    GOE571
-include <airfoil/goe571.scad>
+include <openscad-airfoil/g/goe571.scad>
 af_vec_path   = airfoil_GOE571_path ();
 af_vec_slice  = airfoil_GOE571_slice ();
 af_vec_range  = airfoil_GOE571_range ();

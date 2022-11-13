@@ -1,9 +1,9 @@
-/* Generated from e664.dat
+/* Generated from e/e664.dat
 
 Usage (copy/paste):
 
 //    E664
-include <airfoil/e664.scad>
+include <openscad-airfoil/e/e664.scad>
 af_vec_path   = airfoil_E664_path ();
 af_vec_slice  = airfoil_E664_slice ();
 af_vec_range  = airfoil_E664_range ();

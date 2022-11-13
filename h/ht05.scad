@@ -1,9 +1,9 @@
-/* Generated from ht05.dat
+/* Generated from h/ht05.dat
 
 Usage (copy/paste):
 
 //    HT05
-include <airfoil/ht05.scad>
+include <openscad-airfoil/h/ht05.scad>
 af_vec_path   = airfoil_HT05_path ();
 af_vec_slice  = airfoil_HT05_slice ();
 af_vec_range  = airfoil_HT05_range ();

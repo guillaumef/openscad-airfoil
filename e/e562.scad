@@ -1,9 +1,9 @@
-/* Generated from e562.dat
+/* Generated from e/e562.dat
 
 Usage (copy/paste):
 
 //    E562
-include <airfoil/e562.scad>
+include <openscad-airfoil/e/e562.scad>
 af_vec_path   = airfoil_E562_path ();
 af_vec_slice  = airfoil_E562_slice ();
 af_vec_range  = airfoil_E562_range ();

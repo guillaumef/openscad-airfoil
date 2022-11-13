@@ -1,9 +1,9 @@
-/* Generated from s4083.dat
+/* Generated from s/s4083.dat
 
 Usage (copy/paste):
 
 //    S4083
-include <airfoil/s4083.scad>
+include <openscad-airfoil/s/s4083.scad>
 af_vec_path   = airfoil_S4083_path ();
 af_vec_slice  = airfoil_S4083_slice ();
 af_vec_range  = airfoil_S4083_range ();

@@ -1,9 +1,9 @@
-/* Generated from a18sm.dat
+/* Generated from a/a18sm.dat
 
 Usage (copy/paste):
 
 //    A18SM
-include <airfoil/a18sm.scad>
+include <openscad-airfoil/a/a18sm.scad>
 af_vec_path   = airfoil_A18SM_path ();
 af_vec_slice  = airfoil_A18SM_slice ();
 af_vec_range  = airfoil_A18SM_range ();

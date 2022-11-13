@@ -1,9 +1,9 @@
-/* Generated from bacj.dat
+/* Generated from b/bacj.dat
 
 Usage (copy/paste):
 
 //    BACJ
-include <airfoil/bacj.scad>
+include <openscad-airfoil/b/bacj.scad>
 af_vec_path   = airfoil_BACJ_path ();
 af_vec_slice  = airfoil_BACJ_slice ();
 af_vec_range  = airfoil_BACJ_range ();

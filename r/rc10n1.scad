@@ -1,9 +1,9 @@
-/* Generated from rc10n1.dat
+/* Generated from r/rc10n1.dat
 
 Usage (copy/paste):
 
 //    RC10N1
-include <airfoil/rc10n1.scad>
+include <openscad-airfoil/r/rc10n1.scad>
 af_vec_path   = airfoil_RC10N1_path ();
 af_vec_slice  = airfoil_RC10N1_slice ();
 af_vec_range  = airfoil_RC10N1_range ();

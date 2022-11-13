@@ -1,9 +1,9 @@
-/* Generated from sa7036.dat
+/* Generated from s/sa7036.dat
 
 Usage (copy/paste):
 
 //    SA7036
-include <airfoil/sa7036.scad>
+include <openscad-airfoil/s/sa7036.scad>
 af_vec_path   = airfoil_SA7036_path ();
 af_vec_slice  = airfoil_SA7036_slice ();
 af_vec_range  = airfoil_SA7036_range ();

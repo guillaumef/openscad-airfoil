@@ -1,9 +1,9 @@
-/* Generated from e657.dat
+/* Generated from e/e657.dat
 
 Usage (copy/paste):
 
 //    E657
-include <airfoil/e657.scad>
+include <openscad-airfoil/e/e657.scad>
 af_vec_path   = airfoil_E657_path ();
 af_vec_slice  = airfoil_E657_slice ();
 af_vec_range  = airfoil_E657_range ();

@@ -1,9 +1,9 @@
-/* Generated from sc20612.dat
+/* Generated from s/sc20612.dat
 
 Usage (copy/paste):
 
 //    SC20612
-include <airfoil/sc20612.scad>
+include <openscad-airfoil/s/sc20612.scad>
 af_vec_path   = airfoil_SC20612_path ();
 af_vec_slice  = airfoil_SC20612_slice ();
 af_vec_range  = airfoil_SC20612_range ();

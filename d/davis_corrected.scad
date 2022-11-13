@@ -1,9 +1,9 @@
-/* Generated from davis_corrected.dat
+/* Generated from d/davis_corrected.dat
 
 Usage (copy/paste):
 
 //    DAVISCORRECTED
-include <airfoil/davis_corrected.scad>
+include <openscad-airfoil/d/davis_corrected.scad>
 af_vec_path   = airfoil_DAVISCORRECTED_path ();
 af_vec_slice  = airfoil_DAVISCORRECTED_slice ();
 af_vec_range  = airfoil_DAVISCORRECTED_range ();

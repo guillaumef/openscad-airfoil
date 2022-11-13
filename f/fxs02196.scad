@@ -1,9 +1,9 @@
-/* Generated from fxs02196.dat
+/* Generated from f/fxs02196.dat
 
 Usage (copy/paste):
 
 //    FXS02196
-include <airfoil/fxs02196.scad>
+include <openscad-airfoil/f/fxs02196.scad>
 af_vec_path   = airfoil_FXS02196_path ();
 af_vec_slice  = airfoil_FXS02196_slice ();
 af_vec_range  = airfoil_FXS02196_range ();

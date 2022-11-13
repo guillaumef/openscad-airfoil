@@ -1,9 +1,9 @@
-/* Generated from goe703.dat
+/* Generated from g/goe703.dat
 
 Usage (copy/paste):
 
 //    GOE703
-include <airfoil/goe703.scad>
+include <openscad-airfoil/g/goe703.scad>
 af_vec_path   = airfoil_GOE703_path ();
 af_vec_slice  = airfoil_GOE703_slice ();
 af_vec_range  = airfoil_GOE703_range ();

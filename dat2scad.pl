@@ -3,6 +3,7 @@
 use strict;
 use File::Basename qw/fileparse/;
 use Math::Spline();
+use Data::Dumper;
 
 my ($scale,$dat,$scad) = @ARGV;
 
@@ -49,10 +50,15 @@ while (<FH>) {
   my ($x,$y) = ($l =~ /^([0-9.Ee+-]+)\s+([0-9.Ee+-]+)$/);
   if ($x || $y) {
     cS2D( \$x ); cS2D( \$y );
+    if ($x<0) { $x = 0.0; }
     next if ($prevxpos == $x);
     $prevxpos = $x;
     $x *= $scale;
     $y *= $scale;
+    if (@aplot && $aplot[$#aplot][0] == $x && $aplot[$#aplot][1] == $y) {
+      print Dumper( \@aplot );
+exit;
+    }
     push(@aplot,[$x,$y]);
     if ($x < $lowestx) { $lowestx = $x; $lowestxpos = $#aplot; }
   }
@@ -67,6 +73,7 @@ if ($#aplot < 10) {
 if ($aplot[0][0] != 1.0)        { $aplot[0][0] = $scale; }
 if ($aplot[$#aplot][0] != 1.0)  { $aplot[$#aplot][0] = $scale; }
 if ($lowestx != 0.0)            { $aplot[$lowestxpos][0] = 0.0; }
+
 
 ## Upper/Lower parts
 #
@@ -92,16 +99,19 @@ foreach my $xy (@aplot) {
 }
 my $upperspline = Math::Spline->new( $aupper[0], $aupper[1] );
 my $lowerspline = Math::Spline->new( $alower[0], $alower[1] );
+my $with_lower = @{$alower[0]} ? 1:0;
 
 my @aplotuplow;
 my @aplotexpand;
 my @aplotexpandlower;
-foreach my $x (sort { $b <=> $a } keys %hallx) {
+my ($up,$low);
 
-  my $up = $upperspline->evaluate( $x );
-  my $low = $lowerspline->evaluate( $x );
+foreach my $x (sort { $b <=> $a } keys %hallx) {
+  $up   = $upperspline->evaluate( $x );
+  $low  = ($with_lower) ? $lowerspline->evaluate( $x ) : 0;
+
   push @aplotexpand, [$x, $up];
-  unshift @aplotexpandlower, [$x, $low];
+  unshift @aplotexpandlower, [$x, $low]   if ($with_lower);
   unshift @aplotuplow, [ $x, $up, $low ];
 }
 push @aplotexpand, @aplotexpandlower;
@@ -109,7 +119,7 @@ push @aplotexpand, @aplotexpandlower;
 
 my $DOC = <<EOF;
 //    $name
-include <airfoil/$scad>
+include <openscad-airfoil/$scad>
 af_vec_path   = airfoil_$name\_path ();
 af_vec_slice  = airfoil_$name\_slice ();
 af_vec_range  = airfoil_$name\_range ();

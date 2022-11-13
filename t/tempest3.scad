@@ -1,9 +1,9 @@
-/* Generated from tempest3.dat
+/* Generated from t/tempest3.dat
 
 Usage (copy/paste):
 
 //    TEMPEST3
-include <airfoil/tempest3.scad>
+include <openscad-airfoil/t/tempest3.scad>
 af_vec_path   = airfoil_TEMPEST3_path ();
 af_vec_slice  = airfoil_TEMPEST3_slice ();
 af_vec_range  = airfoil_TEMPEST3_range ();

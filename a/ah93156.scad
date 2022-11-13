@@ -1,9 +1,9 @@
-/* Generated from ah93156.dat
+/* Generated from a/ah93156.dat
 
 Usage (copy/paste):
 
 //    AH93156
-include <airfoil/ah93156.scad>
+include <openscad-airfoil/a/ah93156.scad>
 af_vec_path   = airfoil_AH93156_path ();
 af_vec_slice  = airfoil_AH93156_slice ();
 af_vec_range  = airfoil_AH93156_range ();

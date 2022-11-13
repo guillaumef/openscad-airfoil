@@ -1,9 +1,9 @@
-/* Generated from psu94097.dat
+/* Generated from p/psu94097.dat
 
 Usage (copy/paste):
 
 //    PSU94097
-include <airfoil/psu94097.scad>
+include <openscad-airfoil/p/psu94097.scad>
 af_vec_path   = airfoil_PSU94097_path ();
 af_vec_slice  = airfoil_PSU94097_slice ();
 af_vec_range  = airfoil_PSU94097_range ();

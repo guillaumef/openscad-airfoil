@@ -1,9 +1,9 @@
-/* Generated from fx67k150.dat
+/* Generated from f/fx67k150.dat
 
 Usage (copy/paste):
 
 //    FX67K150
-include <airfoil/fx67k150.scad>
+include <openscad-airfoil/f/fx67k150.scad>
 af_vec_path   = airfoil_FX67K150_path ();
 af_vec_slice  = airfoil_FX67K150_slice ();
 af_vec_range  = airfoil_FX67K150_range ();

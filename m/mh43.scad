@@ -1,9 +1,9 @@
-/* Generated from mh43.dat
+/* Generated from m/mh43.dat
 
 Usage (copy/paste):
 
 //    MH43
-include <airfoil/mh43.scad>
+include <openscad-airfoil/m/mh43.scad>
 af_vec_path   = airfoil_MH43_path ();
 af_vec_slice  = airfoil_MH43_slice ();
 af_vec_range  = airfoil_MH43_range ();

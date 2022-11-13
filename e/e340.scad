@@ -1,9 +1,9 @@
-/* Generated from e340.dat
+/* Generated from e/e340.dat
 
 Usage (copy/paste):
 
 //    E340
-include <airfoil/e340.scad>
+include <openscad-airfoil/e/e340.scad>
 af_vec_path   = airfoil_E340_path ();
 af_vec_slice  = airfoil_E340_slice ();
 af_vec_range  = airfoil_E340_range ();

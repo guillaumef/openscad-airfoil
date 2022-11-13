@@ -1,9 +1,9 @@
-/* Generated from nn7mk20.dat
+/* Generated from n/nn7mk20.dat
 
 Usage (copy/paste):
 
 //    NN7MK20
-include <airfoil/nn7mk20.scad>
+include <openscad-airfoil/n/nn7mk20.scad>
 af_vec_path   = airfoil_NN7MK20_path ();
 af_vec_slice  = airfoil_NN7MK20_slice ();
 af_vec_range  = airfoil_NN7MK20_range ();

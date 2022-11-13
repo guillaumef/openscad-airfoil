@@ -1,9 +1,9 @@
-/* Generated from e639.dat
+/* Generated from e/e639.dat
 
 Usage (copy/paste):
 
 //    E639
-include <airfoil/e639.scad>
+include <openscad-airfoil/e/e639.scad>
 af_vec_path   = airfoil_E639_path ();
 af_vec_slice  = airfoil_E639_slice ();
 af_vec_range  = airfoil_E639_range ();

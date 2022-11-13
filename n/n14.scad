@@ -1,9 +1,9 @@
-/* Generated from n14.dat
+/* Generated from n/n14.dat
 
 Usage (copy/paste):
 
 //    N14
-include <airfoil/n14.scad>
+include <openscad-airfoil/n/n14.scad>
 af_vec_path   = airfoil_N14_path ();
 af_vec_slice  = airfoil_N14_slice ();
 af_vec_range  = airfoil_N14_range ();

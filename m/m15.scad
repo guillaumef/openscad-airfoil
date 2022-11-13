@@ -1,9 +1,9 @@
-/* Generated from m15.dat
+/* Generated from m/m15.dat
 
 Usage (copy/paste):
 
 //    M15
-include <airfoil/m15.scad>
+include <openscad-airfoil/m/m15.scad>
 af_vec_path   = airfoil_M15_path ();
 af_vec_slice  = airfoil_M15_slice ();
 af_vec_range  = airfoil_M15_range ();

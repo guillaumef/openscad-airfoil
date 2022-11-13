@@ -1,9 +1,9 @@
-/* Generated from e604.dat
+/* Generated from e/e604.dat
 
 Usage (copy/paste):
 
 //    E604
-include <airfoil/e604.scad>
+include <openscad-airfoil/e/e604.scad>
 af_vec_path   = airfoil_E604_path ();
 af_vec_slice  = airfoil_E604_slice ();
 af_vec_range  = airfoil_E604_range ();

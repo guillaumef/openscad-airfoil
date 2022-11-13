@@ -1,9 +1,9 @@
-/* Generated from nlf414f.dat
+/* Generated from n/nlf414f.dat
 
 Usage (copy/paste):
 
 //    NLF414F
-include <airfoil/nlf414f.scad>
+include <openscad-airfoil/n/nlf414f.scad>
 af_vec_path   = airfoil_NLF414F_path ();
 af_vec_slice  = airfoil_NLF414F_slice ();
 af_vec_range  = airfoil_NLF414F_range ();

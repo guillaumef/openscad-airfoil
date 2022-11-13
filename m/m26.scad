@@ -1,9 +1,9 @@
-/* Generated from m26.dat
+/* Generated from m/m26.dat
 
 Usage (copy/paste):
 
 //    M26
-include <airfoil/m26.scad>
+include <openscad-airfoil/m/m26.scad>
 af_vec_path   = airfoil_M26_path ();
 af_vec_slice  = airfoil_M26_slice ();
 af_vec_range  = airfoil_M26_range ();

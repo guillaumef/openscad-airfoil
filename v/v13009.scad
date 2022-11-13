@@ -1,9 +1,9 @@
-/* Generated from v13009.dat
+/* Generated from v/v13009.dat
 
 Usage (copy/paste):
 
 //    V13009
-include <airfoil/v13009.scad>
+include <openscad-airfoil/v/v13009.scad>
 af_vec_path   = airfoil_V13009_path ();
 af_vec_slice  = airfoil_V13009_slice ();
 af_vec_range  = airfoil_V13009_range ();

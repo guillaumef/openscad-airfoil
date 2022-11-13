@@ -1,9 +1,9 @@
-/* Generated from s3010.dat
+/* Generated from s/s3010.dat
 
 Usage (copy/paste):
 
 //    S3010
-include <airfoil/s3010.scad>
+include <openscad-airfoil/s/s3010.scad>
 af_vec_path   = airfoil_S3010_path ();
 af_vec_slice  = airfoil_S3010_slice ();
 af_vec_range  = airfoil_S3010_range ();

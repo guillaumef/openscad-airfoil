@@ -1,9 +1,9 @@
-/* Generated from pt40.dat
+/* Generated from p/pt40.dat
 
 Usage (copy/paste):
 
 //    PT40
-include <airfoil/pt40.scad>
+include <openscad-airfoil/p/pt40.scad>
 af_vec_path   = airfoil_PT40_path ();
 af_vec_slice  = airfoil_PT40_slice ();
 af_vec_range  = airfoil_PT40_range ();

@@ -1,9 +1,9 @@
-/* Generated from s2062.dat
+/* Generated from s/s2062.dat
 
 Usage (copy/paste):
 
 //    S2062
-include <airfoil/s2062.scad>
+include <openscad-airfoil/s/s2062.scad>
 af_vec_path   = airfoil_S2062_path ();
 af_vec_slice  = airfoil_S2062_slice ();
 af_vec_range  = airfoil_S2062_range ();

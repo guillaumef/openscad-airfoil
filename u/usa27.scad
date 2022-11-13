@@ -1,9 +1,9 @@
-/* Generated from usa27.dat
+/* Generated from u/usa27.dat
 
 Usage (copy/paste):
 
 //    USA27
-include <airfoil/usa27.scad>
+include <openscad-airfoil/u/usa27.scad>
 af_vec_path   = airfoil_USA27_path ();
 af_vec_slice  = airfoil_USA27_slice ();
 af_vec_range  = airfoil_USA27_range ();

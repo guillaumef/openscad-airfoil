@@ -1,9 +1,9 @@
-/* Generated from ssca09.dat
+/* Generated from s/ssca09.dat
 
 Usage (copy/paste):
 
 //    SSCA09
-include <airfoil/ssca09.scad>
+include <openscad-airfoil/s/ssca09.scad>
 af_vec_path   = airfoil_SSCA09_path ();
 af_vec_slice  = airfoil_SSCA09_slice ();
 af_vec_range  = airfoil_SSCA09_range ();

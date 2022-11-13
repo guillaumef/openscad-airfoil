@@ -1,9 +1,9 @@
-/* Generated from mh110.dat
+/* Generated from m/mh110.dat
 
 Usage (copy/paste):
 
 //    MH110
-include <airfoil/mh110.scad>
+include <openscad-airfoil/m/mh110.scad>
 af_vec_path   = airfoil_MH110_path ();
 af_vec_slice  = airfoil_MH110_slice ();
 af_vec_range  = airfoil_MH110_range ();

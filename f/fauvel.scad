@@ -1,9 +1,9 @@
-/* Generated from fauvel.dat
+/* Generated from f/fauvel.dat
 
 Usage (copy/paste):
 
 //    FAUVEL
-include <airfoil/fauvel.scad>
+include <openscad-airfoil/f/fauvel.scad>
 af_vec_path   = airfoil_FAUVEL_path ();
 af_vec_slice  = airfoil_FAUVEL_slice ();
 af_vec_range  = airfoil_FAUVEL_range ();

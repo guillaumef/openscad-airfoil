@@ -1,9 +1,9 @@
-/* Generated from n0009sm.dat
+/* Generated from n/n0009sm.dat
 
 Usage (copy/paste):
 
 //    N0009SM
-include <airfoil/n0009sm.scad>
+include <openscad-airfoil/n/n0009sm.scad>
 af_vec_path   = airfoil_N0009SM_path ();
 af_vec_slice  = airfoil_N0009SM_slice ();
 af_vec_range  = airfoil_N0009SM_range ();

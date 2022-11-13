@@ -1,9 +1,9 @@
-/* Generated from ua79sff.dat
+/* Generated from u/ua79sff.dat
 
 Usage (copy/paste):
 
 //    UA79SFF
-include <airfoil/ua79sff.scad>
+include <openscad-airfoil/u/ua79sff.scad>
 af_vec_path   = airfoil_UA79SFF_path ();
 af_vec_slice  = airfoil_UA79SFF_slice ();
 af_vec_range  = airfoil_UA79SFF_range ();

@@ -1,9 +1,9 @@
-/* Generated from nl722362.dat
+/* Generated from n/nl722362.dat
 
 Usage (copy/paste):
 
 //    NL722362
-include <airfoil/nl722362.scad>
+include <openscad-airfoil/n/nl722362.scad>
 af_vec_path   = airfoil_NL722362_path ();
 af_vec_slice  = airfoil_NL722362_slice ();
 af_vec_range  = airfoil_NL722362_range ();

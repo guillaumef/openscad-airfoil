@@ -1,9 +1,9 @@
-/* Generated from amsoil1.dat
+/* Generated from a/amsoil1.dat
 
 Usage (copy/paste):
 
 //    AMSOIL1
-include <airfoil/amsoil1.scad>
+include <openscad-airfoil/a/amsoil1.scad>
 af_vec_path   = airfoil_AMSOIL1_path ();
 af_vec_slice  = airfoil_AMSOIL1_slice ();
 af_vec_range  = airfoil_AMSOIL1_range ();

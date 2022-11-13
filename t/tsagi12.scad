@@ -1,9 +1,9 @@
-/* Generated from tsagi12.dat
+/* Generated from t/tsagi12.dat
 
 Usage (copy/paste):
 
 //    TSAGI12
-include <airfoil/tsagi12.scad>
+include <openscad-airfoil/t/tsagi12.scad>
 af_vec_path   = airfoil_TSAGI12_path ();
 af_vec_slice  = airfoil_TSAGI12_slice ();
 af_vec_range  = airfoil_TSAGI12_range ();

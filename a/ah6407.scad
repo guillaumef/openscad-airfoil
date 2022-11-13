@@ -1,9 +1,9 @@
-/* Generated from ah6407.dat
+/* Generated from a/ah6407.dat
 
 Usage (copy/paste):
 
 //    AH6407
-include <airfoil/ah6407.scad>
+include <openscad-airfoil/a/ah6407.scad>
 af_vec_path   = airfoil_AH6407_path ();
 af_vec_slice  = airfoil_AH6407_slice ();
 af_vec_range  = airfoil_AH6407_range ();

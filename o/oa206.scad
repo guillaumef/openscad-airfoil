@@ -1,9 +1,9 @@
-/* Generated from oa206.dat
+/* Generated from o/oa206.dat
 
 Usage (copy/paste):
 
 //    OA206
-include <airfoil/oa206.scad>
+include <openscad-airfoil/o/oa206.scad>
 af_vec_path   = airfoil_OA206_path ();
 af_vec_slice  = airfoil_OA206_slice ();
 af_vec_range  = airfoil_OA206_range ();

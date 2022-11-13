@@ -1,9 +1,9 @@
-/* Generated from v43012.dat
+/* Generated from v/v43012.dat
 
 Usage (copy/paste):
 
 //    V43012
-include <airfoil/v43012.scad>
+include <openscad-airfoil/v/v43012.scad>
 af_vec_path   = airfoil_V43012_path ();
 af_vec_slice  = airfoil_V43012_slice ();
 af_vec_range  = airfoil_V43012_range ();

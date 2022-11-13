@@ -1,9 +1,9 @@
-/* Generated from rc0864c.dat
+/* Generated from r/rc0864c.dat
 
 Usage (copy/paste):
 
 //    RC0864C
-include <airfoil/rc0864c.scad>
+include <openscad-airfoil/r/rc0864c.scad>
 af_vec_path   = airfoil_RC0864C_path ();
 af_vec_slice  = airfoil_RC0864C_slice ();
 af_vec_range  = airfoil_RC0864C_range ();

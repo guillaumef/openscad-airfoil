@@ -1,9 +1,9 @@
-/* Generated from sd7043.dat
+/* Generated from s/sd7043.dat
 
 Usage (copy/paste):
 
 //    SD7043
-include <airfoil/sd7043.scad>
+include <openscad-airfoil/s/sd7043.scad>
 af_vec_path   = airfoil_SD7043_path ();
 af_vec_slice  = airfoil_SD7043_slice ();
 af_vec_range  = airfoil_SD7043_range ();

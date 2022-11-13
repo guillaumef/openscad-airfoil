@@ -1,9 +1,9 @@
-/* Generated from e420.dat
+/* Generated from e/e420.dat
 
 Usage (copy/paste):
 
 //    E420
-include <airfoil/e420.scad>
+include <openscad-airfoil/e/e420.scad>
 af_vec_path   = airfoil_E420_path ();
 af_vec_slice  = airfoil_E420_slice ();
 af_vec_range  = airfoil_E420_range ();

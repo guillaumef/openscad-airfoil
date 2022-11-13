@@ -1,9 +1,9 @@
-/* Generated from as5046.dat
+/* Generated from a/as5046.dat
 
 Usage (copy/paste):
 
 //    AS5046
-include <airfoil/as5046.scad>
+include <openscad-airfoil/a/as5046.scad>
 af_vec_path   = airfoil_AS5046_path ();
 af_vec_slice  = airfoil_AS5046_slice ();
 af_vec_range  = airfoil_AS5046_range ();

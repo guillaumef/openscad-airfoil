@@ -1,9 +1,9 @@
-/* Generated from fx84w097.dat
+/* Generated from f/fx84w097.dat
 
 Usage (copy/paste):
 
 //    FX84W097
-include <airfoil/fx84w097.scad>
+include <openscad-airfoil/f/fx84w097.scad>
 af_vec_path   = airfoil_FX84W097_path ();
 af_vec_slice  = airfoil_FX84W097_slice ();
 af_vec_range  = airfoil_FX84W097_range ();

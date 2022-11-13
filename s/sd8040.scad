@@ -1,9 +1,9 @@
-/* Generated from sd8040.dat
+/* Generated from s/sd8040.dat
 
 Usage (copy/paste):
 
 //    SD8040
-include <airfoil/sd8040.scad>
+include <openscad-airfoil/s/sd8040.scad>
 af_vec_path   = airfoil_SD8040_path ();
 af_vec_slice  = airfoil_SD8040_slice ();
 af_vec_range  = airfoil_SD8040_range ();

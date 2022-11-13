@@ -1,9 +1,9 @@
-/* Generated from giiie.dat
+/* Generated from g/giiie.dat
 
 Usage (copy/paste):
 
 //    GIIIE
-include <airfoil/giiie.scad>
+include <openscad-airfoil/g/giiie.scad>
 af_vec_path   = airfoil_GIIIE_path ();
 af_vec_slice  = airfoil_GIIIE_slice ();
 af_vec_range  = airfoil_GIIIE_range ();

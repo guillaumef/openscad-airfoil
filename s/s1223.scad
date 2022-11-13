@@ -1,9 +1,9 @@
-/* Generated from s1223.dat
+/* Generated from s/s1223.dat
 
 Usage (copy/paste):
 
 //    S1223
-include <airfoil/s1223.scad>
+include <openscad-airfoil/s/s1223.scad>
 af_vec_path   = airfoil_S1223_path ();
 af_vec_slice  = airfoil_S1223_slice ();
 af_vec_range  = airfoil_S1223_range ();

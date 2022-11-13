@@ -1,9 +1,9 @@
-/* Generated from eiffel385.dat
+/* Generated from e/eiffel385.dat
 
 Usage (copy/paste):
 
 //    EIFFEL385
-include <airfoil/eiffel385.scad>
+include <openscad-airfoil/e/eiffel385.scad>
 af_vec_path   = airfoil_EIFFEL385_path ();
 af_vec_slice  = airfoil_EIFFEL385_slice ();
 af_vec_range  = airfoil_EIFFEL385_range ();

@@ -1,9 +1,9 @@
-/* Generated from hq2010.dat
+/* Generated from h/hq2010.dat
 
 Usage (copy/paste):
 
 //    HQ2010
-include <airfoil/hq2010.scad>
+include <openscad-airfoil/h/hq2010.scad>
 af_vec_path   = airfoil_HQ2010_path ();
 af_vec_slice  = airfoil_HQ2010_slice ();
 af_vec_range  = airfoil_HQ2010_range ();

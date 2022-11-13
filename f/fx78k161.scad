@@ -1,9 +1,9 @@
-/* Generated from fx78k161.dat
+/* Generated from f/fx78k161.dat
 
 Usage (copy/paste):
 
 //    FX78K161
-include <airfoil/fx78k161.scad>
+include <openscad-airfoil/f/fx78k161.scad>
 af_vec_path   = airfoil_FX78K161_path ();
 af_vec_slice  = airfoil_FX78K161_slice ();
 af_vec_range  = airfoil_FX78K161_range ();

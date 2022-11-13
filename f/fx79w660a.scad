@@ -1,9 +1,9 @@
-/* Generated from fx79w660a.dat
+/* Generated from f/fx79w660a.dat
 
 Usage (copy/paste):
 
 //    FX79W660A
-include <airfoil/fx79w660a.scad>
+include <openscad-airfoil/f/fx79w660a.scad>
 af_vec_path   = airfoil_FX79W660A_path ();
 af_vec_slice  = airfoil_FX79W660A_slice ();
 af_vec_range  = airfoil_FX79W660A_range ();

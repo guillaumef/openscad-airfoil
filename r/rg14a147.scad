@@ -1,9 +1,9 @@
-/* Generated from rg14a147.dat
+/* Generated from r/rg14a147.dat
 
 Usage (copy/paste):
 
 //    RG14A147
-include <airfoil/rg14a147.scad>
+include <openscad-airfoil/r/rg14a147.scad>
 af_vec_path   = airfoil_RG14A147_path ();
 af_vec_slice  = airfoil_RG14A147_slice ();
 af_vec_range  = airfoil_RG14A147_range ();

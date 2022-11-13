@@ -1,9 +1,9 @@
-/* Generated from e201.dat
+/* Generated from e/e201.dat
 
 Usage (copy/paste):
 
 //    E201
-include <airfoil/e201.scad>
+include <openscad-airfoil/e/e201.scad>
 af_vec_path   = airfoil_E201_path ();
 af_vec_slice  = airfoil_E201_slice ();
 af_vec_range  = airfoil_E201_range ();

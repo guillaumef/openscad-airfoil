@@ -1,9 +1,9 @@
-/* Generated from goe610bm.dat
+/* Generated from g/goe610bm.dat
 
 Usage (copy/paste):
 
 //    GOE610BM
-include <airfoil/goe610bm.scad>
+include <openscad-airfoil/g/goe610bm.scad>
 af_vec_path   = airfoil_GOE610BM_path ();
 af_vec_slice  = airfoil_GOE610BM_slice ();
 af_vec_range  = airfoil_GOE610BM_range ();

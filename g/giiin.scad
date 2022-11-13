@@ -1,9 +1,9 @@
-/* Generated from giiin.dat
+/* Generated from g/giiin.dat
 
 Usage (copy/paste):
 
 //    GIIIN
-include <airfoil/giiin.scad>
+include <openscad-airfoil/g/giiin.scad>
 af_vec_path   = airfoil_GIIIN_path ();
 af_vec_slice  = airfoil_GIIIN_slice ();
 af_vec_range  = airfoil_GIIIN_range ();

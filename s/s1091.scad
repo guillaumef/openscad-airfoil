@@ -1,9 +1,9 @@
-/* Generated from s1091.dat
+/* Generated from s/s1091.dat
 
 Usage (copy/paste):
 
 //    S1091
-include <airfoil/s1091.scad>
+include <openscad-airfoil/s/s1091.scad>
 af_vec_path   = airfoil_S1091_path ();
 af_vec_slice  = airfoil_S1091_slice ();
 af_vec_range  = airfoil_S1091_range ();

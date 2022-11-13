@@ -1,9 +1,9 @@
-/* Generated from m685.dat
+/* Generated from m/m685.dat
 
 Usage (copy/paste):
 
 //    M685
-include <airfoil/m685.scad>
+include <openscad-airfoil/m/m685.scad>
 af_vec_path   = airfoil_M685_path ();
 af_vec_slice  = airfoil_M685_slice ();
 af_vec_range  = airfoil_M685_range ();

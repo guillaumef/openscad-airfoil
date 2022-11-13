@@ -1,9 +1,9 @@
-/* Generated from naca4421.dat
+/* Generated from n/naca4421.dat
 
 Usage (copy/paste):
 
 //    NACA4421
-include <airfoil/naca4421.scad>
+include <openscad-airfoil/n/naca4421.scad>
 af_vec_path   = airfoil_NACA4421_path ();
 af_vec_slice  = airfoil_NACA4421_slice ();
 af_vec_range  = airfoil_NACA4421_range ();
@@ -12,7 +12,7 @@ airfoil_NACA4421 (); // 2d object
 
 */
 function airfoil_NACA4421_path () = [
-     [         100 ,           0 ]
+     [         100 ,        0.22 ]
     ,[          95 ,        2.11 ]
     ,[          90 ,        3.85 ]
     ,[          80 ,        6.91 ]
@@ -47,7 +47,7 @@ function airfoil_NACA4421_path () = [
     ,[          80 ,       -2.31 ]
     ,[          90 ,       -1.27 ]
     ,[          95 ,       -0.74 ]
-    ,[         100 ,           0 ]
+    ,[         100 ,       -0.22 ]
 ];
 function airfoil_NACA4421_slice () = [
      [ 0, 0, 0 ]
@@ -67,7 +67,7 @@ function airfoil_NACA4421_slice () = [
     ,[ 80, 6.91, -2.31 ]
     ,[ 90, 3.85, -1.27 ]
     ,[ 95, 2.11, -0.74 ]
-    ,[ 100, 0, 0 ]
+    ,[ 100, 0.22, -0.22 ]
 ];
 function airfoil_NACA4421_range () = [
   0, 100,

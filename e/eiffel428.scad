@@ -1,9 +1,9 @@
-/* Generated from eiffel428.dat
+/* Generated from e/eiffel428.dat
 
 Usage (copy/paste):
 
 //    EIFFEL428
-include <airfoil/eiffel428.scad>
+include <openscad-airfoil/e/eiffel428.scad>
 af_vec_path   = airfoil_EIFFEL428_path ();
 af_vec_slice  = airfoil_EIFFEL428_slice ();
 af_vec_range  = airfoil_EIFFEL428_range ();

@@ -1,9 +1,9 @@
-/* Generated from fx66h60.dat
+/* Generated from f/fx66h60.dat
 
 Usage (copy/paste):
 
 //    FX66H60
-include <airfoil/fx66h60.scad>
+include <openscad-airfoil/f/fx66h60.scad>
 af_vec_path   = airfoil_FX66H60_path ();
 af_vec_slice  = airfoil_FX66H60_slice ();
 af_vec_range  = airfoil_FX66H60_range ();

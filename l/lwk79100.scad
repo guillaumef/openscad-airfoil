@@ -1,9 +1,9 @@
-/* Generated from lwk79100.dat
+/* Generated from l/lwk79100.dat
 
 Usage (copy/paste):
 
 //    LWK79100
-include <airfoil/lwk79100.scad>
+include <openscad-airfoil/l/lwk79100.scad>
 af_vec_path   = airfoil_LWK79100_path ();
 af_vec_slice  = airfoil_LWK79100_slice ();
 af_vec_range  = airfoil_LWK79100_range ();

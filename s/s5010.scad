@@ -1,9 +1,9 @@
-/* Generated from s5010.dat
+/* Generated from s/s5010.dat
 
 Usage (copy/paste):
 
 //    S5010
-include <airfoil/s5010.scad>
+include <openscad-airfoil/s/s5010.scad>
 af_vec_path   = airfoil_S5010_path ();
 af_vec_slice  = airfoil_S5010_slice ();
 af_vec_range  = airfoil_S5010_range ();

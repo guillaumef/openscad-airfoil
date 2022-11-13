@@ -1,9 +1,9 @@
-/* Generated from sd6080.dat
+/* Generated from s/sd6080.dat
 
 Usage (copy/paste):
 
 //    SD6080
-include <airfoil/sd6080.scad>
+include <openscad-airfoil/s/sd6080.scad>
 af_vec_path   = airfoil_SD6080_path ();
 af_vec_slice  = airfoil_SD6080_slice ();
 af_vec_range  = airfoil_SD6080_range ();

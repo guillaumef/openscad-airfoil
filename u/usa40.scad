@@ -1,9 +1,9 @@
-/* Generated from usa40.dat
+/* Generated from u/usa40.dat
 
 Usage (copy/paste):
 
 //    USA40
-include <airfoil/usa40.scad>
+include <openscad-airfoil/u/usa40.scad>
 af_vec_path   = airfoil_USA40_path ();
 af_vec_slice  = airfoil_USA40_slice ();
 af_vec_range  = airfoil_USA40_range ();

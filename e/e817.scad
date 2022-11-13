@@ -1,9 +1,9 @@
-/* Generated from e817.dat
+/* Generated from e/e817.dat
 
 Usage (copy/paste):
 
 //    E817
-include <airfoil/e817.scad>
+include <openscad-airfoil/e/e817.scad>
 af_vec_path   = airfoil_E817_path ();
 af_vec_slice  = airfoil_E817_slice ();
 af_vec_range  = airfoil_E817_range ();

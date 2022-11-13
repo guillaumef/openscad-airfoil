@@ -1,9 +1,9 @@
-/* Generated from whitcomb.dat
+/* Generated from w/whitcomb.dat
 
 Usage (copy/paste):
 
 //    WHITCOMB
-include <airfoil/whitcomb.scad>
+include <openscad-airfoil/w/whitcomb.scad>
 af_vec_path   = airfoil_WHITCOMB_path ();
 af_vec_slice  = airfoil_WHITCOMB_slice ();
 af_vec_range  = airfoil_WHITCOMB_range ();

@@ -1,9 +1,9 @@
-/* Generated from nacacyh.dat
+/* Generated from n/nacacyh.dat
 
 Usage (copy/paste):
 
 //    NACACYH
-include <airfoil/nacacyh.scad>
+include <openscad-airfoil/n/nacacyh.scad>
 af_vec_path   = airfoil_NACACYH_path ();
 af_vec_slice  = airfoil_NACACYH_slice ();
 af_vec_range  = airfoil_NACACYH_range ();

@@ -1,9 +1,9 @@
-/* Generated from usa98.dat
+/* Generated from u/usa98.dat
 
 Usage (copy/paste):
 
 //    USA98
-include <airfoil/usa98.scad>
+include <openscad-airfoil/u/usa98.scad>
 af_vec_path   = airfoil_USA98_path ();
 af_vec_slice  = airfoil_USA98_slice ();
 af_vec_range  = airfoil_USA98_range ();

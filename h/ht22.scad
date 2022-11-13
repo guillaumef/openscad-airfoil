@@ -1,9 +1,9 @@
-/* Generated from ht22.dat
+/* Generated from h/ht22.dat
 
 Usage (copy/paste):
 
 //    HT22
-include <airfoil/ht22.scad>
+include <openscad-airfoil/h/ht22.scad>
 af_vec_path   = airfoil_HT22_path ();
 af_vec_slice  = airfoil_HT22_slice ();
 af_vec_range  = airfoil_HT22_range ();

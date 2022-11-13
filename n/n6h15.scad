@@ -1,9 +1,9 @@
-/* Generated from n6h15.dat
+/* Generated from n/n6h15.dat
 
 Usage (copy/paste):
 
 //    N6H15
-include <airfoil/n6h15.scad>
+include <openscad-airfoil/n/n6h15.scad>
 af_vec_path   = airfoil_N6H15_path ();
 af_vec_slice  = airfoil_N6H15_slice ();
 af_vec_range  = airfoil_N6H15_range ();

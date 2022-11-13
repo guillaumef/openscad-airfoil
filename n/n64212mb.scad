@@ -1,9 +1,9 @@
-/* Generated from n64212mb.dat
+/* Generated from n/n64212mb.dat
 
 Usage (copy/paste):
 
 //    N64212MB
-include <airfoil/n64212mb.scad>
+include <openscad-airfoil/n/n64212mb.scad>
 af_vec_path   = airfoil_N64212MB_path ();
 af_vec_slice  = airfoil_N64212MB_slice ();
 af_vec_range  = airfoil_N64212MB_range ();

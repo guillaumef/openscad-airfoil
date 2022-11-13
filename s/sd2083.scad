@@ -1,9 +1,9 @@
-/* Generated from sd2083.dat
+/* Generated from s/sd2083.dat
 
 Usage (copy/paste):
 
 //    SD2083
-include <airfoil/sd2083.scad>
+include <openscad-airfoil/s/sd2083.scad>
 af_vec_path   = airfoil_SD2083_path ();
 af_vec_slice  = airfoil_SD2083_slice ();
 af_vec_range  = airfoil_SD2083_range ();

@@ -1,9 +1,9 @@
-/* Generated from sc1094r8.dat
+/* Generated from s/sc1094r8.dat
 
 Usage (copy/paste):
 
 //    SC1094R8
-include <airfoil/sc1094r8.scad>
+include <openscad-airfoil/s/sc1094r8.scad>
 af_vec_path   = airfoil_SC1094R8_path ();
 af_vec_slice  = airfoil_SC1094R8_slice ();
 af_vec_range  = airfoil_SC1094R8_range ();

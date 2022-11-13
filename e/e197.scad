@@ -1,9 +1,9 @@
-/* Generated from e197.dat
+/* Generated from e/e197.dat
 
 Usage (copy/paste):
 
 //    E197
-include <airfoil/e197.scad>
+include <openscad-airfoil/e/e197.scad>
 af_vec_path   = airfoil_E197_path ();
 af_vec_slice  = airfoil_E197_slice ();
 af_vec_range  = airfoil_E197_range ();

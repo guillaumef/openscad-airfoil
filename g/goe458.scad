@@ -1,9 +1,9 @@
-/* Generated from goe458.dat
+/* Generated from g/goe458.dat
 
 Usage (copy/paste):
 
 //    GOE458
-include <airfoil/goe458.scad>
+include <openscad-airfoil/g/goe458.scad>
 af_vec_path   = airfoil_GOE458_path ();
 af_vec_slice  = airfoil_GOE458_slice ();
 af_vec_range  = airfoil_GOE458_range ();

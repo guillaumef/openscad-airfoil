@@ -1,9 +1,9 @@
-/* Generated from e475.dat
+/* Generated from e/e475.dat
 
 Usage (copy/paste):
 
 //    E475
-include <airfoil/e475.scad>
+include <openscad-airfoil/e/e475.scad>
 af_vec_path   = airfoil_E475_path ();
 af_vec_slice  = airfoil_E475_slice ();
 af_vec_range  = airfoil_E475_range ();

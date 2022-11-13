@@ -1,9 +1,9 @@
-/* Generated from e326.dat
+/* Generated from e/e326.dat
 
 Usage (copy/paste):
 
 //    E326
-include <airfoil/e326.scad>
+include <openscad-airfoil/e/e326.scad>
 af_vec_path   = airfoil_E326_path ();
 af_vec_slice  = airfoil_E326_slice ();
 af_vec_range  = airfoil_E326_range ();

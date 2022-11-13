@@ -1,9 +1,9 @@
-/* Generated from nacam2.dat
+/* Generated from n/nacam2.dat
 
 Usage (copy/paste):
 
 //    NACAM2
-include <airfoil/nacam2.scad>
+include <openscad-airfoil/n/nacam2.scad>
 af_vec_path   = airfoil_NACAM2_path ();
 af_vec_slice  = airfoil_NACAM2_slice ();
 af_vec_range  = airfoil_NACAM2_range ();

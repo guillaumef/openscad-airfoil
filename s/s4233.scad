@@ -1,9 +1,9 @@
-/* Generated from s4233.dat
+/* Generated from s/s4233.dat
 
 Usage (copy/paste):
 
 //    S4233
-include <airfoil/s4233.scad>
+include <openscad-airfoil/s/s4233.scad>
 af_vec_path   = airfoil_S4233_path ();
 af_vec_slice  = airfoil_S4233_slice ();
 af_vec_range  = airfoil_S4233_range ();

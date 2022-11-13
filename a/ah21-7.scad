@@ -1,9 +1,9 @@
-/* Generated from ah21-7.dat
+/* Generated from a/ah21-7.dat
 
 Usage (copy/paste):
 
 //    AH217
-include <airfoil/ah21-7.scad>
+include <openscad-airfoil/a/ah21-7.scad>
 af_vec_path   = airfoil_AH217_path ();
 af_vec_slice  = airfoil_AH217_slice ();
 af_vec_range  = airfoil_AH217_range ();

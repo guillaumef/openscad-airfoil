@@ -1,9 +1,9 @@
-/* Generated from vr7b.dat
+/* Generated from v/vr7b.dat
 
 Usage (copy/paste):
 
 //    VR7B
-include <airfoil/vr7b.scad>
+include <openscad-airfoil/v/vr7b.scad>
 af_vec_path   = airfoil_VR7B_path ();
 af_vec_slice  = airfoil_VR7B_slice ();
 af_vec_range  = airfoil_VR7B_range ();

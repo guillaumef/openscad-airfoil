@@ -1,9 +1,9 @@
-/* Generated from isa571.dat
+/* Generated from i/isa571.dat
 
 Usage (copy/paste):
 
 //    ISA571
-include <airfoil/isa571.scad>
+include <openscad-airfoil/i/isa571.scad>
 af_vec_path   = airfoil_ISA571_path ();
 af_vec_slice  = airfoil_ISA571_slice ();
 af_vec_range  = airfoil_ISA571_range ();

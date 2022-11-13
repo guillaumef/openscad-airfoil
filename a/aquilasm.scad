@@ -1,9 +1,9 @@
-/* Generated from aquilasm.dat
+/* Generated from a/aquilasm.dat
 
 Usage (copy/paste):
 
 //    AQUILASM
-include <airfoil/aquilasm.scad>
+include <openscad-airfoil/a/aquilasm.scad>
 af_vec_path   = airfoil_AQUILASM_path ();
 af_vec_slice  = airfoil_AQUILASM_slice ();
 af_vec_range  = airfoil_AQUILASM_range ();

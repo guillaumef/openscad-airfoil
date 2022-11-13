@@ -1,9 +1,9 @@
-/* Generated from e544.dat
+/* Generated from e/e544.dat
 
 Usage (copy/paste):
 
 //    E544
-include <airfoil/e544.scad>
+include <openscad-airfoil/e/e544.scad>
 af_vec_path   = airfoil_E544_path ();
 af_vec_slice  = airfoil_E544_slice ();
 af_vec_range  = airfoil_E544_range ();

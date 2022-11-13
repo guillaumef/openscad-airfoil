@@ -1,9 +1,9 @@
-/* Generated from giiij.dat
+/* Generated from g/giiij.dat
 
 Usage (copy/paste):
 
 //    GIIIJ
-include <airfoil/giiij.scad>
+include <openscad-airfoil/g/giiij.scad>
 af_vec_path   = airfoil_GIIIJ_path ();
 af_vec_slice  = airfoil_GIIIJ_slice ();
 af_vec_range  = airfoil_GIIIJ_range ();

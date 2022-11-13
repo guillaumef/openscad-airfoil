@@ -1,9 +1,9 @@
-/* Generated from ah7476.dat
+/* Generated from a/ah7476.dat
 
 Usage (copy/paste):
 
 //    AH7476
-include <airfoil/ah7476.scad>
+include <openscad-airfoil/a/ah7476.scad>
 af_vec_path   = airfoil_AH7476_path ();
 af_vec_slice  = airfoil_AH7476_slice ();
 af_vec_range  = airfoil_AH7476_range ();

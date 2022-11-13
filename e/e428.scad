@@ -1,9 +1,9 @@
-/* Generated from e428.dat
+/* Generated from e/e428.dat
 
 Usage (copy/paste):
 
 //    E428
-include <airfoil/e428.scad>
+include <openscad-airfoil/e/e428.scad>
 af_vec_path   = airfoil_E428_path ();
 af_vec_slice  = airfoil_E428_slice ();
 af_vec_range  = airfoil_E428_range ();

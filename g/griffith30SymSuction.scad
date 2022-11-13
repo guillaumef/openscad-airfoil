@@ -1,9 +1,9 @@
-/* Generated from griffith30SymSuction.dat
+/* Generated from g/griffith30SymSuction.dat
 
 Usage (copy/paste):
 
 //    GRIFFITH30SYMSUCTION
-include <airfoil/griffith30SymSuction.scad>
+include <openscad-airfoil/g/griffith30SymSuction.scad>
 af_vec_path   = airfoil_GRIFFITH30SYMSUCTION_path ();
 af_vec_slice  = airfoil_GRIFFITH30SYMSUCTION_slice ();
 af_vec_range  = airfoil_GRIFFITH30SYMSUCTION_range ();

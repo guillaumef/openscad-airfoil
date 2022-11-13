@@ -1,9 +1,9 @@
-/* Generated from m13.dat
+/* Generated from m/m13.dat
 
 Usage (copy/paste):
 
 //    M13
-include <airfoil/m13.scad>
+include <openscad-airfoil/m/m13.scad>
 af_vec_path   = airfoil_M13_path ();
 af_vec_slice  = airfoil_M13_slice ();
 af_vec_range  = airfoil_M13_range ();

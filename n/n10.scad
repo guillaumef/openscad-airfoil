@@ -1,9 +1,9 @@
-/* Generated from n10.dat
+/* Generated from n/n10.dat
 
 Usage (copy/paste):
 
 //    N10
-include <airfoil/n10.scad>
+include <openscad-airfoil/n/n10.scad>
 af_vec_path   = airfoil_N10_path ();
 af_vec_slice  = airfoil_N10_slice ();
 af_vec_range  = airfoil_N10_range ();

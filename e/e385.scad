@@ -1,9 +1,9 @@
-/* Generated from e385.dat
+/* Generated from e/e385.dat
 
 Usage (copy/paste):
 
 //    E385
-include <airfoil/e385.scad>
+include <openscad-airfoil/e/e385.scad>
 af_vec_path   = airfoil_E385_path ();
 af_vec_slice  = airfoil_E385_slice ();
 af_vec_range  = airfoil_E385_range ();

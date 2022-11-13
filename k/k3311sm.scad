@@ -1,9 +1,9 @@
-/* Generated from k3311sm.dat
+/* Generated from k/k3311sm.dat
 
 Usage (copy/paste):
 
 //    K3311SM
-include <airfoil/k3311sm.scad>
+include <openscad-airfoil/k/k3311sm.scad>
 af_vec_path   = airfoil_K3311SM_path ();
 af_vec_slice  = airfoil_K3311SM_slice ();
 af_vec_range  = airfoil_K3311SM_range ();

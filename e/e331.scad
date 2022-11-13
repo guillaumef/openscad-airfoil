@@ -1,9 +1,9 @@
-/* Generated from e331.dat
+/* Generated from e/e331.dat
 
 Usage (copy/paste):
 
 //    E331
-include <airfoil/e331.scad>
+include <openscad-airfoil/e/e331.scad>
 af_vec_path   = airfoil_E331_path ();
 af_vec_slice  = airfoil_E331_slice ();
 af_vec_range  = airfoil_E331_range ();

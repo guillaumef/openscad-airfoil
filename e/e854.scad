@@ -1,9 +1,9 @@
-/* Generated from e854.dat
+/* Generated from e/e854.dat
 
 Usage (copy/paste):
 
 //    E854
-include <airfoil/e854.scad>
+include <openscad-airfoil/e/e854.scad>
 af_vec_path   = airfoil_E854_path ();
 af_vec_slice  = airfoil_E854_slice ();
 af_vec_range  = airfoil_E854_range ();

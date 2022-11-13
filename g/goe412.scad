@@ -1,9 +1,9 @@
-/* Generated from goe412.dat
+/* Generated from g/goe412.dat
 
 Usage (copy/paste):
 
 //    GOE412
-include <airfoil/goe412.scad>
+include <openscad-airfoil/g/goe412.scad>
 af_vec_path   = airfoil_GOE412_path ();
 af_vec_slice  = airfoil_GOE412_slice ();
 af_vec_range  = airfoil_GOE412_range ();

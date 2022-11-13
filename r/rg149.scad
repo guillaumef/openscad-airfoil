@@ -1,9 +1,9 @@
-/* Generated from rg149.dat
+/* Generated from r/rg149.dat
 
 Usage (copy/paste):
 
 //    RG149
-include <airfoil/rg149.scad>
+include <openscad-airfoil/r/rg149.scad>
 af_vec_path   = airfoil_RG149_path ();
 af_vec_slice  = airfoil_RG149_slice ();
 af_vec_range  = airfoil_RG149_range ();

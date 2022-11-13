@@ -1,9 +1,9 @@
-/* Generated from fx74modsm.dat
+/* Generated from f/fx74modsm.dat
 
 Usage (copy/paste):
 
 //    FX74MODSM
-include <airfoil/fx74modsm.scad>
+include <openscad-airfoil/f/fx74modsm.scad>
 af_vec_path   = airfoil_FX74MODSM_path ();
 af_vec_slice  = airfoil_FX74MODSM_slice ();
 af_vec_range  = airfoil_FX74MODSM_range ();

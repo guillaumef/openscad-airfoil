@@ -1,9 +1,9 @@
-/* Generated from e61.dat
+/* Generated from e/e61.dat
 
 Usage (copy/paste):
 
 //    E61
-include <airfoil/e61.scad>
+include <openscad-airfoil/e/e61.scad>
 af_vec_path   = airfoil_E61_path ();
 af_vec_slice  = airfoil_E61_slice ();
 af_vec_range  = airfoil_E61_range ();

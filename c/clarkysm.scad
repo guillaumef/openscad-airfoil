@@ -1,9 +1,9 @@
-/* Generated from clarkysm.dat
+/* Generated from c/clarkysm.dat
 
 Usage (copy/paste):
 
 //    CLARKYSM
-include <airfoil/clarkysm.scad>
+include <openscad-airfoil/c/clarkysm.scad>
 af_vec_path   = airfoil_CLARKYSM_path ();
 af_vec_slice  = airfoil_CLARKYSM_slice ();
 af_vec_range  = airfoil_CLARKYSM_range ();

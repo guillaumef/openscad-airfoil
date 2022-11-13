@@ -1,9 +1,9 @@
-/* Generated from goe450.dat
+/* Generated from g/goe450.dat
 
 Usage (copy/paste):
 
 //    GOE450
-include <airfoil/goe450.scad>
+include <openscad-airfoil/g/goe450.scad>
 af_vec_path   = airfoil_GOE450_path ();
 af_vec_slice  = airfoil_GOE450_slice ();
 af_vec_range  = airfoil_GOE450_range ();

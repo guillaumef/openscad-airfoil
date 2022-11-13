@@ -1,9 +1,9 @@
-/* Generated from nasasc2-0714.dat
+/* Generated from n/nasasc2-0714.dat
 
 Usage (copy/paste):
 
 //    NASASC20714
-include <airfoil/nasasc2-0714.scad>
+include <openscad-airfoil/n/nasasc2-0714.scad>
 af_vec_path   = airfoil_NASASC20714_path ();
 af_vec_slice  = airfoil_NASASC20714_slice ();
 af_vec_range  = airfoil_NASASC20714_range ();

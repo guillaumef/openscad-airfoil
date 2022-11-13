@@ -1,9 +1,9 @@
-/* Generated from glennmartin4.dat
+/* Generated from g/glennmartin4.dat
 
 Usage (copy/paste):
 
 //    GLENNMARTIN4
-include <airfoil/glennmartin4.scad>
+include <openscad-airfoil/g/glennmartin4.scad>
 af_vec_path   = airfoil_GLENNMARTIN4_path ();
 af_vec_slice  = airfoil_GLENNMARTIN4_slice ();
 af_vec_range  = airfoil_GLENNMARTIN4_range ();

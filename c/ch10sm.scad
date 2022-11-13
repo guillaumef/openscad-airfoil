@@ -1,9 +1,9 @@
-/* Generated from ch10sm.dat
+/* Generated from c/ch10sm.dat
 
 Usage (copy/paste):
 
 //    CH10SM
-include <airfoil/ch10sm.scad>
+include <openscad-airfoil/c/ch10sm.scad>
 af_vec_path   = airfoil_CH10SM_path ();
 af_vec_slice  = airfoil_CH10SM_slice ();
 af_vec_range  = airfoil_CH10SM_range ();

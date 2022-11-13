@@ -1,9 +1,9 @@
-/* Generated from ah93w480b.dat
+/* Generated from a/ah93w480b.dat
 
 Usage (copy/paste):
 
 //    AH93W480B
-include <airfoil/ah93w480b.scad>
+include <openscad-airfoil/a/ah93w480b.scad>
 af_vec_path   = airfoil_AH93W480B_path ();
 af_vec_slice  = airfoil_AH93W480B_slice ();
 af_vec_range  = airfoil_AH93W480B_range ();

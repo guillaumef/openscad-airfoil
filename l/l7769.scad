@@ -1,9 +1,9 @@
-/* Generated from l7769.dat
+/* Generated from l/l7769.dat
 
 Usage (copy/paste):
 
 //    L7769
-include <airfoil/l7769.scad>
+include <openscad-airfoil/l/l7769.scad>
 af_vec_path   = airfoil_L7769_path ();
 af_vec_slice  = airfoil_L7769_slice ();
 af_vec_range  = airfoil_L7769_range ();

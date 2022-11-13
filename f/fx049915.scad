@@ -1,9 +1,9 @@
-/* Generated from fx049915.dat
+/* Generated from f/fx049915.dat
 
 Usage (copy/paste):
 
 //    FX049915
-include <airfoil/fx049915.scad>
+include <openscad-airfoil/f/fx049915.scad>
 af_vec_path   = airfoil_FX049915_path ();
 af_vec_slice  = airfoil_FX049915_slice ();
 af_vec_range  = airfoil_FX049915_range ();

@@ -1,9 +1,9 @@
-/* Generated from usa46.dat
+/* Generated from u/usa46.dat
 
 Usage (copy/paste):
 
 //    USA46
-include <airfoil/usa46.scad>
+include <openscad-airfoil/u/usa46.scad>
 af_vec_path   = airfoil_USA46_path ();
 af_vec_slice  = airfoil_USA46_slice ();
 af_vec_range  = airfoil_USA46_range ();

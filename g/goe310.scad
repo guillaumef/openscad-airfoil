@@ -1,9 +1,9 @@
-/* Generated from goe310.dat
+/* Generated from g/goe310.dat
 
 Usage (copy/paste):
 
 //    GOE310
-include <airfoil/goe310.scad>
+include <openscad-airfoil/g/goe310.scad>
 af_vec_path   = airfoil_GOE310_path ();
 af_vec_slice  = airfoil_GOE310_slice ();
 af_vec_range  = airfoil_GOE310_range ();

@@ -1,9 +1,9 @@
-/* Generated from s7075.dat
+/* Generated from s/s7075.dat
 
 Usage (copy/paste):
 
 //    S7075
-include <airfoil/s7075.scad>
+include <openscad-airfoil/s/s7075.scad>
 af_vec_path   = airfoil_S7075_path ();
 af_vec_slice  = airfoil_S7075_slice ();
 af_vec_range  = airfoil_S7075_range ();

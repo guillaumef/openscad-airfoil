@@ -1,9 +1,9 @@
-/* Generated from e297.dat
+/* Generated from e/e297.dat
 
 Usage (copy/paste):
 
 //    E297
-include <airfoil/e297.scad>
+include <openscad-airfoil/e/e297.scad>
 af_vec_path   = airfoil_E297_path ();
 af_vec_slice  = airfoil_E297_slice ();
 af_vec_range  = airfoil_E297_range ();

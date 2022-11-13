@@ -1,9 +1,9 @@
-/* Generated from ah95160.dat
+/* Generated from a/ah95160.dat
 
 Usage (copy/paste):
 
 //    AH95160
-include <airfoil/ah95160.scad>
+include <openscad-airfoil/a/ah95160.scad>
 af_vec_path   = airfoil_AH95160_path ();
 af_vec_slice  = airfoil_AH95160_slice ();
 af_vec_range  = airfoil_AH95160_range ();

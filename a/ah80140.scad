@@ -1,9 +1,9 @@
-/* Generated from ah80140.dat
+/* Generated from a/ah80140.dat
 
 Usage (copy/paste):
 
 //    AH80140
-include <airfoil/ah80140.scad>
+include <openscad-airfoil/a/ah80140.scad>
 af_vec_path   = airfoil_AH80140_path ();
 af_vec_slice  = airfoil_AH80140_slice ();
 af_vec_range  = airfoil_AH80140_range ();

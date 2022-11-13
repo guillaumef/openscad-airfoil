@@ -1,9 +1,9 @@
-/* Generated from dbln526.dat
+/* Generated from d/dbln526.dat
 
 Usage (copy/paste):
 
 //    DBLN526
-include <airfoil/dbln526.scad>
+include <openscad-airfoil/d/dbln526.scad>
 af_vec_path   = airfoil_DBLN526_path ();
 af_vec_slice  = airfoil_DBLN526_slice ();
 af_vec_range  = airfoil_DBLN526_range ();

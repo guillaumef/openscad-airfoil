@@ -1,9 +1,9 @@
-/* Generated from naca23015.dat
+/* Generated from n/naca23015.dat
 
 Usage (copy/paste):
 
 //    NACA23015
-include <airfoil/naca23015.scad>
+include <openscad-airfoil/n/naca23015.scad>
 af_vec_path   = airfoil_NACA23015_path ();
 af_vec_slice  = airfoil_NACA23015_slice ();
 af_vec_range  = airfoil_NACA23015_range ();
@@ -12,7 +12,7 @@ airfoil_NACA23015 (); // 2d object
 
 */
 function airfoil_NACA23015_path () = [
-     [         100 ,           0 ]
+     [         100 ,        0.16 ]
     ,[          95 ,        1.12 ]
     ,[          90 ,        2.04 ]
     ,[          80 ,        3.73 ]
@@ -47,7 +47,7 @@ function airfoil_NACA23015_path () = [
     ,[          80 ,       -2.83 ]
     ,[          90 ,       -1.59 ]
     ,[          95 ,        -0.9 ]
-    ,[         100 ,           0 ]
+    ,[         100 ,       -0.16 ]
 ];
 function airfoil_NACA23015_slice () = [
      [ 0, 0, 0 ]
@@ -67,7 +67,7 @@ function airfoil_NACA23015_slice () = [
     ,[ 80, 3.73, -2.83 ]
     ,[ 90, 2.04, -1.59 ]
     ,[ 95, 1.12, -0.9 ]
-    ,[ 100, 0, 0 ]
+    ,[ 100, 0.16, -0.16 ]
 ];
 function airfoil_NACA23015_range () = [
   0, 100,

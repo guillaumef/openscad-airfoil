@@ -1,9 +1,9 @@
-/* Generated from p51htip.dat
+/* Generated from p/p51htip.dat
 
 Usage (copy/paste):
 
 //    P51HTIP
-include <airfoil/p51htip.scad>
+include <openscad-airfoil/p/p51htip.scad>
 af_vec_path   = airfoil_P51HTIP_path ();
 af_vec_slice  = airfoil_P51HTIP_slice ();
 af_vec_range  = airfoil_P51HTIP_range ();

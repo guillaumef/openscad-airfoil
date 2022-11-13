@@ -1,9 +1,9 @@
-/* Generated from fx73cl1152.dat
+/* Generated from f/fx73cl1152.dat
 
 Usage (copy/paste):
 
 //    FX73CL1152
-include <airfoil/fx73cl1152.scad>
+include <openscad-airfoil/f/fx73cl1152.scad>
 af_vec_path   = airfoil_FX73CL1152_path ();
 af_vec_slice  = airfoil_FX73CL1152_slice ();
 af_vec_range  = airfoil_FX73CL1152_range ();

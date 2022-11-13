@@ -1,9 +1,9 @@
-/* Generated from e1230.dat
+/* Generated from e/e1230.dat
 
 Usage (copy/paste):
 
 //    E1230
-include <airfoil/e1230.scad>
+include <openscad-airfoil/e/e1230.scad>
 af_vec_path   = airfoil_E1230_path ();
 af_vec_slice  = airfoil_E1230_slice ();
 af_vec_range  = airfoil_E1230_range ();

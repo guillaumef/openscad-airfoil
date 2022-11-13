@@ -1,9 +1,9 @@
-/* Generated from goe08k.dat
+/* Generated from g/goe08k.dat
 
 Usage (copy/paste):
 
 //    GOE08K
-include <airfoil/goe08k.scad>
+include <openscad-airfoil/g/goe08k.scad>
 af_vec_path   = airfoil_GOE08K_path ();
 af_vec_slice  = airfoil_GOE08K_slice ();
 af_vec_range  = airfoil_GOE08K_range ();

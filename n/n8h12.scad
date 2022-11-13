@@ -1,9 +1,9 @@
-/* Generated from n8h12.dat
+/* Generated from n/n8h12.dat
 
 Usage (copy/paste):
 
 //    N8H12
-include <airfoil/n8h12.scad>
+include <openscad-airfoil/n/n8h12.scad>
 af_vec_path   = airfoil_N8H12_path ();
 af_vec_slice  = airfoil_N8H12_slice ();
 af_vec_range  = airfoil_N8H12_range ();

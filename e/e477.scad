@@ -1,9 +1,9 @@
-/* Generated from e477.dat
+/* Generated from e/e477.dat
 
 Usage (copy/paste):
 
 //    E477
-include <airfoil/e477.scad>
+include <openscad-airfoil/e/e477.scad>
 af_vec_path   = airfoil_E477_path ();
 af_vec_slice  = airfoil_E477_slice ();
 af_vec_range  = airfoil_E477_range ();

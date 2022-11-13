@@ -1,9 +1,9 @@
-/* Generated from avistar.dat
+/* Generated from a/avistar.dat
 
 Usage (copy/paste):
 
 //    AVISTAR
-include <airfoil/avistar.scad>
+include <openscad-airfoil/a/avistar.scad>
 af_vec_path   = airfoil_AVISTAR_path ();
 af_vec_slice  = airfoil_AVISTAR_slice ();
 af_vec_range  = airfoil_AVISTAR_range ();

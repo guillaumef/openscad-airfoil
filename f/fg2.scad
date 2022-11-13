@@ -1,9 +1,9 @@
-/* Generated from fg2.dat
+/* Generated from f/fg2.dat
 
 Usage (copy/paste):
 
 //    FG2
-include <airfoil/fg2.scad>
+include <openscad-airfoil/f/fg2.scad>
 af_vec_path   = airfoil_FG2_path ();
 af_vec_slice  = airfoil_FG2_slice ();
 af_vec_range  = airfoil_FG2_range ();

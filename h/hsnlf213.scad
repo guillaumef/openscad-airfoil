@@ -1,9 +1,9 @@
-/* Generated from hsnlf213.dat
+/* Generated from h/hsnlf213.dat
 
 Usage (copy/paste):
 
 //    HSNLF213
-include <airfoil/hsnlf213.scad>
+include <openscad-airfoil/h/hsnlf213.scad>
 af_vec_path   = airfoil_HSNLF213_path ();
 af_vec_slice  = airfoil_HSNLF213_slice ();
 af_vec_range  = airfoil_HSNLF213_range ();

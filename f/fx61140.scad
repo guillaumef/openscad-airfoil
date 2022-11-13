@@ -1,9 +1,9 @@
-/* Generated from fx61140.dat
+/* Generated from f/fx61140.dat
 
 Usage (copy/paste):
 
 //    FX61140
-include <airfoil/fx61140.scad>
+include <openscad-airfoil/f/fx61140.scad>
 af_vec_path   = airfoil_FX61140_path ();
 af_vec_slice  = airfoil_FX61140_slice ();
 af_vec_range  = airfoil_FX61140_range ();

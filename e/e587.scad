@@ -1,9 +1,9 @@
-/* Generated from e587.dat
+/* Generated from e/e587.dat
 
 Usage (copy/paste):
 
 //    E587
-include <airfoil/e587.scad>
+include <openscad-airfoil/e/e587.scad>
 af_vec_path   = airfoil_E587_path ();
 af_vec_slice  = airfoil_E587_slice ();
 af_vec_range  = airfoil_E587_range ();

@@ -1,9 +1,9 @@
-/* Generated from nlf1015.dat
+/* Generated from n/nlf1015.dat
 
 Usage (copy/paste):
 
 //    NLF1015
-include <airfoil/nlf1015.scad>
+include <openscad-airfoil/n/nlf1015.scad>
 af_vec_path   = airfoil_NLF1015_path ();
 af_vec_slice  = airfoil_NLF1015_slice ();
 af_vec_range  = airfoil_NLF1015_range ();

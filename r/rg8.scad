@@ -1,9 +1,9 @@
-/* Generated from rg8.dat
+/* Generated from r/rg8.dat
 
 Usage (copy/paste):
 
 //    RG8
-include <airfoil/rg8.scad>
+include <openscad-airfoil/r/rg8.scad>
 af_vec_path   = airfoil_RG8_path ();
 af_vec_slice  = airfoil_RG8_slice ();
 af_vec_range  = airfoil_RG8_range ();

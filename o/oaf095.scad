@@ -1,9 +1,9 @@
-/* Generated from oaf095.dat
+/* Generated from o/oaf095.dat
 
 Usage (copy/paste):
 
 //    OAF095
-include <airfoil/oaf095.scad>
+include <openscad-airfoil/o/oaf095.scad>
 af_vec_path   = airfoil_OAF095_path ();
 af_vec_slice  = airfoil_OAF095_slice ();
 af_vec_range  = airfoil_OAF095_range ();

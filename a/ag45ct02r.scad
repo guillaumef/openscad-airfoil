@@ -1,9 +1,9 @@
-/* Generated from ag45ct02r.dat
+/* Generated from a/ag45ct02r.dat
 
 Usage (copy/paste):
 
 //    AG45CT02R
-include <airfoil/ag45ct02r.scad>
+include <openscad-airfoil/a/ag45ct02r.scad>
 af_vec_path   = airfoil_AG45CT02R_path ();
 af_vec_slice  = airfoil_AG45CT02R_slice ();
 af_vec_range  = airfoil_AG45CT02R_range ();

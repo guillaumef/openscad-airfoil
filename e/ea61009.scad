@@ -1,9 +1,9 @@
-/* Generated from ea61009.dat
+/* Generated from e/ea61009.dat
 
 Usage (copy/paste):
 
 //    EA61009
-include <airfoil/ea61009.scad>
+include <openscad-airfoil/e/ea61009.scad>
 af_vec_path   = airfoil_EA61009_path ();
 af_vec_slice  = airfoil_EA61009_slice ();
 af_vec_range  = airfoil_EA61009_range ();

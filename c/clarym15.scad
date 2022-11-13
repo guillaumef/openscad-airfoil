@@ -1,9 +1,9 @@
-/* Generated from clarym15.dat
+/* Generated from c/clarym15.dat
 
 Usage (copy/paste):
 
 //    CLARYM15
-include <airfoil/clarym15.scad>
+include <openscad-airfoil/c/clarym15.scad>
 af_vec_path   = airfoil_CLARYM15_path ();
 af_vec_slice  = airfoil_CLARYM15_slice ();
 af_vec_range  = airfoil_CLARYM15_range ();

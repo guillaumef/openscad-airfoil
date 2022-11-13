@@ -1,9 +1,9 @@
-/* Generated from hobie.dat
+/* Generated from h/hobie.dat
 
 Usage (copy/paste):
 
 //    HOBIE
-include <airfoil/hobie.scad>
+include <openscad-airfoil/h/hobie.scad>
 af_vec_path   = airfoil_HOBIE_path ();
 af_vec_slice  = airfoil_HOBIE_slice ();
 af_vec_range  = airfoil_HOBIE_range ();

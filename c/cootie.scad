@@ -1,9 +1,9 @@
-/* Generated from cootie.dat
+/* Generated from c/cootie.dat
 
 Usage (copy/paste):
 
 //    COOTIE
-include <airfoil/cootie.scad>
+include <openscad-airfoil/c/cootie.scad>
 af_vec_path   = airfoil_COOTIE_path ();
 af_vec_slice  = airfoil_COOTIE_slice ();
 af_vec_range  = airfoil_COOTIE_range ();

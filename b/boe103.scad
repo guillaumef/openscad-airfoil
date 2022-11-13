@@ -1,9 +1,9 @@
-/* Generated from boe103.dat
+/* Generated from b/boe103.dat
 
 Usage (copy/paste):
 
 //    BOE103
-include <airfoil/boe103.scad>
+include <openscad-airfoil/b/boe103.scad>
 af_vec_path   = airfoil_BOE103_path ();
 af_vec_slice  = airfoil_BOE103_slice ();
 af_vec_range  = airfoil_BOE103_range ();

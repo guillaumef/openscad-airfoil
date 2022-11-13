@@ -1,9 +1,9 @@
-/* Generated from giiih.dat
+/* Generated from g/giiih.dat
 
 Usage (copy/paste):
 
 //    GIIIH
-include <airfoil/giiih.scad>
+include <openscad-airfoil/g/giiih.scad>
 af_vec_path   = airfoil_GIIIH_path ();
 af_vec_slice  = airfoil_GIIIH_slice ();
 af_vec_range  = airfoil_GIIIH_range ();

@@ -1,9 +1,9 @@
-/* Generated from goe406.dat
+/* Generated from g/goe406.dat
 
 Usage (copy/paste):
 
 //    GOE406
-include <airfoil/goe406.scad>
+include <openscad-airfoil/g/goe406.scad>
 af_vec_path   = airfoil_GOE406_path ();
 af_vec_slice  = airfoil_GOE406_slice ();
 af_vec_range  = airfoil_GOE406_range ();

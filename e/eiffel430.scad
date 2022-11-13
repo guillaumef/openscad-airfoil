@@ -1,9 +1,9 @@
-/* Generated from eiffel430.dat
+/* Generated from e/eiffel430.dat
 
 Usage (copy/paste):
 
 //    EIFFEL430
-include <airfoil/eiffel430.scad>
+include <openscad-airfoil/e/eiffel430.scad>
 af_vec_path   = airfoil_EIFFEL430_path ();
 af_vec_slice  = airfoil_EIFFEL430_slice ();
 af_vec_range  = airfoil_EIFFEL430_range ();

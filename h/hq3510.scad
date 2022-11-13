@@ -1,9 +1,9 @@
-/* Generated from hq3510.dat
+/* Generated from h/hq3510.dat
 
 Usage (copy/paste):
 
 //    HQ3510
-include <airfoil/hq3510.scad>
+include <openscad-airfoil/h/hq3510.scad>
 af_vec_path   = airfoil_HQ3510_path ();
 af_vec_slice  = airfoil_HQ3510_slice ();
 af_vec_range  = airfoil_HQ3510_range ();

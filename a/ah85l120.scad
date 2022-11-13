@@ -1,9 +1,9 @@
-/* Generated from ah85l120.dat
+/* Generated from a/ah85l120.dat
 
 Usage (copy/paste):
 
 //    AH85L120
-include <airfoil/ah85l120.scad>
+include <openscad-airfoil/a/ah85l120.scad>
 af_vec_path   = airfoil_AH85L120_path ();
 af_vec_slice  = airfoil_AH85L120_slice ();
 af_vec_range  = airfoil_AH85L120_range ();

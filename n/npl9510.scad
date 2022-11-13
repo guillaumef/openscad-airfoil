@@ -1,9 +1,9 @@
-/* Generated from npl9510.dat
+/* Generated from n/npl9510.dat
 
 Usage (copy/paste):
 
 //    NPL9510
-include <airfoil/npl9510.scad>
+include <openscad-airfoil/n/npl9510.scad>
 af_vec_path   = airfoil_NPL9510_path ();
 af_vec_slice  = airfoil_NPL9510_slice ();
 af_vec_range  = airfoil_NPL9510_range ();

@@ -1,9 +1,9 @@
-/* Generated from s9032.dat
+/* Generated from s/s9032.dat
 
 Usage (copy/paste):
 
 //    S9032
-include <airfoil/s9032.scad>
+include <openscad-airfoil/s/s9032.scad>
 af_vec_path   = airfoil_S9032_path ();
 af_vec_slice  = airfoil_S9032_slice ();
 af_vec_range  = airfoil_S9032_range ();

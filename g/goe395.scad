@@ -1,9 +1,9 @@
-/* Generated from goe395.dat
+/* Generated from g/goe395.dat
 
 Usage (copy/paste):
 
 //    GOE395
-include <airfoil/goe395.scad>
+include <openscad-airfoil/g/goe395.scad>
 af_vec_path   = airfoil_GOE395_path ();
 af_vec_slice  = airfoil_GOE395_slice ();
 af_vec_range  = airfoil_GOE395_range ();
@@ -47,7 +47,7 @@ function airfoil_GOE395_path () = [
     ,[           0 ,           0 ]
     ,[        1.23 , -0.943701838494027 ]
     ,[        1.26 ,      -0.957 ]
-    ,[        2.47 , -1.09591216165558 ]
+    ,[        2.47 , -1.09591216165559 ]
     ,[       2.511 ,      -1.094 ]
     ,[       4.957 , -0.934597317602442 ]
     ,[        5.01 ,      -0.928 ]
@@ -81,7 +81,7 @@ function airfoil_GOE395_slice () = [
      [ 0, 0, 0 ]
     ,[ 1.23, 1.893, -0.943701838494027 ]
     ,[ 1.26, 1.92731264952319, -0.957 ]
-    ,[ 2.47, 2.846, -1.09591216165558 ]
+    ,[ 2.47, 2.846, -1.09591216165559 ]
     ,[ 2.511, 2.8692380420652, -1.094 ]
     ,[ 4.957, 4.152, -0.934597317602442 ]
     ,[ 5.01, 4.1767311412653, -0.928 ]
@@ -113,7 +113,7 @@ function airfoil_GOE395_slice () = [
 ];
 function airfoil_GOE395_range () = [
   0, 100,
-  -1.09591216165558, 9.497
+  -1.09591216165559, 9.497
 ];
 module airfoil_GOE395 () {
   polygon(points=airfoil_GOE395_path());

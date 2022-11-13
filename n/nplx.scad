@@ -1,9 +1,9 @@
-/* Generated from nplx.dat
+/* Generated from n/nplx.dat
 
 Usage (copy/paste):
 
 //    NPLX
-include <airfoil/nplx.scad>
+include <openscad-airfoil/n/nplx.scad>
 af_vec_path   = airfoil_NPLX_path ();
 af_vec_slice  = airfoil_NPLX_slice ();
 af_vec_range  = airfoil_NPLX_range ();

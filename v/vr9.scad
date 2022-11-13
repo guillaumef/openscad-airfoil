@@ -1,9 +1,9 @@
-/* Generated from vr9.dat
+/* Generated from v/vr9.dat
 
 Usage (copy/paste):
 
 //    VR9
-include <airfoil/vr9.scad>
+include <openscad-airfoil/v/vr9.scad>
 af_vec_path   = airfoil_VR9_path ();
 af_vec_slice  = airfoil_VR9_slice ();
 af_vec_range  = airfoil_VR9_range ();

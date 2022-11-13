@@ -1,9 +1,9 @@
-/* Generated from raf32md.dat
+/* Generated from r/raf32md.dat
 
 Usage (copy/paste):
 
 //    RAF32MD
-include <airfoil/raf32md.scad>
+include <openscad-airfoil/r/raf32md.scad>
 af_vec_path   = airfoil_RAF32MD_path ();
 af_vec_slice  = airfoil_RAF32MD_slice ();
 af_vec_range  = airfoil_RAF32MD_range ();

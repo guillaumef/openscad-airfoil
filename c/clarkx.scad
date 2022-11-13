@@ -1,9 +1,9 @@
-/* Generated from clarkx.dat
+/* Generated from c/clarkx.dat
 
 Usage (copy/paste):
 
 //    CLARKX
-include <airfoil/clarkx.scad>
+include <openscad-airfoil/c/clarkx.scad>
 af_vec_path   = airfoil_CLARKX_path ();
 af_vec_slice  = airfoil_CLARKX_slice ();
 af_vec_range  = airfoil_CLARKX_range ();

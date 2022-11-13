@@ -1,9 +1,9 @@
-/* Generated from goe320.dat
+/* Generated from g/goe320.dat
 
 Usage (copy/paste):
 
 //    GOE320
-include <airfoil/goe320.scad>
+include <openscad-airfoil/g/goe320.scad>
 af_vec_path   = airfoil_GOE320_path ();
 af_vec_slice  = airfoil_GOE320_slice ();
 af_vec_range  = airfoil_GOE320_range ();

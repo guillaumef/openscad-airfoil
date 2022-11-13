@@ -1,9 +1,9 @@
-/* Generated from goe342.dat
+/* Generated from g/goe342.dat
 
 Usage (copy/paste):
 
 //    GOE342
-include <airfoil/goe342.scad>
+include <openscad-airfoil/g/goe342.scad>
 af_vec_path   = airfoil_GOE342_path ();
 af_vec_slice  = airfoil_GOE342_slice ();
 af_vec_range  = airfoil_GOE342_range ();

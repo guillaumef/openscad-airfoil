@@ -1,9 +1,9 @@
-/* Generated from goe403.dat
+/* Generated from g/goe403.dat
 
 Usage (copy/paste):
 
 //    GOE403
-include <airfoil/goe403.scad>
+include <openscad-airfoil/g/goe403.scad>
 af_vec_path   = airfoil_GOE403_path ();
 af_vec_slice  = airfoil_GOE403_slice ();
 af_vec_range  = airfoil_GOE403_range ();
@@ -45,7 +45,7 @@ function airfoil_GOE403_path () = [
     ,[       1.239 ,       1.063 ]
     ,[           0 ,           0 ]
     ,[           0 ,           0 ]
-    ,[       1.239 , -0.779531829509522 ]
+    ,[       1.239 , -0.779531829509523 ]
     ,[       1.258 ,      -0.787 ]
     ,[       2.481 , -0.973187987881348 ]
     ,[        2.51 ,      -0.974 ]
@@ -79,7 +79,7 @@ function airfoil_GOE403_path () = [
 ];
 function airfoil_GOE403_slice () = [
      [ 0, 0, 0 ]
-    ,[ 1.239, 1.063, -0.779531829509522 ]
+    ,[ 1.239, 1.063, -0.779531829509523 ]
     ,[ 1.258, 1.07705185143682, -0.787 ]
     ,[ 2.481, 1.826, -0.973187987881348 ]
     ,[ 2.51, 1.84142021116787, -0.974 ]

@@ -1,9 +1,9 @@
-/* Generated from s5020.dat
+/* Generated from s/s5020.dat
 
 Usage (copy/paste):
 
 //    S5020
-include <airfoil/s5020.scad>
+include <openscad-airfoil/s/s5020.scad>
 af_vec_path   = airfoil_S5020_path ();
 af_vec_slice  = airfoil_S5020_slice ();
 af_vec_range  = airfoil_S5020_range ();

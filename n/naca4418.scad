@@ -1,9 +1,9 @@
-/* Generated from naca4418.dat
+/* Generated from n/naca4418.dat
 
 Usage (copy/paste):
 
 //    NACA4418
-include <airfoil/naca4418.scad>
+include <openscad-airfoil/n/naca4418.scad>
 af_vec_path   = airfoil_NACA4418_path ();
 af_vec_slice  = airfoil_NACA4418_slice ();
 af_vec_range  = airfoil_NACA4418_range ();
@@ -12,7 +12,7 @@ airfoil_NACA4418 (); // 2d object
 
 */
 function airfoil_NACA4418_path () = [
-     [         100 ,           0 ]
+     [         100 ,        0.19 ]
     ,[          95 ,        1.89 ]
     ,[          90 ,        3.46 ]
     ,[          80 ,        6.22 ]
@@ -47,7 +47,7 @@ function airfoil_NACA4418_path () = [
     ,[          80 ,       -1.67 ]
     ,[          90 ,       -0.93 ]
     ,[          95 ,       -0.55 ]
-    ,[         100 ,           0 ]
+    ,[         100 ,       -0.19 ]
 ];
 function airfoil_NACA4418_slice () = [
      [ 0, 0, 0 ]
@@ -67,7 +67,7 @@ function airfoil_NACA4418_slice () = [
     ,[ 80, 6.22, -1.67 ]
     ,[ 90, 3.46, -0.93 ]
     ,[ 95, 1.89, -0.55 ]
-    ,[ 100, 0, 0 ]
+    ,[ 100, 0.19, -0.19 ]
 ];
 function airfoil_NACA4418_range () = [
   0, 100,

@@ -1,9 +1,9 @@
-/* Generated from fx71l150.dat
+/* Generated from f/fx71l150.dat
 
 Usage (copy/paste):
 
 //    FX71L150
-include <airfoil/fx71l150.scad>
+include <openscad-airfoil/f/fx71l150.scad>
 af_vec_path   = airfoil_FX71L150_path ();
 af_vec_slice  = airfoil_FX71L150_slice ();
 af_vec_range  = airfoil_FX71L150_range ();

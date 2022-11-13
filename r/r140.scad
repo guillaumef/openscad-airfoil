@@ -1,9 +1,9 @@
-/* Generated from r140.dat
+/* Generated from r/r140.dat
 
 Usage (copy/paste):
 
 //    R140
-include <airfoil/r140.scad>
+include <openscad-airfoil/r/r140.scad>
 af_vec_path   = airfoil_R140_path ();
 af_vec_slice  = airfoil_R140_slice ();
 af_vec_range  = airfoil_R140_range ();

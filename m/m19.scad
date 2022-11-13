@@ -1,9 +1,9 @@
-/* Generated from m19.dat
+/* Generated from m/m19.dat
 
 Usage (copy/paste):
 
 //    M19
-include <airfoil/m19.scad>
+include <openscad-airfoil/m/m19.scad>
 af_vec_path   = airfoil_M19_path ();
 af_vec_slice  = airfoil_M19_slice ();
 af_vec_range  = airfoil_M19_range ();

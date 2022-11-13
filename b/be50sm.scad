@@ -1,9 +1,9 @@
-/* Generated from be50sm.dat
+/* Generated from b/be50sm.dat
 
 Usage (copy/paste):
 
 //    BE50SM
-include <airfoil/be50sm.scad>
+include <openscad-airfoil/b/be50sm.scad>
 af_vec_path   = airfoil_BE50SM_path ();
 af_vec_slice  = airfoil_BE50SM_slice ();
 af_vec_range  = airfoil_BE50SM_range ();

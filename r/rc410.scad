@@ -1,9 +1,9 @@
-/* Generated from rc410.dat
+/* Generated from r/rc410.dat
 
 Usage (copy/paste):
 
 //    RC410
-include <airfoil/rc410.scad>
+include <openscad-airfoil/r/rc410.scad>
 af_vec_path   = airfoil_RC410_path ();
 af_vec_slice  = airfoil_RC410_slice ();
 af_vec_range  = airfoil_RC410_range ();

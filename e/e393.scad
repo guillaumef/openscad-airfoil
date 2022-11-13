@@ -1,9 +1,9 @@
-/* Generated from e393.dat
+/* Generated from e/e393.dat
 
 Usage (copy/paste):
 
 //    E393
-include <airfoil/e393.scad>
+include <openscad-airfoil/e/e393.scad>
 af_vec_path   = airfoil_E393_path ();
 af_vec_slice  = airfoil_E393_slice ();
 af_vec_range  = airfoil_E393_range ();

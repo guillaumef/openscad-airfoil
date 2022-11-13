@@ -1,9 +1,9 @@
-/* Generated from b29root.dat
+/* Generated from b/b29root.dat
 
 Usage (copy/paste):
 
 //    B29ROOT
-include <airfoil/b29root.scad>
+include <openscad-airfoil/b/b29root.scad>
 af_vec_path   = airfoil_B29ROOT_path ();
 af_vec_slice  = airfoil_B29ROOT_slice ();
 af_vec_range  = airfoil_B29ROOT_range ();

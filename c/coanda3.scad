@@ -1,9 +1,9 @@
-/* Generated from coanda3.dat
+/* Generated from c/coanda3.dat
 
 Usage (copy/paste):
 
 //    COANDA3
-include <airfoil/coanda3.scad>
+include <openscad-airfoil/c/coanda3.scad>
 af_vec_path   = airfoil_COANDA3_path ();
 af_vec_slice  = airfoil_COANDA3_slice ();
 af_vec_range  = airfoil_COANDA3_range ();

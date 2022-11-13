@@ -1,9 +1,9 @@
-/* Generated from fx78k140a20.dat
+/* Generated from f/fx78k140a20.dat
 
 Usage (copy/paste):
 
 //    FX78K140A20
-include <airfoil/fx78k140a20.scad>
+include <openscad-airfoil/f/fx78k140a20.scad>
 af_vec_path   = airfoil_FX78K140A20_path ();
 af_vec_slice  = airfoil_FX78K140A20_slice ();
 af_vec_range  = airfoil_FX78K140A20_range ();

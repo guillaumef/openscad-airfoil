@@ -1,9 +1,9 @@
-/* Generated from fx08s176.dat
+/* Generated from f/fx08s176.dat
 
 Usage (copy/paste):
 
 //    FX08S176
-include <airfoil/fx08s176.scad>
+include <openscad-airfoil/f/fx08s176.scad>
 af_vec_path   = airfoil_FX08S176_path ();
 af_vec_slice  = airfoil_FX08S176_slice ();
 af_vec_range  = airfoil_FX08S176_range ();

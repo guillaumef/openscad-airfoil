@@ -1,9 +1,9 @@
-/* Generated from defcnd3.dat
+/* Generated from d/defcnd3.dat
 
 Usage (copy/paste):
 
 //    DEFCND3
-include <airfoil/defcnd3.scad>
+include <openscad-airfoil/d/defcnd3.scad>
 af_vec_path   = airfoil_DEFCND3_path ();
 af_vec_slice  = airfoil_DEFCND3_slice ();
 af_vec_range  = airfoil_DEFCND3_range ();

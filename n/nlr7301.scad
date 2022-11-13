@@ -1,9 +1,9 @@
-/* Generated from nlr7301.dat
+/* Generated from n/nlr7301.dat
 
 Usage (copy/paste):
 
 //    NLR7301
-include <airfoil/nlr7301.scad>
+include <openscad-airfoil/n/nlr7301.scad>
 af_vec_path   = airfoil_NLR7301_path ();
 af_vec_slice  = airfoil_NLR7301_slice ();
 af_vec_range  = airfoil_NLR7301_range ();

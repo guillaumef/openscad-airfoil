@@ -1,9 +1,9 @@
-/* Generated from dsma523b.dat
+/* Generated from d/dsma523b.dat
 
 Usage (copy/paste):
 
 //    DSMA523B
-include <airfoil/dsma523b.scad>
+include <openscad-airfoil/d/dsma523b.scad>
 af_vec_path   = airfoil_DSMA523B_path ();
 af_vec_slice  = airfoil_DSMA523B_slice ();
 af_vec_range  = airfoil_DSMA523B_range ();

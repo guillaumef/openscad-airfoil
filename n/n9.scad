@@ -1,9 +1,9 @@
-/* Generated from n9.dat
+/* Generated from n/n9.dat
 
 Usage (copy/paste):
 
 //    N9
-include <airfoil/n9.scad>
+include <openscad-airfoil/n/n9.scad>
 af_vec_path   = airfoil_N9_path ();
 af_vec_slice  = airfoil_N9_slice ();
 af_vec_range  = airfoil_N9_range ();

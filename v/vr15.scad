@@ -1,9 +1,9 @@
-/* Generated from vr15.dat
+/* Generated from v/vr15.dat
 
 Usage (copy/paste):
 
 //    VR15
-include <airfoil/vr15.scad>
+include <openscad-airfoil/v/vr15.scad>
 af_vec_path   = airfoil_VR15_path ();
 af_vec_slice  = airfoil_VR15_slice ();
 af_vec_range  = airfoil_VR15_range ();

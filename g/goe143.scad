@@ -1,9 +1,9 @@
-/* Generated from goe143.dat
+/* Generated from g/goe143.dat
 
 Usage (copy/paste):
 
 //    GOE143
-include <airfoil/goe143.scad>
+include <openscad-airfoil/g/goe143.scad>
 af_vec_path   = airfoil_GOE143_path ();
 af_vec_slice  = airfoil_GOE143_slice ();
 af_vec_range  = airfoil_GOE143_range ();
@@ -41,7 +41,7 @@ function airfoil_GOE143_path () = [
     ,[       4.947 ,       4.104 ]
     ,[       2.518 , 2.65177637159703 ]
     ,[       2.466 ,       2.622 ]
-    ,[       1.265 , 1.78543457512563 ]
+    ,[       1.265 , 1.78543457512562 ]
     ,[       1.227 ,       1.746 ]
     ,[           0 ,           0 ]
     ,[           0 ,           0 ]
@@ -80,7 +80,7 @@ function airfoil_GOE143_path () = [
 function airfoil_GOE143_slice () = [
      [ 0, 0, 0 ]
     ,[ 1.227, 1.746, -1.11204409987632 ]
-    ,[ 1.265, 1.78543457512563, -1.134 ]
+    ,[ 1.265, 1.78543457512562, -1.134 ]
     ,[ 2.466, 2.622, -1.40567638459146 ]
     ,[ 2.518, 2.65177637159703, -1.407 ]
     ,[ 4.947, 4.104, -1.31985078874868 ]

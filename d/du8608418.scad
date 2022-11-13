@@ -1,9 +1,9 @@
-/* Generated from du8608418.dat
+/* Generated from d/du8608418.dat
 
 Usage (copy/paste):
 
 //    DU8608418
-include <airfoil/du8608418.scad>
+include <openscad-airfoil/d/du8608418.scad>
 af_vec_path   = airfoil_DU8608418_path ();
 af_vec_slice  = airfoil_DU8608418_slice ();
 af_vec_range  = airfoil_DU8608418_range ();

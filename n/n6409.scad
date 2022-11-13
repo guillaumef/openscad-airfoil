@@ -1,9 +1,9 @@
-/* Generated from n6409.dat
+/* Generated from n/n6409.dat
 
 Usage (copy/paste):
 
 //    N6409
-include <airfoil/n6409.scad>
+include <openscad-airfoil/n/n6409.scad>
 af_vec_path   = airfoil_N6409_path ();
 af_vec_slice  = airfoil_N6409_slice ();
 af_vec_range  = airfoil_N6409_range ();

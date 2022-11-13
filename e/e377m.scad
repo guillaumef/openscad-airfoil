@@ -1,9 +1,9 @@
-/* Generated from e377m.dat
+/* Generated from e/e377m.dat
 
 Usage (copy/paste):
 
 //    E377M
-include <airfoil/e377m.scad>
+include <openscad-airfoil/e/e377m.scad>
 af_vec_path   = airfoil_E377M_path ();
 af_vec_slice  = airfoil_E377M_slice ();
 af_vec_range  = airfoil_E377M_range ();

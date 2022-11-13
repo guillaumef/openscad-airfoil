@@ -1,9 +1,9 @@
-/* Generated from ste87391.dat
+/* Generated from s/ste87391.dat
 
 Usage (copy/paste):
 
 //    STE87391
-include <airfoil/ste87391.scad>
+include <openscad-airfoil/s/ste87391.scad>
 af_vec_path   = airfoil_STE87391_path ();
 af_vec_slice  = airfoil_STE87391_slice ();
 af_vec_range  = airfoil_STE87391_range ();

@@ -1,9 +1,9 @@
-/* Generated from sc20412.dat
+/* Generated from s/sc20412.dat
 
 Usage (copy/paste):
 
 //    SC20412
-include <airfoil/sc20412.scad>
+include <openscad-airfoil/s/sc20412.scad>
 af_vec_path   = airfoil_SC20412_path ();
 af_vec_slice  = airfoil_SC20412_slice ();
 af_vec_range  = airfoil_SC20412_range ();
@@ -190,7 +190,7 @@ function airfoil_SC20412_path () = [
     ,[          70 ,       -2.69 ]
     ,[          71 ,        -2.5 ]
     ,[          72 ,       -2.31 ]
-    ,[          73 ,       -2.21 ]
+    ,[          73 ,       -2.12 ]
     ,[          74 ,       -1.93 ]
     ,[          75 ,       -1.74 ]
     ,[          76 ,       -1.55 ]
@@ -295,7 +295,7 @@ function airfoil_SC20412_slice () = [
     ,[ 70, 4.59, -2.69 ]
     ,[ 71, 4.49, -2.5 ]
     ,[ 72, 4.39, -2.31 ]
-    ,[ 73, 4.28, -2.21 ]
+    ,[ 73, 4.28, -2.12 ]
     ,[ 74, 4.17, -1.93 ]
     ,[ 75, 4.06, -1.74 ]
     ,[ 76, 3.94, -1.55 ]

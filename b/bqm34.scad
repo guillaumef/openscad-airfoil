@@ -1,9 +1,9 @@
-/* Generated from bqm34.dat
+/* Generated from b/bqm34.dat
 
 Usage (copy/paste):
 
 //    BQM34
-include <airfoil/bqm34.scad>
+include <openscad-airfoil/b/bqm34.scad>
 af_vec_path   = airfoil_BQM34_path ();
 af_vec_slice  = airfoil_BQM34_slice ();
 af_vec_range  = airfoil_BQM34_range ();

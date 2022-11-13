@@ -1,9 +1,9 @@
-/* Generated from as5048.dat
+/* Generated from a/as5048.dat
 
 Usage (copy/paste):
 
 //    AS5048
-include <airfoil/as5048.scad>
+include <openscad-airfoil/a/as5048.scad>
 af_vec_path   = airfoil_AS5048_path ();
 af_vec_slice  = airfoil_AS5048_slice ();
 af_vec_range  = airfoil_AS5048_range ();

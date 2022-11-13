@@ -1,9 +1,9 @@
-/* Generated from sc1095.dat
+/* Generated from s/sc1095.dat
 
 Usage (copy/paste):
 
 //    SC1095
-include <airfoil/sc1095.scad>
+include <openscad-airfoil/s/sc1095.scad>
 af_vec_path   = airfoil_SC1095_path ();
 af_vec_slice  = airfoil_SC1095_slice ();
 af_vec_range  = airfoil_SC1095_range ();

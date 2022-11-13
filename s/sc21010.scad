@@ -1,9 +1,9 @@
-/* Generated from sc21010.dat
+/* Generated from s/sc21010.dat
 
 Usage (copy/paste):
 
 //    SC21010
-include <airfoil/sc21010.scad>
+include <openscad-airfoil/s/sc21010.scad>
 af_vec_path   = airfoil_SC21010_path ();
 af_vec_slice  = airfoil_SC21010_slice ();
 af_vec_range  = airfoil_SC21010_range ();

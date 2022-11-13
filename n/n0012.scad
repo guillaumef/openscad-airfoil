@@ -1,9 +1,9 @@
-/* Generated from n0012.dat
+/* Generated from n/n0012.dat
 
 Usage (copy/paste):
 
 //    N0012
-include <airfoil/n0012.scad>
+include <openscad-airfoil/n/n0012.scad>
 af_vec_path   = airfoil_N0012_path ();
 af_vec_slice  = airfoil_N0012_slice ();
 af_vec_range  = airfoil_N0012_range ();

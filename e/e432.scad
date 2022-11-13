@@ -1,9 +1,9 @@
-/* Generated from e432.dat
+/* Generated from e/e432.dat
 
 Usage (copy/paste):
 
 //    E432
-include <airfoil/e432.scad>
+include <openscad-airfoil/e/e432.scad>
 af_vec_path   = airfoil_E432_path ();
 af_vec_slice  = airfoil_E432_slice ();
 af_vec_range  = airfoil_E432_range ();

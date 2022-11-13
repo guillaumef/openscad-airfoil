@@ -1,9 +1,9 @@
-/* Generated from goe388.dat
+/* Generated from g/goe388.dat
 
 Usage (copy/paste):
 
 //    GOE388
-include <airfoil/goe388.scad>
+include <openscad-airfoil/g/goe388.scad>
 af_vec_path   = airfoil_GOE388_path ();
 af_vec_slice  = airfoil_GOE388_slice ();
 af_vec_range  = airfoil_GOE388_range ();

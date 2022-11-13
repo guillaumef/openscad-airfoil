@@ -1,9 +1,9 @@
-/* Generated from wb140.dat
+/* Generated from w/wb140.dat
 
 Usage (copy/paste):
 
 //    WB140
-include <airfoil/wb140.scad>
+include <openscad-airfoil/w/wb140.scad>
 af_vec_path   = airfoil_WB140_path ();
 af_vec_slice  = airfoil_WB140_slice ();
 af_vec_range  = airfoil_WB140_range ();

@@ -1,9 +1,9 @@
-/* Generated from fx84w140.dat
+/* Generated from f/fx84w140.dat
 
 Usage (copy/paste):
 
 //    FX84W140
-include <airfoil/fx84w140.scad>
+include <openscad-airfoil/f/fx84w140.scad>
 af_vec_path   = airfoil_FX84W140_path ();
 af_vec_slice  = airfoil_FX84W140_slice ();
 af_vec_range  = airfoil_FX84W140_range ();

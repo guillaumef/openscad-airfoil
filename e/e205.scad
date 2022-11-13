@@ -1,9 +1,9 @@
-/* Generated from e205.dat
+/* Generated from e/e205.dat
 
 Usage (copy/paste):
 
 //    E205
-include <airfoil/e205.scad>
+include <openscad-airfoil/e/e205.scad>
 af_vec_path   = airfoil_E205_path ();
 af_vec_slice  = airfoil_E205_slice ();
 af_vec_range  = airfoil_E205_range ();

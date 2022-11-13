@@ -1,9 +1,9 @@
-/* Generated from uag8814320.dat
+/* Generated from u/uag8814320.dat
 
 Usage (copy/paste):
 
 //    UAG8814320
-include <airfoil/uag8814320.scad>
+include <openscad-airfoil/u/uag8814320.scad>
 af_vec_path   = airfoil_UAG8814320_path ();
 af_vec_slice  = airfoil_UAG8814320_slice ();
 af_vec_range  = airfoil_UAG8814320_range ();

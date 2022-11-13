@@ -1,9 +1,9 @@
-/* Generated from goe397.dat
+/* Generated from g/goe397.dat
 
 Usage (copy/paste):
 
 //    GOE397
-include <airfoil/goe397.scad>
+include <openscad-airfoil/g/goe397.scad>
 af_vec_path   = airfoil_GOE397_path ();
 af_vec_slice  = airfoil_GOE397_slice ();
 af_vec_range  = airfoil_GOE397_range ();

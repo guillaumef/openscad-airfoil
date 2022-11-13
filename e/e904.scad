@@ -1,9 +1,9 @@
-/* Generated from e904.dat
+/* Generated from e/e904.dat
 
 Usage (copy/paste):
 
 //    E904
-include <airfoil/e904.scad>
+include <openscad-airfoil/e/e904.scad>
 af_vec_path   = airfoil_E904_path ();
 af_vec_slice  = airfoil_E904_slice ();
 af_vec_range  = airfoil_E904_range ();

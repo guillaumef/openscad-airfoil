@@ -1,9 +1,9 @@
-/* Generated from eh2510.dat
+/* Generated from e/eh2510.dat
 
 Usage (copy/paste):
 
 //    EH2510
-include <airfoil/eh2510.scad>
+include <openscad-airfoil/e/eh2510.scad>
 af_vec_path   = airfoil_EH2510_path ();
 af_vec_slice  = airfoil_EH2510_slice ();
 af_vec_range  = airfoil_EH2510_range ();

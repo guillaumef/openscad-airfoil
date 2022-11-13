@@ -1,9 +1,9 @@
-/* Generated from r1082t.dat
+/* Generated from r/r1082t.dat
 
 Usage (copy/paste):
 
 //    R1082T
-include <airfoil/r1082t.scad>
+include <openscad-airfoil/r/r1082t.scad>
 af_vec_path   = airfoil_R1082T_path ();
 af_vec_slice  = airfoil_R1082T_slice ();
 af_vec_range  = airfoil_R1082T_range ();

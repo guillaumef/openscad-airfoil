@@ -1,9 +1,9 @@
-/* Generated from august160.dat
+/* Generated from a/august160.dat
 
 Usage (copy/paste):
 
 //    AUGUST160
-include <airfoil/august160.scad>
+include <openscad-airfoil/a/august160.scad>
 af_vec_path   = airfoil_AUGUST160_path ();
 af_vec_slice  = airfoil_AUGUST160_slice ();
 af_vec_range  = airfoil_AUGUST160_range ();

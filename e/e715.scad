@@ -1,9 +1,9 @@
-/* Generated from e715.dat
+/* Generated from e/e715.dat
 
 Usage (copy/paste):
 
 //    E715
-include <airfoil/e715.scad>
+include <openscad-airfoil/e/e715.scad>
 af_vec_path   = airfoil_E715_path ();
 af_vec_slice  = airfoil_E715_slice ();
 af_vec_range  = airfoil_E715_range ();

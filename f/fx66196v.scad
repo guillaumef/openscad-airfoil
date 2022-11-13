@@ -1,9 +1,9 @@
-/* Generated from fx66196v.dat
+/* Generated from f/fx66196v.dat
 
 Usage (copy/paste):
 
 //    FX66196V
-include <airfoil/fx66196v.scad>
+include <openscad-airfoil/f/fx66196v.scad>
 af_vec_path   = airfoil_FX66196V_path ();
 af_vec_slice  = airfoil_FX66196V_slice ();
 af_vec_range  = airfoil_FX66196V_range ();

@@ -1,9 +1,9 @@
-/* Generated from m20.dat
+/* Generated from m/m20.dat
 
 Usage (copy/paste):
 
 //    M20
-include <airfoil/m20.scad>
+include <openscad-airfoil/m/m20.scad>
 af_vec_path   = airfoil_M20_path ();
 af_vec_slice  = airfoil_M20_slice ();
 af_vec_range  = airfoil_M20_range ();

@@ -1,9 +1,9 @@
-/* Generated from rg15a111.dat
+/* Generated from r/rg15a111.dat
 
 Usage (copy/paste):
 
 //    RG15A111
-include <airfoil/rg15a111.scad>
+include <openscad-airfoil/r/rg15a111.scad>
 af_vec_path   = airfoil_RG15A111_path ();
 af_vec_slice  = airfoil_RG15A111_slice ();
 af_vec_range  = airfoil_RG15A111_range ();

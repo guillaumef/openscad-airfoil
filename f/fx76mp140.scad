@@ -1,9 +1,9 @@
-/* Generated from fx76mp140.dat
+/* Generated from f/fx76mp140.dat
 
 Usage (copy/paste):
 
 //    FX76MP140
-include <airfoil/fx76mp140.scad>
+include <openscad-airfoil/f/fx76mp140.scad>
 af_vec_path   = airfoil_FX76MP140_path ();
 af_vec_slice  = airfoil_FX76MP140_slice ();
 af_vec_range  = airfoil_FX76MP140_range ();

@@ -1,9 +1,9 @@
-/* Generated from e395.dat
+/* Generated from e/e395.dat
 
 Usage (copy/paste):
 
 //    E395
-include <airfoil/e395.scad>
+include <openscad-airfoil/e/e395.scad>
 af_vec_path   = airfoil_E395_path ();
 af_vec_slice  = airfoil_E395_slice ();
 af_vec_range  = airfoil_E395_range ();

@@ -1,9 +1,9 @@
-/* Generated from k3.dat
+/* Generated from k/k3.dat
 
 Usage (copy/paste):
 
 //    K3
-include <airfoil/k3.scad>
+include <openscad-airfoil/k/k3.scad>
 af_vec_path   = airfoil_K3_path ();
 af_vec_slice  = airfoil_K3_slice ();
 af_vec_range  = airfoil_K3_range ();

@@ -1,9 +1,9 @@
-/* Generated from ls013.dat
+/* Generated from l/ls013.dat
 
 Usage (copy/paste):
 
 //    LS013
-include <airfoil/ls013.scad>
+include <openscad-airfoil/l/ls013.scad>
 af_vec_path   = airfoil_LS013_path ();
 af_vec_slice  = airfoil_LS013_slice ();
 af_vec_range  = airfoil_LS013_range ();

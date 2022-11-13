@@ -1,9 +1,9 @@
-/* Generated from e209.dat
+/* Generated from e/e209.dat
 
 Usage (copy/paste):
 
 //    E209
-include <airfoil/e209.scad>
+include <openscad-airfoil/e/e209.scad>
 af_vec_path   = airfoil_E209_path ();
 af_vec_slice  = airfoil_E209_slice ();
 af_vec_range  = airfoil_E209_range ();

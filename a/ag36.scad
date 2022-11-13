@@ -1,9 +1,9 @@
-/* Generated from ag36.dat
+/* Generated from a/ag36.dat
 
 Usage (copy/paste):
 
 //    AG36
-include <airfoil/ag36.scad>
+include <openscad-airfoil/a/ag36.scad>
 af_vec_path   = airfoil_AG36_path ();
 af_vec_slice  = airfoil_AG36_slice ();
 af_vec_range  = airfoil_AG36_range ();

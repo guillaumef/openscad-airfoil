@@ -1,9 +1,9 @@
-/* Generated from 2032c.dat
+/* Generated from 0-9/2032c.dat
 
 Usage (copy/paste):
 
 //    2032C
-include <airfoil/2032c.scad>
+include <openscad-airfoil/0-9/2032c.scad>
 af_vec_path   = airfoil_2032C_path ();
 af_vec_slice  = airfoil_2032C_slice ();
 af_vec_range  = airfoil_2032C_range ();

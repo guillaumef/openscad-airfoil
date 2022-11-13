@@ -1,9 +1,9 @@
-/* Generated from sg6043.dat
+/* Generated from s/sg6043.dat
 
 Usage (copy/paste):
 
 //    SG6043
-include <airfoil/sg6043.scad>
+include <openscad-airfoil/s/sg6043.scad>
 af_vec_path   = airfoil_SG6043_path ();
 af_vec_slice  = airfoil_SG6043_slice ();
 af_vec_range  = airfoil_SG6043_range ();

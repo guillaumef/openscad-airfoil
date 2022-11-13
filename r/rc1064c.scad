@@ -1,9 +1,9 @@
-/* Generated from rc1064c.dat
+/* Generated from r/rc1064c.dat
 
 Usage (copy/paste):
 
 //    RC1064C
-include <airfoil/rc1064c.scad>
+include <openscad-airfoil/r/rc1064c.scad>
 af_vec_path   = airfoil_RC1064C_path ();
 af_vec_slice  = airfoil_RC1064C_slice ();
 af_vec_range  = airfoil_RC1064C_range ();

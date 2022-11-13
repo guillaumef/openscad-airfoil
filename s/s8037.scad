@@ -1,9 +1,9 @@
-/* Generated from s8037.dat
+/* Generated from s/s8037.dat
 
 Usage (copy/paste):
 
 //    S8037
-include <airfoil/s8037.scad>
+include <openscad-airfoil/s/s8037.scad>
 af_vec_path   = airfoil_S8037_path ();
 af_vec_slice  = airfoil_S8037_slice ();
 af_vec_range  = airfoil_S8037_range ();

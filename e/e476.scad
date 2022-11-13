@@ -1,9 +1,9 @@
-/* Generated from e476.dat
+/* Generated from e/e476.dat
 
 Usage (copy/paste):
 
 //    E476
-include <airfoil/e476.scad>
+include <openscad-airfoil/e/e476.scad>
 af_vec_path   = airfoil_E476_path ();
 af_vec_slice  = airfoil_E476_slice ();
 af_vec_range  = airfoil_E476_range ();

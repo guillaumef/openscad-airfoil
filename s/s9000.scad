@@ -1,9 +1,9 @@
-/* Generated from s9000.dat
+/* Generated from s/s9000.dat
 
 Usage (copy/paste):
 
 //    S9000
-include <airfoil/s9000.scad>
+include <openscad-airfoil/s/s9000.scad>
 af_vec_path   = airfoil_S9000_path ();
 af_vec_slice  = airfoil_S9000_slice ();
 af_vec_range  = airfoil_S9000_range ();

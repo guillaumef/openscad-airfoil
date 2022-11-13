@@ -1,9 +1,9 @@
-/* Generated from e407.dat
+/* Generated from e/e407.dat
 
 Usage (copy/paste):
 
 //    E407
-include <airfoil/e407.scad>
+include <openscad-airfoil/e/e407.scad>
 af_vec_path   = airfoil_E407_path ();
 af_vec_slice  = airfoil_E407_slice ();
 af_vec_range  = airfoil_E407_range ();

@@ -1,9 +1,9 @@
-/* Generated from naca2421.dat
+/* Generated from n/naca2421.dat
 
 Usage (copy/paste):
 
 //    NACA2421
-include <airfoil/naca2421.scad>
+include <openscad-airfoil/n/naca2421.scad>
 af_vec_path   = airfoil_NACA2421_path ();
 af_vec_slice  = airfoil_NACA2421_slice ();
 af_vec_range  = airfoil_NACA2421_range ();
@@ -12,7 +12,7 @@ airfoil_NACA2421 (); // 2d object
 
 */
 function airfoil_NACA2421_path () = [
-     [         100 ,           0 ]
+     [         100 ,        0.22 ]
     ,[          95 ,        1.76 ]
     ,[          90 ,        3.18 ]
     ,[          80 ,        5.74 ]
@@ -47,7 +47,7 @@ function airfoil_NACA2421_path () = [
     ,[          80 ,       -3.44 ]
     ,[          90 ,       -1.88 ]
     ,[          95 ,       -1.06 ]
-    ,[         100 ,           0 ]
+    ,[         100 ,       -0.22 ]
 ];
 function airfoil_NACA2421_slice () = [
      [ 0, 0, 0 ]
@@ -67,7 +67,7 @@ function airfoil_NACA2421_slice () = [
     ,[ 80, 5.74, -3.44 ]
     ,[ 90, 3.18, -1.88 ]
     ,[ 95, 1.76, -1.06 ]
-    ,[ 100, 0, 0 ]
+    ,[ 100, 0.22, -0.22 ]
 ];
 function airfoil_NACA2421_range () = [
   0, 100,

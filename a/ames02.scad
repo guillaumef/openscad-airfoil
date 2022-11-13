@@ -1,9 +1,9 @@
-/* Generated from ames02.dat
+/* Generated from a/ames02.dat
 
 Usage (copy/paste):
 
 //    AMES02
-include <airfoil/ames02.scad>
+include <openscad-airfoil/a/ames02.scad>
 af_vec_path   = airfoil_AMES02_path ();
 af_vec_slice  = airfoil_AMES02_slice ();
 af_vec_range  = airfoil_AMES02_range ();

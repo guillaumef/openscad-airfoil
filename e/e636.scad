@@ -1,9 +1,9 @@
-/* Generated from e636.dat
+/* Generated from e/e636.dat
 
 Usage (copy/paste):
 
 //    E636
-include <airfoil/e636.scad>
+include <openscad-airfoil/e/e636.scad>
 af_vec_path   = airfoil_E636_path ();
 af_vec_slice  = airfoil_E636_slice ();
 af_vec_range  = airfoil_E636_range ();

@@ -1,9 +1,9 @@
-/* Generated from fx38153.dat
+/* Generated from f/fx38153.dat
 
 Usage (copy/paste):
 
 //    FX38153
-include <airfoil/fx38153.scad>
+include <openscad-airfoil/f/fx38153.scad>
 af_vec_path   = airfoil_FX38153_path ();
 af_vec_slice  = airfoil_FX38153_slice ();
 af_vec_range  = airfoil_FX38153_range ();

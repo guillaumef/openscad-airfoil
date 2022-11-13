@@ -1,9 +1,9 @@
-/* Generated from ua2-180sm.dat
+/* Generated from u/ua2-180sm.dat
 
 Usage (copy/paste):
 
 //    UA2180SM
-include <airfoil/ua2-180sm.scad>
+include <openscad-airfoil/u/ua2-180sm.scad>
 af_vec_path   = airfoil_UA2180SM_path ();
 af_vec_slice  = airfoil_UA2180SM_slice ();
 af_vec_range  = airfoil_UA2180SM_range ();

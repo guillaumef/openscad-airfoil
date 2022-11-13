@@ -1,9 +1,9 @@
-/* Generated from e851.dat
+/* Generated from e/e851.dat
 
 Usage (copy/paste):
 
 //    E851
-include <airfoil/e851.scad>
+include <openscad-airfoil/e/e851.scad>
 af_vec_path   = airfoil_E851_path ();
 af_vec_slice  = airfoil_E851_slice ();
 af_vec_range  = airfoil_E851_range ();

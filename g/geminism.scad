@@ -1,9 +1,9 @@
-/* Generated from geminism.dat
+/* Generated from g/geminism.dat
 
 Usage (copy/paste):
 
 //    GEMINISM
-include <airfoil/geminism.scad>
+include <openscad-airfoil/g/geminism.scad>
 af_vec_path   = airfoil_GEMINISM_path ();
 af_vec_slice  = airfoil_GEMINISM_slice ();
 af_vec_range  = airfoil_GEMINISM_range ();

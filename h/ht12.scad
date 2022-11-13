@@ -1,9 +1,9 @@
-/* Generated from ht12.dat
+/* Generated from h/ht12.dat
 
 Usage (copy/paste):
 
 //    HT12
-include <airfoil/ht12.scad>
+include <openscad-airfoil/h/ht12.scad>
 af_vec_path   = airfoil_HT12_path ();
 af_vec_slice  = airfoil_HT12_slice ();
 af_vec_range  = airfoil_HT12_range ();

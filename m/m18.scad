@@ -1,9 +1,9 @@
-/* Generated from m18.dat
+/* Generated from m/m18.dat
 
 Usage (copy/paste):
 
 //    M18
-include <airfoil/m18.scad>
+include <openscad-airfoil/m/m18.scad>
 af_vec_path   = airfoil_M18_path ();
 af_vec_slice  = airfoil_M18_slice ();
 af_vec_range  = airfoil_M18_range ();

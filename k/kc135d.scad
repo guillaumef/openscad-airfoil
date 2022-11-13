@@ -1,9 +1,9 @@
-/* Generated from kc135d.dat
+/* Generated from k/kc135d.dat
 
 Usage (copy/paste):
 
 //    KC135D
-include <airfoil/kc135d.scad>
+include <openscad-airfoil/k/kc135d.scad>
 af_vec_path   = airfoil_KC135D_path ();
 af_vec_slice  = airfoil_KC135D_slice ();
 af_vec_range  = airfoil_KC135D_range ();

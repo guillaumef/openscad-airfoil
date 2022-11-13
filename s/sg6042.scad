@@ -1,9 +1,9 @@
-/* Generated from sg6042.dat
+/* Generated from s/sg6042.dat
 
 Usage (copy/paste):
 
 //    SG6042
-include <airfoil/sg6042.scad>
+include <openscad-airfoil/s/sg6042.scad>
 af_vec_path   = airfoil_SG6042_path ();
 af_vec_slice  = airfoil_SG6042_slice ();
 af_vec_range  = airfoil_SG6042_range ();

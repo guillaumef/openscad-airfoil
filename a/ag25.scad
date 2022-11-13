@@ -1,9 +1,9 @@
-/* Generated from ag25.dat
+/* Generated from a/ag25.dat
 
 Usage (copy/paste):
 
 //    AG25
-include <airfoil/ag25.scad>
+include <openscad-airfoil/a/ag25.scad>
 af_vec_path   = airfoil_AG25_path ();
 af_vec_slice  = airfoil_AG25_slice ();
 af_vec_range  = airfoil_AG25_range ();

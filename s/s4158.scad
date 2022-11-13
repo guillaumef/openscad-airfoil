@@ -1,9 +1,9 @@
-/* Generated from s4158.dat
+/* Generated from s/s4158.dat
 
 Usage (copy/paste):
 
 //    S4158
-include <airfoil/s4158.scad>
+include <openscad-airfoil/s/s4158.scad>
 af_vec_path   = airfoil_S4158_path ();
 af_vec_slice  = airfoil_S4158_slice ();
 af_vec_range  = airfoil_S4158_range ();

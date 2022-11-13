@@ -1,9 +1,9 @@
-/* Generated from oaf128.dat
+/* Generated from o/oaf128.dat
 
 Usage (copy/paste):
 
 //    OAF128
-include <airfoil/oaf128.scad>
+include <openscad-airfoil/o/oaf128.scad>
 af_vec_path   = airfoil_OAF128_path ();
 af_vec_slice  = airfoil_OAF128_slice ();
 af_vec_range  = airfoil_OAF128_range ();

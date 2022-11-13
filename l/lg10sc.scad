@@ -1,9 +1,9 @@
-/* Generated from lg10sc.dat
+/* Generated from l/lg10sc.dat
 
 Usage (copy/paste):
 
 //    LG10SC
-include <airfoil/lg10sc.scad>
+include <openscad-airfoil/l/lg10sc.scad>
 af_vec_path   = airfoil_LG10SC_path ();
 af_vec_slice  = airfoil_LG10SC_slice ();
 af_vec_range  = airfoil_LG10SC_range ();

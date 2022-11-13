@@ -1,9 +1,9 @@
-/* Generated from ag04.dat
+/* Generated from a/ag04.dat
 
 Usage (copy/paste):
 
 //    AG04
-include <airfoil/ag04.scad>
+include <openscad-airfoil/a/ag04.scad>
 af_vec_path   = airfoil_AG04_path ();
 af_vec_slice  = airfoil_AG04_slice ();
 af_vec_range  = airfoil_AG04_range ();

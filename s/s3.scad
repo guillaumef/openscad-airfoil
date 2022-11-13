@@ -1,9 +1,9 @@
-/* Generated from s3.dat
+/* Generated from s/s3.dat
 
 Usage (copy/paste):
 
 //    S3
-include <airfoil/s3.scad>
+include <openscad-airfoil/s/s3.scad>
 af_vec_path   = airfoil_S3_path ();
 af_vec_slice  = airfoil_S3_slice ();
 af_vec_range  = airfoil_S3_range ();

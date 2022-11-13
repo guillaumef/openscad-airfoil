@@ -1,9 +1,9 @@
-/* Generated from ah81k144.dat
+/* Generated from a/ah81k144.dat
 
 Usage (copy/paste):
 
 //    AH81K144
-include <airfoil/ah81k144.scad>
+include <openscad-airfoil/a/ah81k144.scad>
 af_vec_path   = airfoil_AH81K144_path ();
 af_vec_slice  = airfoil_AH81K144_slice ();
 af_vec_range  = airfoil_AH81K144_range ();

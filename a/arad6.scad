@@ -1,9 +1,9 @@
-/* Generated from arad6.dat
+/* Generated from a/arad6.dat
 
 Usage (copy/paste):
 
 //    ARAD6
-include <airfoil/arad6.scad>
+include <openscad-airfoil/a/arad6.scad>
 af_vec_path   = airfoil_ARAD6_path ();
 af_vec_slice  = airfoil_ARAD6_slice ();
 af_vec_range  = airfoil_ARAD6_range ();

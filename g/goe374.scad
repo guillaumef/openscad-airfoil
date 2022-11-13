@@ -1,9 +1,9 @@
-/* Generated from goe374.dat
+/* Generated from g/goe374.dat
 
 Usage (copy/paste):
 
 //    GOE374
-include <airfoil/goe374.scad>
+include <openscad-airfoil/g/goe374.scad>
 af_vec_path   = airfoil_GOE374_path ();
 af_vec_slice  = airfoil_GOE374_slice ();
 af_vec_range  = airfoil_GOE374_range ();
@@ -47,7 +47,7 @@ function airfoil_GOE374_path () = [
     ,[           0 ,           0 ]
     ,[       1.241 , -0.393581611250517 ]
     ,[       1.252 ,      -0.394 ]
-    ,[       2.486 , -0.14101829560985 ]
+    ,[       2.486 , -0.141018295609849 ]
     ,[       2.501 ,      -0.137 ]
     ,[       4.979 , 0.17342650839827 ]
     ,[       4.999 ,       0.175 ]
@@ -81,7 +81,7 @@ function airfoil_GOE374_slice () = [
      [ 0, 0, 0 ]
     ,[ 1.241, 1.756, -0.393581611250517 ]
     ,[ 1.252, 1.76851651935642, -0.394 ]
-    ,[ 2.486, 2.812, -0.14101829560985 ]
+    ,[ 2.486, 2.812, -0.141018295609849 ]
     ,[ 2.501, 2.82208712639846, -0.137 ]
     ,[ 4.979, 4.225, 0.17342650839827 ]
     ,[ 4.999, 4.23433962334466, 0.175 ]

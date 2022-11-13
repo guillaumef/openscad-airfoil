@@ -1,9 +1,9 @@
-/* Generated from e64.dat
+/* Generated from e/e64.dat
 
 Usage (copy/paste):
 
 //    E64
-include <airfoil/e64.scad>
+include <openscad-airfoil/e/e64.scad>
 af_vec_path   = airfoil_E64_path ();
 af_vec_slice  = airfoil_E64_slice ();
 af_vec_range  = airfoil_E64_range ();

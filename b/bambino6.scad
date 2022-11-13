@@ -1,9 +1,9 @@
-/* Generated from bambino6.dat
+/* Generated from b/bambino6.dat
 
 Usage (copy/paste):
 
 //    BAMBINO6
-include <airfoil/bambino6.scad>
+include <openscad-airfoil/b/bambino6.scad>
 af_vec_path   = airfoil_BAMBINO6_path ();
 af_vec_slice  = airfoil_BAMBINO6_slice ();
 af_vec_range  = airfoil_BAMBINO6_range ();

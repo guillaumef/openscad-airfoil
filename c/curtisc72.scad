@@ -1,9 +1,9 @@
-/* Generated from curtisc72.dat
+/* Generated from c/curtisc72.dat
 
 Usage (copy/paste):
 
 //    CURTISC72
-include <airfoil/curtisc72.scad>
+include <openscad-airfoil/c/curtisc72.scad>
 af_vec_path   = airfoil_CURTISC72_path ();
 af_vec_slice  = airfoil_CURTISC72_slice ();
 af_vec_range  = airfoil_CURTISC72_range ();

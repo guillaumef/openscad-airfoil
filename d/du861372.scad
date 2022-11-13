@@ -1,9 +1,9 @@
-/* Generated from du861372.dat
+/* Generated from d/du861372.dat
 
 Usage (copy/paste):
 
 //    DU861372
-include <airfoil/du861372.scad>
+include <openscad-airfoil/d/du861372.scad>
 af_vec_path   = airfoil_DU861372_path ();
 af_vec_slice  = airfoil_DU861372_slice ();
 af_vec_range  = airfoil_DU861372_range ();

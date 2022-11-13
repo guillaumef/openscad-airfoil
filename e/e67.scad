@@ -1,9 +1,9 @@
-/* Generated from e67.dat
+/* Generated from e/e67.dat
 
 Usage (copy/paste):
 
 //    E67
-include <airfoil/e67.scad>
+include <openscad-airfoil/e/e67.scad>
 af_vec_path   = airfoil_E67_path ();
 af_vec_slice  = airfoil_E67_slice ();
 af_vec_range  = airfoil_E67_range ();

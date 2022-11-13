@@ -1,9 +1,9 @@
-/* Generated from giiid.dat
+/* Generated from g/giiid.dat
 
 Usage (copy/paste):
 
 //    GIIID
-include <airfoil/giiid.scad>
+include <openscad-airfoil/g/giiid.scad>
 af_vec_path   = airfoil_GIIID_path ();
 af_vec_slice  = airfoil_GIIID_slice ();
 af_vec_range  = airfoil_GIIID_range ();

@@ -1,9 +1,9 @@
-/* Generated from eh2070.dat
+/* Generated from e/eh2070.dat
 
 Usage (copy/paste):
 
 //    EH2070
-include <airfoil/eh2070.scad>
+include <openscad-airfoil/e/eh2070.scad>
 af_vec_path   = airfoil_EH2070_path ();
 af_vec_slice  = airfoil_EH2070_slice ();
 af_vec_range  = airfoil_EH2070_range ();

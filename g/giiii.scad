@@ -1,9 +1,9 @@
-/* Generated from giiii.dat
+/* Generated from g/giiii.dat
 
 Usage (copy/paste):
 
 //    GIIII
-include <airfoil/giiii.scad>
+include <openscad-airfoil/g/giiii.scad>
 af_vec_path   = airfoil_GIIII_path ();
 af_vec_slice  = airfoil_GIIII_slice ();
 af_vec_range  = airfoil_GIIII_range ();

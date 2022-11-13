@@ -1,9 +1,9 @@
-/* Generated from sc20712.dat
+/* Generated from s/sc20712.dat
 
 Usage (copy/paste):
 
 //    SC20712
-include <airfoil/sc20712.scad>
+include <openscad-airfoil/s/sc20712.scad>
 af_vec_path   = airfoil_SC20712_path ();
 af_vec_slice  = airfoil_SC20712_slice ();
 af_vec_range  = airfoil_SC20712_range ();

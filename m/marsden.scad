@@ -1,9 +1,9 @@
-/* Generated from marsden.dat
+/* Generated from m/marsden.dat
 
 Usage (copy/paste):
 
 //    MARSDEN
-include <airfoil/marsden.scad>
+include <openscad-airfoil/m/marsden.scad>
 af_vec_path   = airfoil_MARSDEN_path ();
 af_vec_slice  = airfoil_MARSDEN_slice ();
 af_vec_range  = airfoil_MARSDEN_range ();

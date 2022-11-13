@@ -1,9 +1,9 @@
-/* Generated from n63212.dat
+/* Generated from n/n63212.dat
 
 Usage (copy/paste):
 
 //    N63212
-include <airfoil/n63212.scad>
+include <openscad-airfoil/n/n63212.scad>
 af_vec_path   = airfoil_N63212_path ();
 af_vec_slice  = airfoil_N63212_slice ();
 af_vec_range  = airfoil_N63212_range ();

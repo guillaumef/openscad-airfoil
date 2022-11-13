@@ -1,9 +1,9 @@
-/* Generated from k2.dat
+/* Generated from k/k2.dat
 
 Usage (copy/paste):
 
 //    K2
-include <airfoil/k2.scad>
+include <openscad-airfoil/k/k2.scad>
 af_vec_path   = airfoil_K2_path ();
 af_vec_slice  = airfoil_K2_slice ();
 af_vec_range  = airfoil_K2_range ();

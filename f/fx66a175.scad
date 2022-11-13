@@ -1,9 +1,9 @@
-/* Generated from fx66a175.dat
+/* Generated from f/fx66a175.dat
 
 Usage (copy/paste):
 
 //    FX66A175
-include <airfoil/fx66a175.scad>
+include <openscad-airfoil/f/fx66a175.scad>
 af_vec_path   = airfoil_FX66A175_path ();
 af_vec_slice  = airfoil_FX66A175_slice ();
 af_vec_range  = airfoil_FX66A175_range ();

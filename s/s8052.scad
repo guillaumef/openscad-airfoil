@@ -1,9 +1,9 @@
-/* Generated from s8052.dat
+/* Generated from s/s8052.dat
 
 Usage (copy/paste):
 
 //    S8052
-include <airfoil/s8052.scad>
+include <openscad-airfoil/s/s8052.scad>
 af_vec_path   = airfoil_S8052_path ();
 af_vec_slice  = airfoil_S8052_slice ();
 af_vec_range  = airfoil_S8052_range ();

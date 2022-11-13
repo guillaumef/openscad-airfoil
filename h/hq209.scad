@@ -1,9 +1,9 @@
-/* Generated from hq209.dat
+/* Generated from h/hq209.dat
 
 Usage (copy/paste):
 
 //    HQ209
-include <airfoil/hq209.scad>
+include <openscad-airfoil/h/hq209.scad>
 af_vec_path   = airfoil_HQ209_path ();
 af_vec_slice  = airfoil_HQ209_slice ();
 af_vec_range  = airfoil_HQ209_range ();

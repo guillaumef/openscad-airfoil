@@ -1,9 +1,9 @@
-/* Generated from gm15sm.dat
+/* Generated from g/gm15sm.dat
 
 Usage (copy/paste):
 
 //    GM15SM
-include <airfoil/gm15sm.scad>
+include <openscad-airfoil/g/gm15sm.scad>
 af_vec_path   = airfoil_GM15SM_path ();
 af_vec_slice  = airfoil_GM15SM_slice ();
 af_vec_range  = airfoil_GM15SM_range ();

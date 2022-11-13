@@ -1,9 +1,9 @@
-/* Generated from s2048.dat
+/* Generated from s/s2048.dat
 
 Usage (copy/paste):
 
 //    S2048
-include <airfoil/s2048.scad>
+include <openscad-airfoil/s/s2048.scad>
 af_vec_path   = airfoil_S2048_path ();
 af_vec_slice  = airfoil_S2048_slice ();
 af_vec_range  = airfoil_S2048_range ();

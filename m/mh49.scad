@@ -1,9 +1,9 @@
-/* Generated from mh49.dat
+/* Generated from m/mh49.dat
 
 Usage (copy/paste):
 
 //    MH49
-include <airfoil/mh49.scad>
+include <openscad-airfoil/m/mh49.scad>
 af_vec_path   = airfoil_MH49_path ();
 af_vec_slice  = airfoil_MH49_slice ();
 af_vec_range  = airfoil_MH49_range ();

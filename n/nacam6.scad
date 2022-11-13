@@ -1,9 +1,9 @@
-/* Generated from nacam6.dat
+/* Generated from n/nacam6.dat
 
 Usage (copy/paste):
 
 //    NACAM6
-include <airfoil/nacam6.scad>
+include <openscad-airfoil/n/nacam6.scad>
 af_vec_path   = airfoil_NACAM6_path ();
 af_vec_slice  = airfoil_NACAM6_slice ();
 af_vec_range  = airfoil_NACAM6_range ();

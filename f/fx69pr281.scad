@@ -1,9 +1,9 @@
-/* Generated from fx69pr281.dat
+/* Generated from f/fx69pr281.dat
 
 Usage (copy/paste):
 
 //    FX69PR281
-include <airfoil/fx69pr281.scad>
+include <openscad-airfoil/f/fx69pr281.scad>
 af_vec_path   = airfoil_FX69PR281_path ();
 af_vec_slice  = airfoil_FX69PR281_slice ();
 af_vec_range  = airfoil_FX69PR281_range ();

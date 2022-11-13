@@ -1,9 +1,9 @@
-/* Generated from gu255118.dat
+/* Generated from g/gu255118.dat
 
 Usage (copy/paste):
 
 //    GU255118
-include <airfoil/gu255118.scad>
+include <openscad-airfoil/g/gu255118.scad>
 af_vec_path   = airfoil_GU255118_path ();
 af_vec_slice  = airfoil_GU255118_slice ();
 af_vec_range  = airfoil_GU255118_range ();

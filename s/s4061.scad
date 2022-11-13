@@ -1,9 +1,9 @@
-/* Generated from s4061.dat
+/* Generated from s/s4061.dat
 
 Usage (copy/paste):
 
 //    S4061
-include <airfoil/s4061.scad>
+include <openscad-airfoil/s/s4061.scad>
 af_vec_path   = airfoil_S4061_path ();
 af_vec_slice  = airfoil_S4061_slice ();
 af_vec_range  = airfoil_S4061_range ();

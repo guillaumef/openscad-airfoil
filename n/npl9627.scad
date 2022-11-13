@@ -1,9 +1,9 @@
-/* Generated from npl9627.dat
+/* Generated from n/npl9627.dat
 
 Usage (copy/paste):
 
 //    NPL9627
-include <airfoil/npl9627.scad>
+include <openscad-airfoil/n/npl9627.scad>
 af_vec_path   = airfoil_NPL9627_path ();
 af_vec_slice  = airfoil_NPL9627_slice ();
 af_vec_range  = airfoil_NPL9627_range ();

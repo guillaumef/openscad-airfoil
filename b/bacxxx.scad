@@ -1,9 +1,9 @@
-/* Generated from bacxxx.dat
+/* Generated from b/bacxxx.dat
 
 Usage (copy/paste):
 
 //    BACXXX
-include <airfoil/bacxxx.scad>
+include <openscad-airfoil/b/bacxxx.scad>
 af_vec_path   = airfoil_BACXXX_path ();
 af_vec_slice  = airfoil_BACXXX_slice ();
 af_vec_range  = airfoil_BACXXX_range ();

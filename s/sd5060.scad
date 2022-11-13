@@ -1,9 +1,9 @@
-/* Generated from sd5060.dat
+/* Generated from s/sd5060.dat
 
 Usage (copy/paste):
 
 //    SD5060
-include <airfoil/sd5060.scad>
+include <openscad-airfoil/s/sd5060.scad>
 af_vec_path   = airfoil_SD5060_path ();
 af_vec_slice  = airfoil_SD5060_slice ();
 af_vec_range  = airfoil_SD5060_range ();

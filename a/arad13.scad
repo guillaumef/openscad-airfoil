@@ -1,9 +1,9 @@
-/* Generated from arad13.dat
+/* Generated from a/arad13.dat
 
 Usage (copy/paste):
 
 //    ARAD13
-include <airfoil/arad13.scad>
+include <openscad-airfoil/a/arad13.scad>
 af_vec_path   = airfoil_ARAD13_path ();
 af_vec_slice  = airfoil_ARAD13_slice ();
 af_vec_range  = airfoil_ARAD13_range ();

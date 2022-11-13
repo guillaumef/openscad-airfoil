@@ -1,9 +1,9 @@
-/* Generated from e423.dat
+/* Generated from e/e423.dat
 
 Usage (copy/paste):
 
 //    E423
-include <airfoil/e423.scad>
+include <openscad-airfoil/e/e423.scad>
 af_vec_path   = airfoil_E423_path ();
 af_vec_slice  = airfoil_E423_slice ();
 af_vec_range  = airfoil_E423_range ();

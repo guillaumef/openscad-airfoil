@@ -1,9 +1,9 @@
-/* Generated from naca747a415.dat
+/* Generated from n/naca747a415.dat
 
 Usage (copy/paste):
 
 //    NACA747A415
-include <airfoil/naca747a415.scad>
+include <openscad-airfoil/n/naca747a415.scad>
 af_vec_path   = airfoil_NACA747A415_path ();
 af_vec_slice  = airfoil_NACA747A415_slice ();
 af_vec_range  = airfoil_NACA747A415_range ();

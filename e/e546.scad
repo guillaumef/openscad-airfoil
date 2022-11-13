@@ -1,9 +1,9 @@
-/* Generated from e546.dat
+/* Generated from e/e546.dat
 
 Usage (copy/paste):
 
 //    E546
-include <airfoil/e546.scad>
+include <openscad-airfoil/e/e546.scad>
 af_vec_path   = airfoil_E546_path ();
 af_vec_slice  = airfoil_E546_slice ();
 af_vec_range  = airfoil_E546_range ();

@@ -1,9 +1,9 @@
-/* Generated from s2046.dat
+/* Generated from s/s2046.dat
 
 Usage (copy/paste):
 
 //    S2046
-include <airfoil/s2046.scad>
+include <openscad-airfoil/s/s2046.scad>
 af_vec_path   = airfoil_S2046_path ();
 af_vec_slice  = airfoil_S2046_slice ();
 af_vec_range  = airfoil_S2046_range ();

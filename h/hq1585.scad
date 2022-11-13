@@ -1,9 +1,9 @@
-/* Generated from hq1585.dat
+/* Generated from h/hq1585.dat
 
 Usage (copy/paste):
 
 //    HQ1585
-include <airfoil/hq1585.scad>
+include <openscad-airfoil/h/hq1585.scad>
 af_vec_path   = airfoil_HQ1585_path ();
 af_vec_slice  = airfoil_HQ1585_slice ();
 af_vec_range  = airfoil_HQ1585_range ();

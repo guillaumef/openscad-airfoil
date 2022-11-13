@@ -1,9 +1,9 @@
-/* Generated from e392.dat
+/* Generated from e/e392.dat
 
 Usage (copy/paste):
 
 //    E392
-include <airfoil/e392.scad>
+include <openscad-airfoil/e/e392.scad>
 af_vec_path   = airfoil_E392_path ();
 af_vec_slice  = airfoil_E392_slice ();
 af_vec_range  = airfoil_E392_range ();

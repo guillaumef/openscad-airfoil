@@ -1,9 +1,9 @@
-/* Generated from vr8b.dat
+/* Generated from v/vr8b.dat
 
 Usage (copy/paste):
 
 //    VR8B
-include <airfoil/vr8b.scad>
+include <openscad-airfoil/v/vr8b.scad>
 af_vec_path   = airfoil_VR8B_path ();
 af_vec_slice  = airfoil_VR8B_slice ();
 af_vec_range  = airfoil_VR8B_range ();

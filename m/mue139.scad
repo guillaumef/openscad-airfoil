@@ -1,9 +1,9 @@
-/* Generated from mue139.dat
+/* Generated from m/mue139.dat
 
 Usage (copy/paste):
 
 //    MUE139
-include <airfoil/mue139.scad>
+include <openscad-airfoil/m/mue139.scad>
 af_vec_path   = airfoil_MUE139_path ();
 af_vec_slice  = airfoil_MUE139_slice ();
 af_vec_range  = airfoil_MUE139_range ();

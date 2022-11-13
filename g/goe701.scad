@@ -1,9 +1,9 @@
-/* Generated from goe701.dat
+/* Generated from g/goe701.dat
 
 Usage (copy/paste):
 
 //    GOE701
-include <airfoil/goe701.scad>
+include <openscad-airfoil/g/goe701.scad>
 af_vec_path   = airfoil_GOE701_path ();
 af_vec_slice  = airfoil_GOE701_slice ();
 af_vec_range  = airfoil_GOE701_range ();

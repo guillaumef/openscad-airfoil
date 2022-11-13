@@ -1,9 +1,9 @@
-/* Generated from rhodesg36.dat
+/* Generated from r/rhodesg36.dat
 
 Usage (copy/paste):
 
 //    RHODESG36
-include <airfoil/rhodesg36.scad>
+include <openscad-airfoil/r/rhodesg36.scad>
 af_vec_path   = airfoil_RHODESG36_path ();
 af_vec_slice  = airfoil_RHODESG36_slice ();
 af_vec_range  = airfoil_RHODESG36_range ();

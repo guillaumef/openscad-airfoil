@@ -1,9 +1,9 @@
-/* Generated from vr5.dat
+/* Generated from v/vr5.dat
 
 Usage (copy/paste):
 
 //    VR5
-include <airfoil/vr5.scad>
+include <openscad-airfoil/v/vr5.scad>
 af_vec_path   = airfoil_VR5_path ();
 af_vec_slice  = airfoil_VR5_slice ();
 af_vec_range  = airfoil_VR5_range ();

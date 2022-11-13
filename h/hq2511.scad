@@ -1,9 +1,9 @@
-/* Generated from hq2511.dat
+/* Generated from h/hq2511.dat
 
 Usage (copy/paste):
 
 //    HQ2511
-include <airfoil/hq2511.scad>
+include <openscad-airfoil/h/hq2511.scad>
 af_vec_path   = airfoil_HQ2511_path ();
 af_vec_slice  = airfoil_HQ2511_slice ();
 af_vec_range  = airfoil_HQ2511_range ();

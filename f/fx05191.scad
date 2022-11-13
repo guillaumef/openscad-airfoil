@@ -1,9 +1,9 @@
-/* Generated from fx05191.dat
+/* Generated from f/fx05191.dat
 
 Usage (copy/paste):
 
 //    FX05191
-include <airfoil/fx05191.scad>
+include <openscad-airfoil/f/fx05191.scad>
 af_vec_path   = airfoil_FX05191_path ();
 af_vec_slice  = airfoil_FX05191_slice ();
 af_vec_range  = airfoil_FX05191_range ();

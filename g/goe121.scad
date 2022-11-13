@@ -1,9 +1,9 @@
-/* Generated from goe121.dat
+/* Generated from g/goe121.dat
 
 Usage (copy/paste):
 
 //    GOE121
-include <airfoil/goe121.scad>
+include <openscad-airfoil/g/goe121.scad>
 af_vec_path   = airfoil_GOE121_path ();
 af_vec_slice  = airfoil_GOE121_slice ();
 af_vec_range  = airfoil_GOE121_range ();

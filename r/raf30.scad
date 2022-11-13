@@ -1,9 +1,9 @@
-/* Generated from raf30.dat
+/* Generated from r/raf30.dat
 
 Usage (copy/paste):
 
 //    RAF30
-include <airfoil/raf30.scad>
+include <openscad-airfoil/r/raf30.scad>
 af_vec_path   = airfoil_RAF30_path ();
 af_vec_slice  = airfoil_RAF30_slice ();
 af_vec_range  = airfoil_RAF30_range ();

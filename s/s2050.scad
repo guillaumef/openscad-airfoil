@@ -1,9 +1,9 @@
-/* Generated from s2050.dat
+/* Generated from s/s2050.dat
 
 Usage (copy/paste):
 
 //    S2050
-include <airfoil/s2050.scad>
+include <openscad-airfoil/s/s2050.scad>
 af_vec_path   = airfoil_S2050_path ();
 af_vec_slice  = airfoil_S2050_slice ();
 af_vec_range  = airfoil_S2050_range ();

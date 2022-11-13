@@ -1,9 +1,9 @@
-/* Generated from eh2010.dat
+/* Generated from e/eh2010.dat
 
 Usage (copy/paste):
 
 //    EH2010
-include <airfoil/eh2010.scad>
+include <openscad-airfoil/e/eh2010.scad>
 af_vec_path   = airfoil_EH2010_path ();
 af_vec_slice  = airfoil_EH2010_slice ();
 af_vec_range  = airfoil_EH2010_range ();

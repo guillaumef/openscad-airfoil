@@ -1,9 +1,9 @@
-/* Generated from sd7090.dat
+/* Generated from s/sd7090.dat
 
 Usage (copy/paste):
 
 //    SD7090
-include <airfoil/sd7090.scad>
+include <openscad-airfoil/s/sd7090.scad>
 af_vec_path   = airfoil_SD7090_path ();
 af_vec_slice  = airfoil_SD7090_slice ();
 af_vec_range  = airfoil_SD7090_range ();

@@ -1,9 +1,9 @@
-/* Generated from p51droot.dat
+/* Generated from p/p51droot.dat
 
 Usage (copy/paste):
 
 //    P51DROOT
-include <airfoil/p51droot.scad>
+include <openscad-airfoil/p/p51droot.scad>
 af_vec_path   = airfoil_P51DROOT_path ();
 af_vec_slice  = airfoil_P51DROOT_slice ();
 af_vec_range  = airfoil_P51DROOT_range ();

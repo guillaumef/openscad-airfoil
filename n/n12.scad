@@ -1,9 +1,9 @@
-/* Generated from n12.dat
+/* Generated from n/n12.dat
 
 Usage (copy/paste):
 
 //    N12
-include <airfoil/n12.scad>
+include <openscad-airfoil/n/n12.scad>
 af_vec_path   = airfoil_N12_path ();
 af_vec_slice  = airfoil_N12_slice ();
 af_vec_range  = airfoil_N12_range ();

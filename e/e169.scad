@@ -1,9 +1,9 @@
-/* Generated from e169.dat
+/* Generated from e/e169.dat
 
 Usage (copy/paste):
 
 //    E169
-include <airfoil/e169.scad>
+include <openscad-airfoil/e/e169.scad>
 af_vec_path   = airfoil_E169_path ();
 af_vec_slice  = airfoil_E169_slice ();
 af_vec_range  = airfoil_E169_range ();

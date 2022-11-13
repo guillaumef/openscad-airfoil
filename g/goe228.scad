@@ -1,9 +1,9 @@
-/* Generated from goe228.dat
+/* Generated from g/goe228.dat
 
 Usage (copy/paste):
 
 //    GOE228
-include <airfoil/goe228.scad>
+include <openscad-airfoil/g/goe228.scad>
 af_vec_path   = airfoil_GOE228_path ();
 af_vec_slice  = airfoil_GOE228_slice ();
 af_vec_range  = airfoil_GOE228_range ();

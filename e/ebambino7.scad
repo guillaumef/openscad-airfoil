@@ -1,9 +1,9 @@
-/* Generated from ebambino7.dat
+/* Generated from e/ebambino7.dat
 
 Usage (copy/paste):
 
 //    EBAMBINO7
-include <airfoil/ebambino7.scad>
+include <openscad-airfoil/e/ebambino7.scad>
 af_vec_path   = airfoil_EBAMBINO7_path ();
 af_vec_slice  = airfoil_EBAMBINO7_slice ();
 af_vec_range  = airfoil_EBAMBINO7_range ();

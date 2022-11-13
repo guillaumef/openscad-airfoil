@@ -1,9 +1,9 @@
-/* Generated from clarkyh.dat
+/* Generated from c/clarkyh.dat
 
 Usage (copy/paste):
 
 //    CLARKYH
-include <airfoil/clarkyh.scad>
+include <openscad-airfoil/c/clarkyh.scad>
 af_vec_path   = airfoil_CLARKYH_path ();
 af_vec_slice  = airfoil_CLARKYH_slice ();
 af_vec_range  = airfoil_CLARKYH_range ();

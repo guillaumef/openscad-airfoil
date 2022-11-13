@@ -1,9 +1,9 @@
-/* Generated from waspsm.dat
+/* Generated from w/waspsm.dat
 
 Usage (copy/paste):
 
 //    WASPSM
-include <airfoil/waspsm.scad>
+include <openscad-airfoil/w/waspsm.scad>
 af_vec_path   = airfoil_WASPSM_path ();
 af_vec_slice  = airfoil_WASPSM_slice ();
 af_vec_range  = airfoil_WASPSM_range ();

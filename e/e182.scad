@@ -1,9 +1,9 @@
-/* Generated from e182.dat
+/* Generated from e/e182.dat
 
 Usage (copy/paste):
 
 //    E182
-include <airfoil/e182.scad>
+include <openscad-airfoil/e/e182.scad>
 af_vec_path   = airfoil_E182_path ();
 af_vec_slice  = airfoil_E182_slice ();
 af_vec_range  = airfoil_E182_range ();

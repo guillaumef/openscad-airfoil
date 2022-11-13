@@ -1,9 +1,9 @@
-/* Generated from n66021.dat
+/* Generated from n/n66021.dat
 
 Usage (copy/paste):
 
 //    N66021
-include <airfoil/n66021.scad>
+include <openscad-airfoil/n/n66021.scad>
 af_vec_path   = airfoil_N66021_path ();
 af_vec_slice  = airfoil_N66021_slice ();
 af_vec_range  = airfoil_N66021_range ();

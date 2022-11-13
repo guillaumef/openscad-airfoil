@@ -1,9 +1,9 @@
-/* Generated from mh82.dat
+/* Generated from m/mh82.dat
 
 Usage (copy/paste):
 
 //    MH82
-include <airfoil/mh82.scad>
+include <openscad-airfoil/m/mh82.scad>
 af_vec_path   = airfoil_MH82_path ();
 af_vec_slice  = airfoil_MH82_slice ();
 af_vec_range  = airfoil_MH82_range ();

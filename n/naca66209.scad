@@ -1,9 +1,9 @@
-/* Generated from naca66209.dat
+/* Generated from n/naca66209.dat
 
 Usage (copy/paste):
 
 //    NACA66209
-include <airfoil/naca66209.scad>
+include <openscad-airfoil/n/naca66209.scad>
 af_vec_path   = airfoil_NACA66209_path ();
 af_vec_slice  = airfoil_NACA66209_slice ();
 af_vec_range  = airfoil_NACA66209_range ();
@@ -168,10 +168,4 @@ function airfoil_NACA66209_range () = [
 ];
 module airfoil_NACA66209 () {
   polygon(points=airfoil_NACA66209_path());
-}
-
-
-GEN=0;
-if (GEN) {
-	airfoil_NACA66209();
 }

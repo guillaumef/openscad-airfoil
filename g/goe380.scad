@@ -1,9 +1,9 @@
-/* Generated from goe380.dat
+/* Generated from g/goe380.dat
 
 Usage (copy/paste):
 
 //    GOE380
-include <airfoil/goe380.scad>
+include <openscad-airfoil/g/goe380.scad>
 af_vec_path   = airfoil_GOE380_path ();
 af_vec_slice  = airfoil_GOE380_slice ();
 af_vec_range  = airfoil_GOE380_range ();

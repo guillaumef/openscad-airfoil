@@ -1,9 +1,9 @@
-/* Generated from goe802b.dat
+/* Generated from g/goe802b.dat
 
 Usage (copy/paste):
 
 //    GOE802B
-include <airfoil/goe802b.scad>
+include <openscad-airfoil/g/goe802b.scad>
 af_vec_path   = airfoil_GOE802B_path ();
 af_vec_slice  = airfoil_GOE802B_slice ();
 af_vec_range  = airfoil_GOE802B_range ();

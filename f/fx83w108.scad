@@ -1,9 +1,9 @@
-/* Generated from fx83w108.dat
+/* Generated from f/fx83w108.dat
 
 Usage (copy/paste):
 
 //    FX83W108
-include <airfoil/fx83w108.scad>
+include <openscad-airfoil/f/fx83w108.scad>
 af_vec_path   = airfoil_FX83W108_path ();
 af_vec_slice  = airfoil_FX83W108_slice ();
 af_vec_range  = airfoil_FX83W108_range ();

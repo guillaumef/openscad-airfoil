@@ -1,9 +1,9 @@
-/* Generated from e682.dat
+/* Generated from e/e682.dat
 
 Usage (copy/paste):
 
 //    E682
-include <airfoil/e682.scad>
+include <openscad-airfoil/e/e682.scad>
 af_vec_path   = airfoil_E682_path ();
 af_vec_slice  = airfoil_E682_slice ();
 af_vec_range  = airfoil_E682_range ();

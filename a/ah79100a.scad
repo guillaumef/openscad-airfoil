@@ -1,9 +1,9 @@
-/* Generated from ah79100a.dat
+/* Generated from a/ah79100a.dat
 
 Usage (copy/paste):
 
 //    AH79100A
-include <airfoil/ah79100a.scad>
+include <openscad-airfoil/a/ah79100a.scad>
 af_vec_path   = airfoil_AH79100A_path ();
 af_vec_slice  = airfoil_AH79100A_slice ();
 af_vec_range  = airfoil_AH79100A_range ();

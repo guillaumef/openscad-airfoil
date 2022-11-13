@@ -1,9 +1,9 @@
-/* Generated from goe05k.dat
+/* Generated from g/goe05k.dat
 
 Usage (copy/paste):
 
 //    GOE05K
-include <airfoil/goe05k.scad>
+include <openscad-airfoil/g/goe05k.scad>
 af_vec_path   = airfoil_GOE05K_path ();
 af_vec_slice  = airfoil_GOE05K_slice ();
 af_vec_range  = airfoil_GOE05K_range ();

@@ -1,9 +1,9 @@
-/* Generated from goe456.dat
+/* Generated from g/goe456.dat
 
 Usage (copy/paste):
 
 //    GOE456
-include <airfoil/goe456.scad>
+include <openscad-airfoil/g/goe456.scad>
 af_vec_path   = airfoil_GOE456_path ();
 af_vec_slice  = airfoil_GOE456_slice ();
 af_vec_range  = airfoil_GOE456_range ();

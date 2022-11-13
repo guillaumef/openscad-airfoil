@@ -1,9 +1,9 @@
-/* Generated from e174.dat
+/* Generated from e/e174.dat
 
 Usage (copy/paste):
 
 //    E174
-include <airfoil/e174.scad>
+include <openscad-airfoil/e/e174.scad>
 af_vec_path   = airfoil_E174_path ();
 af_vec_slice  = airfoil_E174_slice ();
 af_vec_range  = airfoil_E174_range ();

@@ -1,9 +1,9 @@
-/* Generated from usa32.dat
+/* Generated from u/usa32.dat
 
 Usage (copy/paste):
 
 //    USA32
-include <airfoil/usa32.scad>
+include <openscad-airfoil/u/usa32.scad>
 af_vec_path   = airfoil_USA32_path ();
 af_vec_slice  = airfoil_USA32_slice ();
 af_vec_range  = airfoil_USA32_range ();

@@ -1,9 +1,9 @@
-/* Generated from fx66s161.dat
+/* Generated from f/fx66s161.dat
 
 Usage (copy/paste):
 
 //    FX66S161
-include <airfoil/fx66s161.scad>
+include <openscad-airfoil/f/fx66s161.scad>
 af_vec_path   = airfoil_FX66S161_path ();
 af_vec_slice  = airfoil_FX66S161_slice ();
 af_vec_range  = airfoil_FX66S161_range ();

@@ -1,9 +1,9 @@
-/* Generated from pfcm.dat
+/* Generated from p/pfcm.dat
 
 Usage (copy/paste):
 
 //    PFCM
-include <airfoil/pfcm.scad>
+include <openscad-airfoil/p/pfcm.scad>
 af_vec_path   = airfoil_PFCM_path ();
 af_vec_slice  = airfoil_PFCM_slice ();
 af_vec_range  = airfoil_PFCM_range ();

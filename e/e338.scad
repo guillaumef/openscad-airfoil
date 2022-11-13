@@ -1,9 +1,9 @@
-/* Generated from e338.dat
+/* Generated from e/e338.dat
 
 Usage (copy/paste):
 
 //    E338
-include <airfoil/e338.scad>
+include <openscad-airfoil/e/e338.scad>
 af_vec_path   = airfoil_E338_path ();
 af_vec_slice  = airfoil_E338_slice ();
 af_vec_range  = airfoil_E338_range ();

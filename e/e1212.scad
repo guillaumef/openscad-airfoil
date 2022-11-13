@@ -1,9 +1,9 @@
-/* Generated from e1212.dat
+/* Generated from e/e1212.dat
 
 Usage (copy/paste):
 
 //    E1212
-include <airfoil/e1212.scad>
+include <openscad-airfoil/e/e1212.scad>
 af_vec_path   = airfoil_E1212_path ();
 af_vec_slice  = airfoil_E1212_slice ();
 af_vec_range  = airfoil_E1212_range ();

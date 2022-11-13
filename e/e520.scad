@@ -1,9 +1,9 @@
-/* Generated from e520.dat
+/* Generated from e/e520.dat
 
 Usage (copy/paste):
 
 //    E520
-include <airfoil/e520.scad>
+include <openscad-airfoil/e/e520.scad>
 af_vec_path   = airfoil_E520_path ();
 af_vec_slice  = airfoil_E520_slice ();
 af_vec_range  = airfoil_E520_range ();

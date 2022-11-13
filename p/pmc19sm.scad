@@ -1,9 +1,9 @@
-/* Generated from pmc19sm.dat
+/* Generated from p/pmc19sm.dat
 
 Usage (copy/paste):
 
 //    PMC19SM
-include <airfoil/pmc19sm.scad>
+include <openscad-airfoil/p/pmc19sm.scad>
 af_vec_path   = airfoil_PMC19SM_path ();
 af_vec_slice  = airfoil_PMC19SM_slice ();
 af_vec_range  = airfoil_PMC19SM_range ();

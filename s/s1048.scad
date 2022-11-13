@@ -1,9 +1,9 @@
-/* Generated from s1048.dat
+/* Generated from s/s1048.dat
 
 Usage (copy/paste):
 
 //    S1048
-include <airfoil/s1048.scad>
+include <openscad-airfoil/s/s1048.scad>
 af_vec_path   = airfoil_S1048_path ();
 af_vec_slice  = airfoil_S1048_slice ();
 af_vec_range  = airfoil_S1048_range ();

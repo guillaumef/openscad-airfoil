@@ -1,9 +1,9 @@
-/* Generated from rg1410.dat
+/* Generated from r/rg1410.dat
 
 Usage (copy/paste):
 
 //    RG1410
-include <airfoil/rg1410.scad>
+include <openscad-airfoil/r/rg1410.scad>
 af_vec_path   = airfoil_RG1410_path ();
 af_vec_slice  = airfoil_RG1410_slice ();
 af_vec_range  = airfoil_RG1410_range ();

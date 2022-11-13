@@ -1,9 +1,9 @@
-/* Generated from ag10.dat
+/* Generated from a/ag10.dat
 
 Usage (copy/paste):
 
 //    AG10
-include <airfoil/ag10.scad>
+include <openscad-airfoil/a/ag10.scad>
 af_vec_path   = airfoil_AG10_path ();
 af_vec_slice  = airfoil_AG10_slice ();
 af_vec_range  = airfoil_AG10_range ();

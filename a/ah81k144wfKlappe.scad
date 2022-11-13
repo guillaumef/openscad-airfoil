@@ -1,9 +1,9 @@
-/* Generated from ah81k144wfKlappe.dat
+/* Generated from a/ah81k144wfKlappe.dat
 
 Usage (copy/paste):
 
 //    AH81K144WFKLAPPE
-include <airfoil/ah81k144wfKlappe.scad>
+include <openscad-airfoil/a/ah81k144wfKlappe.scad>
 af_vec_path   = airfoil_AH81K144WFKLAPPE_path ();
 af_vec_slice  = airfoil_AH81K144WFKLAPPE_slice ();
 af_vec_range  = airfoil_AH81K144WFKLAPPE_range ();

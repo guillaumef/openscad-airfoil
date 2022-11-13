@@ -1,9 +1,9 @@
-/* Generated from ag35.dat
+/* Generated from a/ag35.dat
 
 Usage (copy/paste):
 
 //    AG35
-include <airfoil/ag35.scad>
+include <openscad-airfoil/a/ag35.scad>
 af_vec_path   = airfoil_AG35_path ();
 af_vec_slice  = airfoil_AG35_slice ();
 af_vec_range  = airfoil_AG35_range ();

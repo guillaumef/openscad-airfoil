@@ -1,9 +1,9 @@
-/* Generated from mh32.dat
+/* Generated from m/mh32.dat
 
 Usage (copy/paste):
 
 //    MH32
-include <airfoil/mh32.scad>
+include <openscad-airfoil/m/mh32.scad>
 af_vec_path   = airfoil_MH32_path ();
 af_vec_slice  = airfoil_MH32_slice ();
 af_vec_range  = airfoil_MH32_range ();

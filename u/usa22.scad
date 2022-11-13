@@ -1,9 +1,9 @@
-/* Generated from usa22.dat
+/* Generated from u/usa22.dat
 
 Usage (copy/paste):
 
 //    USA22
-include <airfoil/usa22.scad>
+include <openscad-airfoil/u/usa22.scad>
 af_vec_path   = airfoil_USA22_path ();
 af_vec_slice  = airfoil_USA22_slice ();
 af_vec_range  = airfoil_USA22_range ();

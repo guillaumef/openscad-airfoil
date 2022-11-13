@@ -1,9 +1,9 @@
-/* Generated from ec863914.dat
+/* Generated from e/ec863914.dat
 
 Usage (copy/paste):
 
 //    EC863914
-include <airfoil/ec863914.scad>
+include <openscad-airfoil/e/ec863914.scad>
 af_vec_path   = airfoil_EC863914_path ();
 af_vec_slice  = airfoil_EC863914_slice ();
 af_vec_range  = airfoil_EC863914_range ();

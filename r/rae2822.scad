@@ -1,9 +1,9 @@
-/* Generated from rae2822.dat
+/* Generated from r/rae2822.dat
 
 Usage (copy/paste):
 
 //    RAE2822
-include <airfoil/rae2822.scad>
+include <openscad-airfoil/r/rae2822.scad>
 af_vec_path   = airfoil_RAE2822_path ();
 af_vec_slice  = airfoil_RAE2822_slice ();
 af_vec_range  = airfoil_RAE2822_range ();

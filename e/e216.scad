@@ -1,9 +1,9 @@
-/* Generated from e216.dat
+/* Generated from e/e216.dat
 
 Usage (copy/paste):
 
 //    E216
-include <airfoil/e216.scad>
+include <openscad-airfoil/e/e216.scad>
 af_vec_path   = airfoil_E216_path ();
 af_vec_slice  = airfoil_E216_slice ();
 af_vec_range  = airfoil_E216_range ();

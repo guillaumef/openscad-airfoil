@@ -1,9 +1,9 @@
-/* Generated from fxlv152.dat
+/* Generated from f/fxlv152.dat
 
 Usage (copy/paste):
 
 //    FXLV152
-include <airfoil/fxlv152.scad>
+include <openscad-airfoil/f/fxlv152.scad>
 af_vec_path   = airfoil_FXLV152_path ();
 af_vec_slice  = airfoil_FXLV152_slice ();
 af_vec_range  = airfoil_FXLV152_range ();

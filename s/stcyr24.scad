@@ -1,9 +1,9 @@
-/* Generated from stcyr24.dat
+/* Generated from s/stcyr24.dat
 
 Usage (copy/paste):
 
 //    STCYR24
-include <airfoil/stcyr24.scad>
+include <openscad-airfoil/s/stcyr24.scad>
 af_vec_path   = airfoil_STCYR24_path ();
 af_vec_slice  = airfoil_STCYR24_slice ();
 af_vec_range  = airfoil_STCYR24_range ();

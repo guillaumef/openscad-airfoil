@@ -1,9 +1,9 @@
-/* Generated from ah88k130.dat
+/* Generated from a/ah88k130.dat
 
 Usage (copy/paste):
 
 //    AH88K130
-include <airfoil/ah88k130.scad>
+include <openscad-airfoil/a/ah88k130.scad>
 af_vec_path   = airfoil_AH88K130_path ();
 af_vec_slice  = airfoil_AH88K130_slice ();
 af_vec_range  = airfoil_AH88K130_range ();

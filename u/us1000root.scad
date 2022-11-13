@@ -1,9 +1,9 @@
-/* Generated from us1000root.dat
+/* Generated from u/us1000root.dat
 
 Usage (copy/paste):
 
 //    US1000ROOT
-include <airfoil/us1000root.scad>
+include <openscad-airfoil/u/us1000root.scad>
 af_vec_path   = airfoil_US1000ROOT_path ();
 af_vec_slice  = airfoil_US1000ROOT_slice ();
 af_vec_range  = airfoil_US1000ROOT_range ();

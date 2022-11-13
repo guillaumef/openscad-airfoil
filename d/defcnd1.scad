@@ -1,9 +1,9 @@
-/* Generated from defcnd1.dat
+/* Generated from d/defcnd1.dat
 
 Usage (copy/paste):
 
 //    DEFCND1
-include <airfoil/defcnd1.scad>
+include <openscad-airfoil/d/defcnd1.scad>
 af_vec_path   = airfoil_DEFCND1_path ();
 af_vec_slice  = airfoil_DEFCND1_slice ();
 af_vec_range  = airfoil_DEFCND1_range ();

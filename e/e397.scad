@@ -1,9 +1,9 @@
-/* Generated from e397.dat
+/* Generated from e/e397.dat
 
 Usage (copy/paste):
 
 //    E397
-include <airfoil/e397.scad>
+include <openscad-airfoil/e/e397.scad>
 af_vec_path   = airfoil_E397_path ();
 af_vec_slice  = airfoil_E397_slice ();
 af_vec_range  = airfoil_E397_range ();

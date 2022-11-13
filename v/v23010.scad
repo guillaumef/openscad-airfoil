@@ -1,9 +1,9 @@
-/* Generated from v23010.dat
+/* Generated from v/v23010.dat
 
 Usage (copy/paste):
 
 //    V23010
-include <airfoil/v23010.scad>
+include <openscad-airfoil/v/v23010.scad>
 af_vec_path   = airfoil_V23010_path ();
 af_vec_slice  = airfoil_V23010_slice ();
 af_vec_range  = airfoil_V23010_range ();

@@ -1,9 +1,9 @@
-/* Generated from atr72sm.dat
+/* Generated from a/atr72sm.dat
 
 Usage (copy/paste):
 
 //    ATR72SM
-include <airfoil/atr72sm.scad>
+include <openscad-airfoil/a/atr72sm.scad>
 af_vec_path   = airfoil_ATR72SM_path ();
 af_vec_slice  = airfoil_ATR72SM_slice ();
 af_vec_range  = airfoil_ATR72SM_range ();

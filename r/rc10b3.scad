@@ -1,9 +1,9 @@
-/* Generated from rc10b3.dat
+/* Generated from r/rc10b3.dat
 
 Usage (copy/paste):
 
 //    RC10B3
-include <airfoil/rc10b3.scad>
+include <openscad-airfoil/r/rc10b3.scad>
 af_vec_path   = airfoil_RC10B3_path ();
 af_vec_slice  = airfoil_RC10B3_slice ();
 af_vec_range  = airfoil_RC10B3_range ();

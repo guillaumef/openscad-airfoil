@@ -1,9 +1,9 @@
-/* Generated from ag46c03.dat
+/* Generated from a/ag46c03.dat
 
 Usage (copy/paste):
 
 //    AG46C03
-include <airfoil/ag46c03.scad>
+include <openscad-airfoil/a/ag46c03.scad>
 af_vec_path   = airfoil_AG46C03_path ();
 af_vec_slice  = airfoil_AG46C03_slice ();
 af_vec_range  = airfoil_AG46C03_range ();

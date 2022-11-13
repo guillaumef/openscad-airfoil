@@ -1,9 +1,9 @@
-/* Generated from hq300gd2.dat
+/* Generated from h/hq300gd2.dat
 
 Usage (copy/paste):
 
 //    HQ300GD2
-include <airfoil/hq300gd2.scad>
+include <openscad-airfoil/h/hq300gd2.scad>
 af_vec_path   = airfoil_HQ300GD2_path ();
 af_vec_slice  = airfoil_HQ300GD2_slice ();
 af_vec_range  = airfoil_HQ300GD2_range ();

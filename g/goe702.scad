@@ -1,9 +1,9 @@
-/* Generated from goe702.dat
+/* Generated from g/goe702.dat
 
 Usage (copy/paste):
 
 //    GOE702
-include <airfoil/goe702.scad>
+include <openscad-airfoil/g/goe702.scad>
 af_vec_path   = airfoil_GOE702_path ();
 af_vec_slice  = airfoil_GOE702_slice ();
 af_vec_range  = airfoil_GOE702_range ();

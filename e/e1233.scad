@@ -1,9 +1,9 @@
-/* Generated from e1233.dat
+/* Generated from e/e1233.dat
 
 Usage (copy/paste):
 
 //    E1233
-include <airfoil/e1233.scad>
+include <openscad-airfoil/e/e1233.scad>
 af_vec_path   = airfoil_E1233_path ();
 af_vec_slice  = airfoil_E1233_slice ();
 af_vec_range  = airfoil_E1233_range ();

@@ -1,9 +1,9 @@
-/* Generated from dga1138.dat
+/* Generated from d/dga1138.dat
 
 Usage (copy/paste):
 
 //    DGA1138
-include <airfoil/dga1138.scad>
+include <openscad-airfoil/d/dga1138.scad>
 af_vec_path   = airfoil_DGA1138_path ();
 af_vec_slice  = airfoil_DGA1138_slice ();
 af_vec_range  = airfoil_DGA1138_range ();

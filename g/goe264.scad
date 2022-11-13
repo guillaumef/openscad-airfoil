@@ -1,9 +1,9 @@
-/* Generated from goe264.dat
+/* Generated from g/goe264.dat
 
 Usage (copy/paste):
 
 //    GOE264
-include <airfoil/goe264.scad>
+include <openscad-airfoil/g/goe264.scad>
 af_vec_path   = airfoil_GOE264_path ();
 af_vec_slice  = airfoil_GOE264_slice ();
 af_vec_range  = airfoil_GOE264_range ();

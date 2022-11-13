@@ -1,9 +1,9 @@
-/* Generated from e435.dat
+/* Generated from e/e435.dat
 
 Usage (copy/paste):
 
 //    E435
-include <airfoil/e435.scad>
+include <openscad-airfoil/e/e435.scad>
 af_vec_path   = airfoil_E435_path ();
 af_vec_slice  = airfoil_E435_slice ();
 af_vec_range  = airfoil_E435_range ();

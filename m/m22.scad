@@ -1,9 +1,9 @@
-/* Generated from m22.dat
+/* Generated from m/m22.dat
 
 Usage (copy/paste):
 
 //    M22
-include <airfoil/m22.scad>
+include <openscad-airfoil/m/m22.scad>
 af_vec_path   = airfoil_M22_path ();
 af_vec_slice  = airfoil_M22_slice ();
 af_vec_range  = airfoil_M22_range ();

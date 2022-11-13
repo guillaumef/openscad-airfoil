@@ -1,9 +1,9 @@
-/* Generated from mh25.dat
+/* Generated from m/mh25.dat
 
 Usage (copy/paste):
 
 //    MH25
-include <airfoil/mh25.scad>
+include <openscad-airfoil/m/mh25.scad>
 af_vec_path   = airfoil_MH25_path ();
 af_vec_slice  = airfoil_MH25_slice ();
 af_vec_range  = airfoil_MH25_range ();

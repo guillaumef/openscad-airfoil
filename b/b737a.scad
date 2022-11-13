@@ -1,9 +1,9 @@
-/* Generated from b737a.dat
+/* Generated from b/b737a.dat
 
 Usage (copy/paste):
 
 //    B737A
-include <airfoil/b737a.scad>
+include <openscad-airfoil/b/b737a.scad>
 af_vec_path   = airfoil_B737A_path ();
 af_vec_slice  = airfoil_B737A_slice ();
 af_vec_range  = airfoil_B737A_range ();

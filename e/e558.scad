@@ -1,9 +1,9 @@
-/* Generated from e558.dat
+/* Generated from e/e558.dat
 
 Usage (copy/paste):
 
 //    E558
-include <airfoil/e558.scad>
+include <openscad-airfoil/e/e558.scad>
 af_vec_path   = airfoil_E558_path ();
 af_vec_slice  = airfoil_E558_slice ();
 af_vec_range  = airfoil_E558_range ();

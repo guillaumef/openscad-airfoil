@@ -1,9 +1,9 @@
-/* Generated from ah79k143.dat
+/* Generated from a/ah79k143.dat
 
 Usage (copy/paste):
 
 //    AH79K143
-include <airfoil/ah79k143.scad>
+include <openscad-airfoil/a/ah79k143.scad>
 af_vec_path   = airfoil_AH79K143_path ();
 af_vec_slice  = airfoil_AH79K143_slice ();
 af_vec_range  = airfoil_AH79K143_range ();

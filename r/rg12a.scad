@@ -1,9 +1,9 @@
-/* Generated from rg12a.dat
+/* Generated from r/rg12a.dat
 
 Usage (copy/paste):
 
 //    RG12A
-include <airfoil/rg12a.scad>
+include <openscad-airfoil/r/rg12a.scad>
 af_vec_path   = airfoil_RG12A_path ();
 af_vec_slice  = airfoil_RG12A_slice ();
 af_vec_range  = airfoil_RG12A_range ();

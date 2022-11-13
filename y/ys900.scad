@@ -1,9 +1,9 @@
-/* Generated from ys900.dat
+/* Generated from y/ys900.dat
 
 Usage (copy/paste):
 
 //    YS900
-include <airfoil/ys900.scad>
+include <openscad-airfoil/y/ys900.scad>
 af_vec_path   = airfoil_YS900_path ();
 af_vec_slice  = airfoil_YS900_slice ();
 af_vec_range  = airfoil_YS900_range ();

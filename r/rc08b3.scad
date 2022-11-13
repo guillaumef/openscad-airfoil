@@ -1,9 +1,9 @@
-/* Generated from rc08b3.dat
+/* Generated from r/rc08b3.dat
 
 Usage (copy/paste):
 
 //    RC08B3
-include <airfoil/rc08b3.scad>
+include <openscad-airfoil/r/rc08b3.scad>
 af_vec_path   = airfoil_RC08B3_path ();
 af_vec_slice  = airfoil_RC08B3_slice ();
 af_vec_range  = airfoil_RC08B3_range ();

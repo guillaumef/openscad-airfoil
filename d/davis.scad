@@ -1,9 +1,9 @@
-/* Generated from davis.dat
+/* Generated from d/davis.dat
 
 Usage (copy/paste):
 
 //    DAVIS
-include <airfoil/davis.scad>
+include <openscad-airfoil/d/davis.scad>
 af_vec_path   = airfoil_DAVIS_path ();
 af_vec_slice  = airfoil_DAVIS_slice ();
 af_vec_range  = airfoil_DAVIS_range ();

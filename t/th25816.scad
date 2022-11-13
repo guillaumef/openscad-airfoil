@@ -1,9 +1,9 @@
-/* Generated from th25816.dat
+/* Generated from t/th25816.dat
 
 Usage (copy/paste):
 
 //    TH25816
-include <airfoil/th25816.scad>
+include <openscad-airfoil/t/th25816.scad>
 af_vec_path   = airfoil_TH25816_path ();
 af_vec_slice  = airfoil_TH25816_slice ();
 af_vec_range  = airfoil_TH25816_range ();

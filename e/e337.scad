@@ -1,9 +1,9 @@
-/* Generated from e337.dat
+/* Generated from e/e337.dat
 
 Usage (copy/paste):
 
 //    E337
-include <airfoil/e337.scad>
+include <openscad-airfoil/e/e337.scad>
 af_vec_path   = airfoil_E337_path ();
 af_vec_slice  = airfoil_E337_slice ();
 af_vec_range  = airfoil_E337_range ();

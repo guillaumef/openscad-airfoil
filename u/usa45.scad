@@ -1,9 +1,9 @@
-/* Generated from usa45.dat
+/* Generated from u/usa45.dat
 
 Usage (copy/paste):
 
 //    USA45
-include <airfoil/usa45.scad>
+include <openscad-airfoil/u/usa45.scad>
 af_vec_path   = airfoil_USA45_path ();
 af_vec_slice  = airfoil_USA45_slice ();
 af_vec_range  = airfoil_USA45_range ();

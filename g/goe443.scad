@@ -1,9 +1,9 @@
-/* Generated from goe443.dat
+/* Generated from g/goe443.dat
 
 Usage (copy/paste):
 
 //    GOE443
-include <airfoil/goe443.scad>
+include <openscad-airfoil/g/goe443.scad>
 af_vec_path   = airfoil_GOE443_path ();
 af_vec_slice  = airfoil_GOE443_slice ();
 af_vec_range  = airfoil_GOE443_range ();

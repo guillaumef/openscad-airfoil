@@ -1,9 +1,9 @@
-/* Generated from giiik.dat
+/* Generated from g/giiik.dat
 
 Usage (copy/paste):
 
 //    GIIIK
-include <airfoil/giiik.scad>
+include <openscad-airfoil/g/giiik.scad>
 af_vec_path   = airfoil_GIIIK_path ();
 af_vec_slice  = airfoil_GIIIK_slice ();
 af_vec_range  = airfoil_GIIIK_range ();

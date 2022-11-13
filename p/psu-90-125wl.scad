@@ -1,9 +1,9 @@
-/* Generated from psu-90-125wl.dat
+/* Generated from p/psu-90-125wl.dat
 
 Usage (copy/paste):
 
 //    PSU90125WL
-include <airfoil/psu-90-125wl.scad>
+include <openscad-airfoil/p/psu-90-125wl.scad>
 af_vec_path   = airfoil_PSU90125WL_path ();
 af_vec_slice  = airfoil_PSU90125WL_slice ();
 af_vec_range  = airfoil_PSU90125WL_range ();

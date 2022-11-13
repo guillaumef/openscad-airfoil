@@ -1,9 +1,9 @@
-/* Generated from s3021.dat
+/* Generated from s/s3021.dat
 
 Usage (copy/paste):
 
 //    S3021
-include <airfoil/s3021.scad>
+include <openscad-airfoil/s/s3021.scad>
 af_vec_path   = airfoil_S3021_path ();
 af_vec_slice  = airfoil_S3021_slice ();
 af_vec_range  = airfoil_S3021_range ();

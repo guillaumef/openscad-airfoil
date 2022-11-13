@@ -1,9 +1,9 @@
-/* Generated from cast102.dat
+/* Generated from c/cast102.dat
 
 Usage (copy/paste):
 
 //    CAST102
-include <airfoil/cast102.scad>
+include <openscad-airfoil/c/cast102.scad>
 af_vec_path   = airfoil_CAST102_path ();
 af_vec_slice  = airfoil_CAST102_slice ();
 af_vec_range  = airfoil_CAST102_range ();

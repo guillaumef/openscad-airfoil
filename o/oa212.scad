@@ -1,9 +1,9 @@
-/* Generated from oa212.dat
+/* Generated from o/oa212.dat
 
 Usage (copy/paste):
 
 //    OA212
-include <airfoil/oa212.scad>
+include <openscad-airfoil/o/oa212.scad>
 af_vec_path   = airfoil_OA212_path ();
 af_vec_slice  = airfoil_OA212_slice ();
 af_vec_range  = airfoil_OA212_range ();

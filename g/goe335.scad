@@ -1,9 +1,9 @@
-/* Generated from goe335.dat
+/* Generated from g/goe335.dat
 
 Usage (copy/paste):
 
 //    GOE335
-include <airfoil/goe335.scad>
+include <openscad-airfoil/g/goe335.scad>
 af_vec_path   = airfoil_GOE335_path ();
 af_vec_slice  = airfoil_GOE335_slice ();
 af_vec_range  = airfoil_GOE335_range ();

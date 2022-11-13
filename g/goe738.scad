@@ -1,9 +1,9 @@
-/* Generated from goe738.dat
+/* Generated from g/goe738.dat
 
 Usage (copy/paste):
 
 //    GOE738
-include <airfoil/goe738.scad>
+include <openscad-airfoil/g/goe738.scad>
 af_vec_path   = airfoil_GOE738_path ();
 af_vec_slice  = airfoil_GOE738_slice ();
 af_vec_range  = airfoil_GOE738_range ();

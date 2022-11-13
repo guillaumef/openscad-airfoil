@@ -1,9 +1,9 @@
-/* Generated from eh2012.dat
+/* Generated from e/eh2012.dat
 
 Usage (copy/paste):
 
 //    EH2012
-include <airfoil/eh2012.scad>
+include <openscad-airfoil/e/eh2012.scad>
 af_vec_path   = airfoil_EH2012_path ();
 af_vec_slice  = airfoil_EH2012_slice ();
 af_vec_range  = airfoil_EH2012_range ();

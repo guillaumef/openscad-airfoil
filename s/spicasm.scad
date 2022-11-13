@@ -1,9 +1,9 @@
-/* Generated from spicasm.dat
+/* Generated from s/spicasm.dat
 
 Usage (copy/paste):
 
 //    SPICASM
-include <airfoil/spicasm.scad>
+include <openscad-airfoil/s/spicasm.scad>
 af_vec_path   = airfoil_SPICASM_path ();
 af_vec_slice  = airfoil_SPICASM_slice ();
 af_vec_range  = airfoil_SPICASM_range ();

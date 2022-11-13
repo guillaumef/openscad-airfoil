@@ -1,9 +1,9 @@
-/* Generated from bw3.dat
+/* Generated from b/bw3.dat
 
 Usage (copy/paste):
 
 //    BW3
-include <airfoil/bw3.scad>
+include <openscad-airfoil/b/bw3.scad>
 af_vec_path   = airfoil_BW3_path ();
 af_vec_slice  = airfoil_BW3_slice ();
 af_vec_range  = airfoil_BW3_range ();

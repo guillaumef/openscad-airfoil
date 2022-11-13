@@ -1,9 +1,9 @@
-/* Generated from goe769.dat
+/* Generated from g/goe769.dat
 
 Usage (copy/paste):
 
 //    GOE769
-include <airfoil/goe769.scad>
+include <openscad-airfoil/g/goe769.scad>
 af_vec_path   = airfoil_GOE769_path ();
 af_vec_slice  = airfoil_GOE769_slice ();
 af_vec_range  = airfoil_GOE769_range ();

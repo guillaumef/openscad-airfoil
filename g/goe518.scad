@@ -1,9 +1,9 @@
-/* Generated from goe518.dat
+/* Generated from g/goe518.dat
 
 Usage (copy/paste):
 
 //    GOE518
-include <airfoil/goe518.scad>
+include <openscad-airfoil/g/goe518.scad>
 af_vec_path   = airfoil_GOE518_path ();
 af_vec_slice  = airfoil_GOE518_slice ();
 af_vec_range  = airfoil_GOE518_range ();

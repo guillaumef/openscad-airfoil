@@ -1,9 +1,9 @@
-/* Generated from e421.dat
+/* Generated from e/e421.dat
 
 Usage (copy/paste):
 
 //    E421
-include <airfoil/e421.scad>
+include <openscad-airfoil/e/e421.scad>
 af_vec_path   = airfoil_E421_path ();
 af_vec_slice  = airfoil_E421_slice ();
 af_vec_range  = airfoil_E421_range ();

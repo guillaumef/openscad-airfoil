@@ -1,9 +1,9 @@
-/* Generated from hq358.dat
+/* Generated from h/hq358.dat
 
 Usage (copy/paste):
 
 //    HQ358
-include <airfoil/hq358.scad>
+include <openscad-airfoil/h/hq358.scad>
 af_vec_path   = airfoil_HQ358_path ();
 af_vec_slice  = airfoil_HQ358_slice ();
 af_vec_range  = airfoil_HQ358_range ();

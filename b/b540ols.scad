@@ -1,9 +1,9 @@
-/* Generated from b540ols.dat
+/* Generated from b/b540ols.dat
 
 Usage (copy/paste):
 
 //    B540OLS
-include <airfoil/b540ols.scad>
+include <openscad-airfoil/b/b540ols.scad>
 af_vec_path   = airfoil_B540OLS_path ();
 af_vec_slice  = airfoil_B540OLS_slice ();
 af_vec_range  = airfoil_B540OLS_range ();

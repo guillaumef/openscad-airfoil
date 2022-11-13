@@ -1,9 +1,9 @@
-/* Generated from eh0009.dat
+/* Generated from e/eh0009.dat
 
 Usage (copy/paste):
 
 //    EH0009
-include <airfoil/eh0009.scad>
+include <openscad-airfoil/e/eh0009.scad>
 af_vec_path   = airfoil_EH0009_path ();
 af_vec_slice  = airfoil_EH0009_slice ();
 af_vec_range  = airfoil_EH0009_range ();

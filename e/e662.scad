@@ -1,9 +1,9 @@
-/* Generated from e662.dat
+/* Generated from e/e662.dat
 
 Usage (copy/paste):
 
 //    E662
-include <airfoil/e662.scad>
+include <openscad-airfoil/e/e662.scad>
 af_vec_path   = airfoil_E662_path ();
 af_vec_slice  = airfoil_E662_slice ();
 af_vec_range  = airfoil_E662_range ();

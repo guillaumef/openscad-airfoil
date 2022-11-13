@@ -1,9 +1,9 @@
-/* Generated from e668.dat
+/* Generated from e/e668.dat
 
 Usage (copy/paste):
 
 //    E668
-include <airfoil/e668.scad>
+include <openscad-airfoil/e/e668.scad>
 af_vec_path   = airfoil_E668_path ();
 af_vec_slice  = airfoil_E668_slice ();
 af_vec_range  = airfoil_E668_range ();

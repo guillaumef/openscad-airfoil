@@ -1,9 +1,9 @@
-/* Generated from davissm.dat
+/* Generated from d/davissm.dat
 
 Usage (copy/paste):
 
 //    DAVISSM
-include <airfoil/davissm.scad>
+include <openscad-airfoil/d/davissm.scad>
 af_vec_path   = airfoil_DAVISSM_path ();
 af_vec_slice  = airfoil_DAVISSM_slice ();
 af_vec_range  = airfoil_DAVISSM_range ();

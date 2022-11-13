@@ -1,9 +1,9 @@
-/* Generated from s1046.dat
+/* Generated from s/s1046.dat
 
 Usage (copy/paste):
 
 //    S1046
-include <airfoil/s1046.scad>
+include <openscad-airfoil/s/s1046.scad>
 af_vec_path   = airfoil_S1046_path ();
 af_vec_slice  = airfoil_S1046_slice ();
 af_vec_range  = airfoil_S1046_range ();

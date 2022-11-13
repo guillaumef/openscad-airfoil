@@ -1,9 +1,9 @@
-/* Generated from goe767.dat
+/* Generated from g/goe767.dat
 
 Usage (copy/paste):
 
 //    GOE767
-include <airfoil/goe767.scad>
+include <openscad-airfoil/g/goe767.scad>
 af_vec_path   = airfoil_GOE767_path ();
 af_vec_slice  = airfoil_GOE767_slice ();
 af_vec_range  = airfoil_GOE767_range ();

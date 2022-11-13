@@ -1,9 +1,9 @@
-/* Generated from la2573a.dat
+/* Generated from l/la2573a.dat
 
 Usage (copy/paste):
 
 //    LA2573A
-include <airfoil/la2573a.scad>
+include <openscad-airfoil/l/la2573a.scad>
 af_vec_path   = airfoil_LA2573A_path ();
 af_vec_slice  = airfoil_LA2573A_slice ();
 af_vec_range  = airfoil_LA2573A_range ();

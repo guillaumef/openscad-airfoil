@@ -1,9 +1,9 @@
-/* Generated from apex16.dat
+/* Generated from a/apex16.dat
 
 Usage (copy/paste):
 
 //    APEX16
-include <airfoil/apex16.scad>
+include <openscad-airfoil/a/apex16.scad>
 af_vec_path   = airfoil_APEX16_path ();
 af_vec_slice  = airfoil_APEX16_slice ();
 af_vec_range  = airfoil_APEX16_range ();

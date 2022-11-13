@@ -1,9 +1,9 @@
-/* Generated from ah93w300.dat
+/* Generated from a/ah93w300.dat
 
 Usage (copy/paste):
 
 //    AH93W300
-include <airfoil/ah93w300.scad>
+include <openscad-airfoil/a/ah93w300.scad>
 af_vec_path   = airfoil_AH93W300_path ();
 af_vec_slice  = airfoil_AH93W300_slice ();
 af_vec_range  = airfoil_AH93W300_range ();

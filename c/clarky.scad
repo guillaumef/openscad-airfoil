@@ -1,9 +1,9 @@
-/* Generated from clarky.dat
+/* Generated from c/clarky.dat
 
 Usage (copy/paste):
 
 //    CLARKY
-include <airfoil/clarky.scad>
+include <openscad-airfoil/c/clarky.scad>
 af_vec_path   = airfoil_CLARKY_path ();
 af_vec_slice  = airfoil_CLARKY_slice ();
 af_vec_range  = airfoil_CLARKY_range ();

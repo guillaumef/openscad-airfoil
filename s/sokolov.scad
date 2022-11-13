@@ -1,9 +1,9 @@
-/* Generated from sokolov.dat
+/* Generated from s/sokolov.dat
 
 Usage (copy/paste):
 
 //    SOKOLOV
-include <airfoil/sokolov.scad>
+include <openscad-airfoil/s/sokolov.scad>
 af_vec_path   = airfoil_SOKOLOV_path ();
 af_vec_slice  = airfoil_SOKOLOV_slice ();
 af_vec_range  = airfoil_SOKOLOV_range ();

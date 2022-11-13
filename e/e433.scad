@@ -1,9 +1,9 @@
-/* Generated from e433.dat
+/* Generated from e/e433.dat
 
 Usage (copy/paste):
 
 //    E433
-include <airfoil/e433.scad>
+include <openscad-airfoil/e/e433.scad>
 af_vec_path   = airfoil_E433_path ();
 af_vec_slice  = airfoil_E433_slice ();
 af_vec_range  = airfoil_E433_range ();

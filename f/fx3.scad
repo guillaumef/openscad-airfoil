@@ -1,9 +1,9 @@
-/* Generated from fx3.dat
+/* Generated from f/fx3.dat
 
 Usage (copy/paste):
 
 //    FX3
-include <airfoil/fx3.scad>
+include <openscad-airfoil/f/fx3.scad>
 af_vec_path   = airfoil_FX3_path ();
 af_vec_slice  = airfoil_FX3_slice ();
 af_vec_range  = airfoil_FX3_range ();

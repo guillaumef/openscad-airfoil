@@ -1,9 +1,9 @@
-/* Generated from goe365.dat
+/* Generated from g/goe365.dat
 
 Usage (copy/paste):
 
 //    GOE365
-include <airfoil/goe365.scad>
+include <openscad-airfoil/g/goe365.scad>
 af_vec_path   = airfoil_GOE365_path ();
 af_vec_slice  = airfoil_GOE365_slice ();
 af_vec_range  = airfoil_GOE365_range ();

@@ -1,9 +1,9 @@
-/* Generated from s8035.dat
+/* Generated from s/s8035.dat
 
 Usage (copy/paste):
 
 //    S8035
-include <airfoil/s8035.scad>
+include <openscad-airfoil/s/s8035.scad>
 af_vec_path   = airfoil_S8035_path ();
 af_vec_slice  = airfoil_S8035_slice ();
 af_vec_range  = airfoil_S8035_range ();

@@ -1,9 +1,9 @@
-/* Generated from glennmartin3.dat
+/* Generated from g/glennmartin3.dat
 
 Usage (copy/paste):
 
 //    GLENNMARTIN3
-include <airfoil/glennmartin3.scad>
+include <openscad-airfoil/g/glennmartin3.scad>
 af_vec_path   = airfoil_GLENNMARTIN3_path ();
 af_vec_slice  = airfoil_GLENNMARTIN3_slice ();
 af_vec_range  = airfoil_GLENNMARTIN3_range ();

@@ -1,9 +1,9 @@
-/* Generated from e195.dat
+/* Generated from e/e195.dat
 
 Usage (copy/paste):
 
 //    E195
-include <airfoil/e195.scad>
+include <openscad-airfoil/e/e195.scad>
 af_vec_path   = airfoil_E195_path ();
 af_vec_slice  = airfoil_E195_slice ();
 af_vec_range  = airfoil_E195_range ();

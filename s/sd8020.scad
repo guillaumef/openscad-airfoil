@@ -1,9 +1,9 @@
-/* Generated from sd8020.dat
+/* Generated from s/sd8020.dat
 
 Usage (copy/paste):
 
 //    SD8020
-include <airfoil/sd8020.scad>
+include <openscad-airfoil/s/sd8020.scad>
 af_vec_path   = airfoil_SD8020_path ();
 af_vec_slice  = airfoil_SD8020_slice ();
 af_vec_range  = airfoil_SD8020_range ();

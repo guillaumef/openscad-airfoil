@@ -1,9 +1,9 @@
-/* Generated from s1223rtl.dat
+/* Generated from s/s1223rtl.dat
 
 Usage (copy/paste):
 
 //    S1223RTL
-include <airfoil/s1223rtl.scad>
+include <openscad-airfoil/s/s1223rtl.scad>
 af_vec_path   = airfoil_S1223RTL_path ();
 af_vec_slice  = airfoil_S1223RTL_slice ();
 af_vec_range  = airfoil_S1223RTL_range ();

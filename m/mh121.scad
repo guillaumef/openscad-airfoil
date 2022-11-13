@@ -1,9 +1,9 @@
-/* Generated from mh121.dat
+/* Generated from m/mh121.dat
 
 Usage (copy/paste):
 
 //    MH121
-include <airfoil/mh121.scad>
+include <openscad-airfoil/m/mh121.scad>
 af_vec_path   = airfoil_MH121_path ();
 af_vec_slice  = airfoil_MH121_slice ();
 af_vec_range  = airfoil_MH121_range ();

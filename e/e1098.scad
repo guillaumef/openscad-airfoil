@@ -1,9 +1,9 @@
-/* Generated from e1098.dat
+/* Generated from e/e1098.dat
 
 Usage (copy/paste):
 
 //    E1098
-include <airfoil/e1098.scad>
+include <openscad-airfoil/e/e1098.scad>
 af_vec_path   = airfoil_E1098_path ();
 af_vec_slice  = airfoil_E1098_slice ();
 af_vec_range  = airfoil_E1098_range ();

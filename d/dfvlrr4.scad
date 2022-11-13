@@ -1,9 +1,9 @@
-/* Generated from dfvlrr4.dat
+/* Generated from d/dfvlrr4.dat
 
 Usage (copy/paste):
 
 //    DFVLRR4
-include <airfoil/dfvlrr4.scad>
+include <openscad-airfoil/d/dfvlrr4.scad>
 af_vec_path   = airfoil_DFVLRR4_path ();
 af_vec_slice  = airfoil_DFVLRR4_slice ();
 af_vec_range  = airfoil_DFVLRR4_range ();

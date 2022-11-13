@@ -1,9 +1,9 @@
-/* Generated from e635.dat
+/* Generated from e/e635.dat
 
 Usage (copy/paste):
 
 //    E635
-include <airfoil/e635.scad>
+include <openscad-airfoil/e/e635.scad>
 af_vec_path   = airfoil_E635_path ();
 af_vec_slice  = airfoil_E635_slice ();
 af_vec_range  = airfoil_E635_range ();

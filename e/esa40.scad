@@ -1,9 +1,9 @@
-/* Generated from esa40.dat
+/* Generated from e/esa40.dat
 
 Usage (copy/paste):
 
 //    ESA40
-include <airfoil/esa40.scad>
+include <openscad-airfoil/e/esa40.scad>
 af_vec_path   = airfoil_ESA40_path ();
 af_vec_slice  = airfoil_ESA40_slice ();
 af_vec_range  = airfoil_ESA40_range ();

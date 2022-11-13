@@ -1,9 +1,9 @@
-/* Generated from goe384.dat
+/* Generated from g/goe384.dat
 
 Usage (copy/paste):
 
 //    GOE384
-include <airfoil/goe384.scad>
+include <openscad-airfoil/g/goe384.scad>
 af_vec_path   = airfoil_GOE384_path ();
 af_vec_slice  = airfoil_GOE384_slice ();
 af_vec_range  = airfoil_GOE384_range ();

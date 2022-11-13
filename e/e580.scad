@@ -1,9 +1,9 @@
-/* Generated from e580.dat
+/* Generated from e/e580.dat
 
 Usage (copy/paste):
 
 //    E580
-include <airfoil/e580.scad>
+include <openscad-airfoil/e/e580.scad>
 af_vec_path   = airfoil_E580_path ();
 af_vec_slice  = airfoil_E580_slice ();
 af_vec_range  = airfoil_E580_range ();

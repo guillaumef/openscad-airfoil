@@ -1,9 +1,9 @@
-/* Generated from clarkw.dat
+/* Generated from c/clarkw.dat
 
 Usage (copy/paste):
 
 //    CLARKW
-include <airfoil/clarkw.scad>
+include <openscad-airfoil/c/clarkw.scad>
 af_vec_path   = airfoil_CLARKW_path ();
 af_vec_slice  = airfoil_CLARKW_slice ();
 af_vec_range  = airfoil_CLARKW_range ();

@@ -1,9 +1,9 @@
-/* Generated from dae51.dat
+/* Generated from d/dae51.dat
 
 Usage (copy/paste):
 
 //    DAE51
-include <airfoil/dae51.scad>
+include <openscad-airfoil/d/dae51.scad>
 af_vec_path   = airfoil_DAE51_path ();
 af_vec_slice  = airfoil_DAE51_slice ();
 af_vec_range  = airfoil_DAE51_range ();

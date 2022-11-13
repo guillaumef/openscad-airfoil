@@ -1,9 +1,9 @@
-/* Generated from raf15.dat
+/* Generated from r/raf15.dat
 
 Usage (copy/paste):
 
 //    RAF15
-include <airfoil/raf15.scad>
+include <openscad-airfoil/r/raf15.scad>
 af_vec_path   = airfoil_RAF15_path ();
 af_vec_slice  = airfoil_RAF15_slice ();
 af_vec_range  = airfoil_RAF15_range ();

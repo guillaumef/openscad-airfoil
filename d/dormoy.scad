@@ -1,9 +1,9 @@
-/* Generated from dormoy.dat
+/* Generated from d/dormoy.dat
 
 Usage (copy/paste):
 
 //    DORMOY
-include <airfoil/dormoy.scad>
+include <openscad-airfoil/d/dormoy.scad>
 af_vec_path   = airfoil_DORMOY_path ();
 af_vec_slice  = airfoil_DORMOY_slice ();
 af_vec_range  = airfoil_DORMOY_range ();

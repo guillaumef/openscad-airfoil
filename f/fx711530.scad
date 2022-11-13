@@ -1,9 +1,9 @@
-/* Generated from fx711530.dat
+/* Generated from f/fx711530.dat
 
 Usage (copy/paste):
 
 //    FX711530
-include <airfoil/fx711530.scad>
+include <openscad-airfoil/f/fx711530.scad>
 af_vec_path   = airfoil_FX711530_path ();
 af_vec_slice  = airfoil_FX711530_slice ();
 af_vec_range  = airfoil_FX711530_range ();

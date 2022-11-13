@@ -1,9 +1,9 @@
-/* Generated from jn153.dat
+/* Generated from j/jn153.dat
 
 Usage (copy/paste):
 
 //    JN153
-include <airfoil/jn153.scad>
+include <openscad-airfoil/j/jn153.scad>
 af_vec_path   = airfoil_JN153_path ();
 af_vec_slice  = airfoil_JN153_slice ();
 af_vec_range  = airfoil_JN153_range ();

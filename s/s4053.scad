@@ -1,9 +1,9 @@
-/* Generated from s4053.dat
+/* Generated from s/s4053.dat
 
 Usage (copy/paste):
 
 //    S4053
-include <airfoil/s4053.scad>
+include <openscad-airfoil/s/s4053.scad>
 af_vec_path   = airfoil_S4053_path ();
 af_vec_slice  = airfoil_S4053_slice ();
 af_vec_range  = airfoil_S4053_range ();

@@ -1,9 +1,9 @@
-/* Generated from raf6.dat
+/* Generated from r/raf6.dat
 
 Usage (copy/paste):
 
 //    RAF6
-include <airfoil/raf6.scad>
+include <openscad-airfoil/r/raf6.scad>
 af_vec_path   = airfoil_RAF6_path ();
 af_vec_slice  = airfoil_RAF6_slice ();
 af_vec_range  = airfoil_RAF6_range ();

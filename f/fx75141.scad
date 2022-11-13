@@ -1,9 +1,9 @@
-/* Generated from fx75141.dat
+/* Generated from f/fx75141.dat
 
 Usage (copy/paste):
 
 //    FX75141
-include <airfoil/fx75141.scad>
+include <openscad-airfoil/f/fx75141.scad>
 af_vec_path   = airfoil_FX75141_path ();
 af_vec_slice  = airfoil_FX75141_slice ();
 af_vec_range  = airfoil_FX75141_range ();

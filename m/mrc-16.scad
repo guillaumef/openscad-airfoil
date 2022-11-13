@@ -1,9 +1,9 @@
-/* Generated from mrc-16.dat
+/* Generated from m/mrc-16.dat
 
 Usage (copy/paste):
 
 //    MRC16
-include <airfoil/mrc-16.scad>
+include <openscad-airfoil/m/mrc-16.scad>
 af_vec_path   = airfoil_MRC16_path ();
 af_vec_slice  = airfoil_MRC16_slice ();
 af_vec_range  = airfoil_MRC16_range ();

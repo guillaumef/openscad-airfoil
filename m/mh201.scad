@@ -1,9 +1,9 @@
-/* Generated from mh201.dat
+/* Generated from m/mh201.dat
 
 Usage (copy/paste):
 
 //    MH201
-include <airfoil/mh201.scad>
+include <openscad-airfoil/m/mh201.scad>
 af_vec_path   = airfoil_MH201_path ();
 af_vec_slice  = airfoil_MH201_slice ();
 af_vec_range  = airfoil_MH201_range ();

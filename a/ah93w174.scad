@@ -1,9 +1,9 @@
-/* Generated from ah93w174.dat
+/* Generated from a/ah93w174.dat
 
 Usage (copy/paste):
 
 //    AH93W174
-include <airfoil/ah93w174.scad>
+include <openscad-airfoil/a/ah93w174.scad>
 af_vec_path   = airfoil_AH93W174_path ();
 af_vec_slice  = airfoil_AH93W174_slice ();
 af_vec_range  = airfoil_AH93W174_range ();

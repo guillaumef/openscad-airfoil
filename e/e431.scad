@@ -1,9 +1,9 @@
-/* Generated from e431.dat
+/* Generated from e/e431.dat
 
 Usage (copy/paste):
 
 //    E431
-include <airfoil/e431.scad>
+include <openscad-airfoil/e/e431.scad>
 af_vec_path   = airfoil_E431_path ();
 af_vec_slice  = airfoil_E431_slice ();
 af_vec_range  = airfoil_E431_range ();

@@ -1,9 +1,9 @@
-/* Generated from fxs21158.dat
+/* Generated from f/fxs21158.dat
 
 Usage (copy/paste):
 
 //    FXS21158
-include <airfoil/fxs21158.scad>
+include <openscad-airfoil/f/fxs21158.scad>
 af_vec_path   = airfoil_FXS21158_path ();
 af_vec_slice  = airfoil_FXS21158_slice ();
 af_vec_range  = airfoil_FXS21158_range ();

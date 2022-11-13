@@ -1,9 +1,9 @@
-/* Generated from e343.dat
+/* Generated from e/e343.dat
 
 Usage (copy/paste):
 
 //    E343
-include <airfoil/e343.scad>
+include <openscad-airfoil/e/e343.scad>
 af_vec_path   = airfoil_E343_path ();
 af_vec_slice  = airfoil_E343_slice ();
 af_vec_range  = airfoil_E343_range ();

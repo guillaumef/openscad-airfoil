@@ -1,9 +1,9 @@
-/* Generated from goe460.dat
+/* Generated from g/goe460.dat
 
 Usage (copy/paste):
 
 //    GOE460
-include <airfoil/goe460.scad>
+include <openscad-airfoil/g/goe460.scad>
 af_vec_path   = airfoil_GOE460_path ();
 af_vec_slice  = airfoil_GOE460_slice ();
 af_vec_range  = airfoil_GOE460_range ();

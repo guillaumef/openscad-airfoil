@@ -1,9 +1,9 @@
-/* Generated from c5a.dat
+/* Generated from c/c5a.dat
 
 Usage (copy/paste):
 
 //    C5A
-include <airfoil/c5a.scad>
+include <openscad-airfoil/c/c5a.scad>
 af_vec_path   = airfoil_C5A_path ();
 af_vec_slice  = airfoil_C5A_slice ();
 af_vec_range  = airfoil_C5A_range ();

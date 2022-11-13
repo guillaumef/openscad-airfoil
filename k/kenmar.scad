@@ -1,9 +1,9 @@
-/* Generated from kenmar.dat
+/* Generated from k/kenmar.dat
 
 Usage (copy/paste):
 
 //    KENMAR
-include <airfoil/kenmar.scad>
+include <openscad-airfoil/k/kenmar.scad>
 af_vec_path   = airfoil_KENMAR_path ();
 af_vec_slice  = airfoil_KENMAR_slice ();
 af_vec_range  = airfoil_KENMAR_range ();

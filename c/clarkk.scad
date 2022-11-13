@@ -1,9 +1,9 @@
-/* Generated from clarkk.dat
+/* Generated from c/clarkk.dat
 
 Usage (copy/paste):
 
 //    CLARKK
-include <airfoil/clarkk.scad>
+include <openscad-airfoil/c/clarkk.scad>
 af_vec_path   = airfoil_CLARKK_path ();
 af_vec_slice  = airfoil_CLARKK_slice ();
 af_vec_range  = airfoil_CLARKK_range ();

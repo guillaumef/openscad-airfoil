@@ -1,9 +1,9 @@
-/* Generated from goe393.dat
+/* Generated from g/goe393.dat
 
 Usage (copy/paste):
 
 //    GOE393
-include <airfoil/goe393.scad>
+include <openscad-airfoil/g/goe393.scad>
 af_vec_path   = airfoil_GOE393_path ();
 af_vec_slice  = airfoil_GOE393_slice ();
 af_vec_range  = airfoil_GOE393_range ();

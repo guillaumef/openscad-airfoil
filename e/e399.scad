@@ -1,9 +1,9 @@
-/* Generated from e399.dat
+/* Generated from e/e399.dat
 
 Usage (copy/paste):
 
 //    E399
-include <airfoil/e399.scad>
+include <openscad-airfoil/e/e399.scad>
 af_vec_path   = airfoil_E399_path ();
 af_vec_slice  = airfoil_E399_slice ();
 af_vec_range  = airfoil_E399_range ();

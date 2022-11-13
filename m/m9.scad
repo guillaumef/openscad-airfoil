@@ -1,9 +1,9 @@
-/* Generated from m9.dat
+/* Generated from m/m9.dat
 
 Usage (copy/paste):
 
 //    M9
-include <airfoil/m9.scad>
+include <openscad-airfoil/m/m9.scad>
 af_vec_path   = airfoil_M9_path ();
 af_vec_slice  = airfoil_M9_slice ();
 af_vec_range  = airfoil_M9_range ();

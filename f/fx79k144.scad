@@ -1,9 +1,9 @@
-/* Generated from fx79k144.dat
+/* Generated from f/fx79k144.dat
 
 Usage (copy/paste):
 
 //    FX79K144
-include <airfoil/fx79k144.scad>
+include <openscad-airfoil/f/fx79k144.scad>
 af_vec_path   = airfoil_FX79K144_path ();
 af_vec_slice  = airfoil_FX79K144_slice ();
 af_vec_range  = airfoil_FX79K144_range ();

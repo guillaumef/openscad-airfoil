@@ -1,9 +1,9 @@
-/* Generated from rae5215.dat
+/* Generated from r/rae5215.dat
 
 Usage (copy/paste):
 
 //    RAE5215
-include <airfoil/rae5215.scad>
+include <openscad-airfoil/r/rae5215.scad>
 af_vec_path   = airfoil_RAE5215_path ();
 af_vec_slice  = airfoil_RAE5215_slice ();
 af_vec_range  = airfoil_RAE5215_range ();

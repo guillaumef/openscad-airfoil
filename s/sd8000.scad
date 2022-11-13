@@ -1,9 +1,9 @@
-/* Generated from sd8000.dat
+/* Generated from s/sd8000.dat
 
 Usage (copy/paste):
 
 //    SD8000
-include <airfoil/sd8000.scad>
+include <openscad-airfoil/s/sd8000.scad>
 af_vec_path   = airfoil_SD8000_path ();
 af_vec_slice  = airfoil_SD8000_slice ();
 af_vec_range  = airfoil_SD8000_range ();

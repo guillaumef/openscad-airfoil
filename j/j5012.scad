@@ -1,9 +1,9 @@
-/* Generated from j5012.dat
+/* Generated from j/j5012.dat
 
 Usage (copy/paste):
 
 //    J5012
-include <airfoil/j5012.scad>
+include <openscad-airfoil/j/j5012.scad>
 af_vec_path   = airfoil_J5012_path ();
 af_vec_slice  = airfoil_J5012_slice ();
 af_vec_range  = airfoil_J5012_range ();

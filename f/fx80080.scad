@@ -1,9 +1,9 @@
-/* Generated from fx80080.dat
+/* Generated from f/fx80080.dat
 
 Usage (copy/paste):
 
 //    FX80080
-include <airfoil/fx80080.scad>
+include <openscad-airfoil/f/fx80080.scad>
 af_vec_path   = airfoil_FX80080_path ();
 af_vec_slice  = airfoil_FX80080_slice ();
 af_vec_range  = airfoil_FX80080_range ();

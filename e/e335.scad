@@ -1,9 +1,9 @@
-/* Generated from e335.dat
+/* Generated from e/e335.dat
 
 Usage (copy/paste):
 
 //    E335
-include <airfoil/e335.scad>
+include <openscad-airfoil/e/e335.scad>
 af_vec_path   = airfoil_E335_path ();
 af_vec_slice  = airfoil_E335_slice ();
 af_vec_range  = airfoil_E335_range ();

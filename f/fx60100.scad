@@ -1,9 +1,9 @@
-/* Generated from fx60100.dat
+/* Generated from f/fx60100.dat
 
 Usage (copy/paste):
 
 //    FX60100
-include <airfoil/fx60100.scad>
+include <openscad-airfoil/f/fx60100.scad>
 af_vec_path   = airfoil_FX60100_path ();
 af_vec_slice  = airfoil_FX60100_slice ();
 af_vec_range  = airfoil_FX60100_range ();

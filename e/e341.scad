@@ -1,9 +1,9 @@
-/* Generated from e341.dat
+/* Generated from e/e341.dat
 
 Usage (copy/paste):
 
 //    E341
-include <airfoil/e341.scad>
+include <openscad-airfoil/e/e341.scad>
 af_vec_path   = airfoil_E341_path ();
 af_vec_slice  = airfoil_E341_slice ();
 af_vec_range  = airfoil_E341_range ();

@@ -1,9 +1,9 @@
-/* Generated from e502.dat
+/* Generated from e/e502.dat
 
 Usage (copy/paste):
 
 //    E502
-include <airfoil/e502.scad>
+include <openscad-airfoil/e/e502.scad>
 af_vec_path   = airfoil_E502_path ();
 af_vec_slice  = airfoil_E502_slice ();
 af_vec_range  = airfoil_E502_range ();

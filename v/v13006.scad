@@ -1,9 +1,9 @@
-/* Generated from v13006.dat
+/* Generated from v/v13006.dat
 
 Usage (copy/paste):
 
 //    V13006
-include <airfoil/v13006.scad>
+include <openscad-airfoil/v/v13006.scad>
 af_vec_path   = airfoil_V13006_path ();
 af_vec_slice  = airfoil_V13006_slice ();
 af_vec_range  = airfoil_V13006_range ();

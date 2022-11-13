@@ -1,9 +1,9 @@
-/* Generated from goe265.dat
+/* Generated from g/goe265.dat
 
 Usage (copy/paste):
 
 //    GOE265
-include <airfoil/goe265.scad>
+include <openscad-airfoil/g/goe265.scad>
 af_vec_path   = airfoil_GOE265_path ();
 af_vec_slice  = airfoil_GOE265_slice ();
 af_vec_range  = airfoil_GOE265_range ();

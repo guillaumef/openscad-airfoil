@@ -1,9 +1,9 @@
-/* Generated from hq208.dat
+/* Generated from h/hq208.dat
 
 Usage (copy/paste):
 
 //    HQ208
-include <airfoil/hq208.scad>
+include <openscad-airfoil/h/hq208.scad>
 af_vec_path   = airfoil_HQ208_path ();
 af_vec_slice  = airfoil_HQ208_slice ();
 af_vec_range  = airfoil_HQ208_range ();

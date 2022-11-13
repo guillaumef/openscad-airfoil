@@ -1,9 +1,9 @@
-/* Generated from usa34.dat
+/* Generated from u/usa34.dat
 
 Usage (copy/paste):
 
 //    USA34
-include <airfoil/usa34.scad>
+include <openscad-airfoil/u/usa34.scad>
 af_vec_path   = airfoil_USA34_path ();
 af_vec_slice  = airfoil_USA34_slice ();
 af_vec_range  = airfoil_USA34_range ();

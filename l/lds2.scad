@@ -1,9 +1,9 @@
-/* Generated from lds2.dat
+/* Generated from l/lds2.dat
 
 Usage (copy/paste):
 
 //    LDS2
-include <airfoil/lds2.scad>
+include <openscad-airfoil/l/lds2.scad>
 af_vec_path   = airfoil_LDS2_path ();
 af_vec_slice  = airfoil_LDS2_slice ();
 af_vec_range  = airfoil_LDS2_range ();

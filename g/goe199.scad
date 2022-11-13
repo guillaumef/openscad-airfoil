@@ -1,9 +1,9 @@
-/* Generated from goe199.dat
+/* Generated from g/goe199.dat
 
 Usage (copy/paste):
 
 //    GOE199
-include <airfoil/goe199.scad>
+include <openscad-airfoil/g/goe199.scad>
 af_vec_path   = airfoil_GOE199_path ();
 af_vec_slice  = airfoil_GOE199_slice ();
 af_vec_range  = airfoil_GOE199_range ();

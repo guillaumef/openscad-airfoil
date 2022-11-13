@@ -1,9 +1,9 @@
-/* Generated from s9027.dat
+/* Generated from s/s9027.dat
 
 Usage (copy/paste):
 
 //    S9027
-include <airfoil/s9027.scad>
+include <openscad-airfoil/s/s9027.scad>
 af_vec_path   = airfoil_S9027_path ();
 af_vec_slice  = airfoil_S9027_slice ();
 af_vec_range  = airfoil_S9027_range ();

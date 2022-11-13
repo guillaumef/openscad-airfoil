@@ -1,9 +1,9 @@
-/* Generated from rc08n1.dat
+/* Generated from r/rc08n1.dat
 
 Usage (copy/paste):
 
 //    RC08N1
-include <airfoil/rc08n1.scad>
+include <openscad-airfoil/r/rc08n1.scad>
 af_vec_path   = airfoil_RC08N1_path ();
 af_vec_slice  = airfoil_RC08N1_slice ();
 af_vec_range  = airfoil_RC08N1_range ();

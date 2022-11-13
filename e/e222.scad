@@ -1,9 +1,9 @@
-/* Generated from e222.dat
+/* Generated from e/e222.dat
 
 Usage (copy/paste):
 
 //    E222
-include <airfoil/e222.scad>
+include <openscad-airfoil/e/e222.scad>
 af_vec_path   = airfoil_E222_path ();
 af_vec_slice  = airfoil_E222_slice ();
 af_vec_range  = airfoil_E222_range ();

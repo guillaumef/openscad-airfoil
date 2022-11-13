@@ -1,9 +1,9 @@
-/* Generated from mh70.dat
+/* Generated from m/mh70.dat
 
 Usage (copy/paste):
 
 //    MH70
-include <airfoil/mh70.scad>
+include <openscad-airfoil/m/mh70.scad>
 af_vec_path   = airfoil_MH70_path ();
 af_vec_slice  = airfoil_MH70_slice ();
 af_vec_range  = airfoil_MH70_range ();

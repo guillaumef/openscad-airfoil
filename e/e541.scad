@@ -1,9 +1,9 @@
-/* Generated from e541.dat
+/* Generated from e/e541.dat
 
 Usage (copy/paste):
 
 //    E541
-include <airfoil/e541.scad>
+include <openscad-airfoil/e/e541.scad>
 af_vec_path   = airfoil_E541_path ();
 af_vec_slice  = airfoil_E541_slice ();
 af_vec_range  = airfoil_E541_range ();

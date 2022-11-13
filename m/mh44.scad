@@ -1,9 +1,9 @@
-/* Generated from mh44.dat
+/* Generated from m/mh44.dat
 
 Usage (copy/paste):
 
 //    MH44
-include <airfoil/mh44.scad>
+include <openscad-airfoil/m/mh44.scad>
 af_vec_path   = airfoil_MH44_path ();
 af_vec_slice  = airfoil_MH44_slice ();
 af_vec_range  = airfoil_MH44_range ();

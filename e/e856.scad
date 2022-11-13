@@ -1,9 +1,9 @@
-/* Generated from e856.dat
+/* Generated from e/e856.dat
 
 Usage (copy/paste):
 
 //    E856
-include <airfoil/e856.scad>
+include <openscad-airfoil/e/e856.scad>
 af_vec_path   = airfoil_E856_path ();
 af_vec_slice  = airfoil_E856_slice ();
 af_vec_range  = airfoil_E856_range ();

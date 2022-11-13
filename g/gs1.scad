@@ -1,9 +1,9 @@
-/* Generated from gs1.dat
+/* Generated from g/gs1.dat
 
 Usage (copy/paste):
 
 //    GS1
-include <airfoil/gs1.scad>
+include <openscad-airfoil/g/gs1.scad>
 af_vec_path   = airfoil_GS1_path ();
 af_vec_slice  = airfoil_GS1_slice ();
 af_vec_range  = airfoil_GS1_range ();

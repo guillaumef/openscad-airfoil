@@ -1,9 +1,9 @@
-/* Generated from goe416a.dat
+/* Generated from g/goe416a.dat
 
 Usage (copy/paste):
 
 //    GOE416A
-include <airfoil/goe416a.scad>
+include <openscad-airfoil/g/goe416a.scad>
 af_vec_path   = airfoil_GOE416A_path ();
 af_vec_slice  = airfoil_GOE416A_slice ();
 af_vec_range  = airfoil_GOE416A_range ();
@@ -45,7 +45,7 @@ function airfoil_GOE416A_path () = [
     ,[       1.132 ,       1.556 ]
     ,[           0 ,           0 ]
     ,[           0 ,           0 ]
-    ,[       1.132 , -0.715726540139481 ]
+    ,[       1.132 , -0.71572654013948 ]
     ,[       1.313 ,       -0.81 ]
     ,[       2.324 , -1.21102547475919 ]
     ,[         2.6 ,      -1.302 ]
@@ -79,7 +79,7 @@ function airfoil_GOE416A_path () = [
 ];
 function airfoil_GOE416A_slice () = [
      [ 0, 0, 0 ]
-    ,[ 1.132, 1.556, -0.715726540139481 ]
+    ,[ 1.132, 1.556, -0.71572654013948 ]
     ,[ 1.313, 1.72500555173489, -0.81 ]
     ,[ 2.324, 2.317, -1.21102547475919 ]
     ,[ 2.6, 2.44172376814412, -1.302 ]

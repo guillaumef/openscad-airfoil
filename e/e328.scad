@@ -1,9 +1,9 @@
-/* Generated from e328.dat
+/* Generated from e/e328.dat
 
 Usage (copy/paste):
 
 //    E328
-include <airfoil/e328.scad>
+include <openscad-airfoil/e/e328.scad>
 af_vec_path   = airfoil_E328_path ();
 af_vec_slice  = airfoil_E328_slice ();
 af_vec_range  = airfoil_E328_range ();

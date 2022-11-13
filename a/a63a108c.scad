@@ -1,9 +1,9 @@
-/* Generated from a63a108c.dat
+/* Generated from a/a63a108c.dat
 
 Usage (copy/paste):
 
 //    A63A108C
-include <airfoil/a63a108c.scad>
+include <openscad-airfoil/a/a63a108c.scad>
 af_vec_path   = airfoil_A63A108C_path ();
 af_vec_slice  = airfoil_A63A108C_slice ();
 af_vec_range  = airfoil_A63A108C_range ();

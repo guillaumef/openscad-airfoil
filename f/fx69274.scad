@@ -1,9 +1,9 @@
-/* Generated from fx69274.dat
+/* Generated from f/fx69274.dat
 
 Usage (copy/paste):
 
 //    FX69274
-include <airfoil/fx69274.scad>
+include <openscad-airfoil/f/fx69274.scad>
 af_vec_path   = airfoil_FX69274_path ();
 af_vec_slice  = airfoil_FX69274_slice ();
 af_vec_range  = airfoil_FX69274_range ();

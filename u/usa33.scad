@@ -1,9 +1,9 @@
-/* Generated from usa33.dat
+/* Generated from u/usa33.dat
 
 Usage (copy/paste):
 
 //    USA33
-include <airfoil/usa33.scad>
+include <openscad-airfoil/u/usa33.scad>
 af_vec_path   = airfoil_USA33_path ();
 af_vec_slice  = airfoil_USA33_slice ();
 af_vec_range  = airfoil_USA33_range ();

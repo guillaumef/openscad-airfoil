@@ -1,9 +1,9 @@
-/* Generated from tsagi8.dat
+/* Generated from t/tsagi8.dat
 
 Usage (copy/paste):
 
 //    TSAGI8
-include <airfoil/tsagi8.scad>
+include <openscad-airfoil/t/tsagi8.scad>
 af_vec_path   = airfoil_TSAGI8_path ();
 af_vec_slice  = airfoil_TSAGI8_slice ();
 af_vec_range  = airfoil_TSAGI8_range ();

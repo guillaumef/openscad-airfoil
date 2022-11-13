@@ -1,9 +1,9 @@
-/* Generated from e642.dat
+/* Generated from e/e642.dat
 
 Usage (copy/paste):
 
 //    E642
-include <airfoil/e642.scad>
+include <openscad-airfoil/e/e642.scad>
 af_vec_path   = airfoil_E642_path ();
 af_vec_slice  = airfoil_E642_slice ();
 af_vec_range  = airfoil_E642_range ();

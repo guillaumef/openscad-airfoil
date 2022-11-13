@@ -1,9 +1,9 @@
-/* Generated from ls421mod.dat
+/* Generated from l/ls421mod.dat
 
 Usage (copy/paste):
 
 //    LS421MOD
-include <airfoil/ls421mod.scad>
+include <openscad-airfoil/l/ls421mod.scad>
 af_vec_path   = airfoil_LS421MOD_path ();
 af_vec_slice  = airfoil_LS421MOD_slice ();
 af_vec_range  = airfoil_LS421MOD_range ();

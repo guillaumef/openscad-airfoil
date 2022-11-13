@@ -1,9 +1,9 @@
-/* Generated from e654.dat
+/* Generated from e/e654.dat
 
 Usage (copy/paste):
 
 //    E654
-include <airfoil/e654.scad>
+include <openscad-airfoil/e/e654.scad>
 af_vec_path   = airfoil_E654_path ();
 af_vec_slice  = airfoil_E654_slice ();
 af_vec_range  = airfoil_E654_range ();

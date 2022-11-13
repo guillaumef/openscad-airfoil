@@ -1,9 +1,9 @@
-/* Generated from nacam18.dat
+/* Generated from n/nacam18.dat
 
 Usage (copy/paste):
 
 //    NACAM18
-include <airfoil/nacam18.scad>
+include <openscad-airfoil/n/nacam18.scad>
 af_vec_path   = airfoil_NACAM18_path ();
 af_vec_slice  = airfoil_NACAM18_slice ();
 af_vec_range  = airfoil_NACAM18_range ();

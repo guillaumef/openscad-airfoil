@@ -1,9 +1,9 @@
-/* Generated from s6062.dat
+/* Generated from s/s6062.dat
 
 Usage (copy/paste):
 
 //    S6062
-include <airfoil/s6062.scad>
+include <openscad-airfoil/s/s6062.scad>
 af_vec_path   = airfoil_S6062_path ();
 af_vec_slice  = airfoil_S6062_slice ();
 af_vec_range  = airfoil_S6062_range ();

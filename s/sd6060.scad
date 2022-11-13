@@ -1,9 +1,9 @@
-/* Generated from sd6060.dat
+/* Generated from s/sd6060.dat
 
 Usage (copy/paste):
 
 //    SD6060
-include <airfoil/sd6060.scad>
+include <openscad-airfoil/s/sd6060.scad>
 af_vec_path   = airfoil_SD6060_path ();
 af_vec_slice  = airfoil_SD6060_slice ();
 af_vec_range  = airfoil_SD6060_range ();

@@ -1,9 +1,9 @@
-/* Generated from n2414.dat
+/* Generated from n/n2414.dat
 
 Usage (copy/paste):
 
 //    N2414
-include <airfoil/n2414.scad>
+include <openscad-airfoil/n/n2414.scad>
 af_vec_path   = airfoil_N2414_path ();
 af_vec_slice  = airfoil_N2414_slice ();
 af_vec_range  = airfoil_N2414_range ();

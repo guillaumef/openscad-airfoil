@@ -1,9 +1,9 @@
-/* Generated from s7012.dat
+/* Generated from s/s7012.dat
 
 Usage (copy/paste):
 
 //    S7012
-include <airfoil/s7012.scad>
+include <openscad-airfoil/s/s7012.scad>
 af_vec_path   = airfoil_S7012_path ();
 af_vec_slice  = airfoil_S7012_slice ();
 af_vec_range  = airfoil_S7012_range ();

@@ -1,9 +1,9 @@
-/* Generated from s2027.dat
+/* Generated from s/s2027.dat
 
 Usage (copy/paste):
 
 //    S2027
-include <airfoil/s2027.scad>
+include <openscad-airfoil/s/s2027.scad>
 af_vec_path   = airfoil_S2027_path ();
 af_vec_slice  = airfoil_S2027_slice ();
 af_vec_range  = airfoil_S2027_range ();

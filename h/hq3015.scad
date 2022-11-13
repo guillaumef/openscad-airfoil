@@ -1,9 +1,9 @@
-/* Generated from hq3015.dat
+/* Generated from h/hq3015.dat
 
 Usage (copy/paste):
 
 //    HQ3015
-include <airfoil/hq3015.scad>
+include <openscad-airfoil/h/hq3015.scad>
 af_vec_path   = airfoil_HQ3015_path ();
 af_vec_slice  = airfoil_HQ3015_slice ();
 af_vec_range  = airfoil_HQ3015_range ();

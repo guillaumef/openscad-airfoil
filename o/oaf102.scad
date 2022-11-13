@@ -1,9 +1,9 @@
-/* Generated from oaf102.dat
+/* Generated from o/oaf102.dat
 
 Usage (copy/paste):
 
 //    OAF102
-include <airfoil/oaf102.scad>
+include <openscad-airfoil/o/oaf102.scad>
 af_vec_path   = airfoil_OAF102_path ();
 af_vec_slice  = airfoil_OAF102_slice ();
 af_vec_range  = airfoil_OAF102_range ();

@@ -1,9 +1,9 @@
-/* Generated from hobiesm.dat
+/* Generated from h/hobiesm.dat
 
 Usage (copy/paste):
 
 //    HOBIESM
-include <airfoil/hobiesm.scad>
+include <openscad-airfoil/h/hobiesm.scad>
 af_vec_path   = airfoil_HOBIESM_path ();
 af_vec_slice  = airfoil_HOBIESM_slice ();
 af_vec_range  = airfoil_HOBIESM_range ();

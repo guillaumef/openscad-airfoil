@@ -1,9 +1,9 @@
-/* Generated from cr1.dat
+/* Generated from c/cr1.dat
 
 Usage (copy/paste):
 
 //    CR1
-include <airfoil/cr1.scad>
+include <openscad-airfoil/c/cr1.scad>
 af_vec_path   = airfoil_CR1_path ();
 af_vec_slice  = airfoil_CR1_slice ();
 af_vec_range  = airfoil_CR1_range ();

@@ -1,9 +1,9 @@
-/* Generated from ag13.dat
+/* Generated from a/ag13.dat
 
 Usage (copy/paste):
 
 //    AG13
-include <airfoil/ag13.scad>
+include <openscad-airfoil/a/ag13.scad>
 af_vec_path   = airfoil_AG13_path ();
 af_vec_slice  = airfoil_AG13_slice ();
 af_vec_range  = airfoil_AG13_range ();

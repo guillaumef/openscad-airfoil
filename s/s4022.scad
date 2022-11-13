@@ -1,9 +1,9 @@
-/* Generated from s4022.dat
+/* Generated from s/s4022.dat
 
 Usage (copy/paste):
 
 //    S4022
-include <airfoil/s4022.scad>
+include <openscad-airfoil/s/s4022.scad>
 af_vec_path   = airfoil_S4022_path ();
 af_vec_slice  = airfoil_S4022_slice ();
 af_vec_range  = airfoil_S4022_range ();

@@ -1,9 +1,9 @@
-/* Generated from rg14.dat
+/* Generated from r/rg14.dat
 
 Usage (copy/paste):
 
 //    RG14
-include <airfoil/rg14.scad>
+include <openscad-airfoil/r/rg14.scad>
 af_vec_path   = airfoil_RG14_path ();
 af_vec_slice  = airfoil_RG14_slice ();
 af_vec_range  = airfoil_RG14_range ();

@@ -1,9 +1,9 @@
-/* Generated from s4180.dat
+/* Generated from s/s4180.dat
 
 Usage (copy/paste):
 
 //    S4180
-include <airfoil/s4180.scad>
+include <openscad-airfoil/s/s4180.scad>
 af_vec_path   = airfoil_S4180_path ();
 af_vec_slice  = airfoil_S4180_slice ();
 af_vec_range  = airfoil_S4180_range ();

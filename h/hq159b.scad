@@ -1,9 +1,9 @@
-/* Generated from hq159b.dat
+/* Generated from h/hq159b.dat
 
 Usage (copy/paste):
 
 //    HQ159B
-include <airfoil/hq159b.scad>
+include <openscad-airfoil/h/hq159b.scad>
 af_vec_path   = airfoil_HQ159B_path ();
 af_vec_slice  = airfoil_HQ159B_slice ();
 af_vec_range  = airfoil_HQ159B_range ();

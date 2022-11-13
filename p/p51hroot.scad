@@ -1,9 +1,9 @@
-/* Generated from p51hroot.dat
+/* Generated from p/p51hroot.dat
 
 Usage (copy/paste):
 
 //    P51HROOT
-include <airfoil/p51hroot.scad>
+include <openscad-airfoil/p/p51hroot.scad>
 af_vec_path   = airfoil_P51HROOT_path ();
 af_vec_slice  = airfoil_P51HROOT_slice ();
 af_vec_range  = airfoil_P51HROOT_range ();

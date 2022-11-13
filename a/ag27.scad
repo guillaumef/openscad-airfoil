@@ -1,9 +1,9 @@
-/* Generated from ag27.dat
+/* Generated from a/ag27.dat
 
 Usage (copy/paste):
 
 //    AG27
-include <airfoil/ag27.scad>
+include <openscad-airfoil/a/ag27.scad>
 af_vec_path   = airfoil_AG27_path ();
 af_vec_slice  = airfoil_AG27_slice ();
 af_vec_range  = airfoil_AG27_range ();

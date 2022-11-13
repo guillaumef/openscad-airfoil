@@ -1,9 +1,9 @@
-/* Generated from goe308.dat
+/* Generated from g/goe308.dat
 
 Usage (copy/paste):
 
 //    GOE308
-include <airfoil/goe308.scad>
+include <openscad-airfoil/g/goe308.scad>
 af_vec_path   = airfoil_GOE308_path ();
 af_vec_slice  = airfoil_GOE308_slice ();
 af_vec_range  = airfoil_GOE308_range ();

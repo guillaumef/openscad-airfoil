@@ -1,9 +1,9 @@
-/* Generated from e625.dat
+/* Generated from e/e625.dat
 
 Usage (copy/paste):
 
 //    E625
-include <airfoil/e625.scad>
+include <openscad-airfoil/e/e625.scad>
 af_vec_path   = airfoil_E625_path ();
 af_vec_slice  = airfoil_E625_slice ();
 af_vec_range  = airfoil_E625_range ();

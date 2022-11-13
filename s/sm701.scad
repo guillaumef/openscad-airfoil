@@ -1,9 +1,9 @@
-/* Generated from sm701.dat
+/* Generated from s/sm701.dat
 
 Usage (copy/paste):
 
 //    SM701
-include <airfoil/sm701.scad>
+include <openscad-airfoil/s/sm701.scad>
 af_vec_path   = airfoil_SM701_path ();
 af_vec_slice  = airfoil_SM701_slice ();
 af_vec_range  = airfoil_SM701_range ();

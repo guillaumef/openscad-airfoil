@@ -1,9 +1,9 @@
-/* Generated from ag08.dat
+/* Generated from a/ag08.dat
 
 Usage (copy/paste):
 
 //    AG08
-include <airfoil/ag08.scad>
+include <openscad-airfoil/a/ag08.scad>
 af_vec_path   = airfoil_AG08_path ();
 af_vec_slice  = airfoil_AG08_slice ();
 af_vec_range  = airfoil_AG08_range ();

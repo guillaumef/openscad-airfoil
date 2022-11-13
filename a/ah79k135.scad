@@ -1,9 +1,9 @@
-/* Generated from ah79k135.dat
+/* Generated from a/ah79k135.dat
 
 Usage (copy/paste):
 
 //    AH79K135
-include <airfoil/ah79k135.scad>
+include <openscad-airfoil/a/ah79k135.scad>
 af_vec_path   = airfoil_AH79K135_path ();
 af_vec_slice  = airfoil_AH79K135_slice ();
 af_vec_range  = airfoil_AH79K135_range ();

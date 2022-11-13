@@ -1,9 +1,9 @@
-/* Generated from fx71089a.dat
+/* Generated from f/fx71089a.dat
 
 Usage (copy/paste):
 
 //    FX71089A
-include <airfoil/fx71089a.scad>
+include <openscad-airfoil/f/fx71089a.scad>
 af_vec_path   = airfoil_FX71089A_path ();
 af_vec_slice  = airfoil_FX71089A_slice ();
 af_vec_range  = airfoil_FX71089A_range ();

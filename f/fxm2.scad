@@ -1,9 +1,9 @@
-/* Generated from fxm2.dat
+/* Generated from f/fxm2.dat
 
 Usage (copy/paste):
 
 //    FXM2
-include <airfoil/fxm2.scad>
+include <openscad-airfoil/f/fxm2.scad>
 af_vec_path   = airfoil_FXM2_path ();
 af_vec_slice  = airfoil_FXM2_slice ();
 af_vec_range  = airfoil_FXM2_range ();

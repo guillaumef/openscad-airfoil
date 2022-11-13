@@ -1,9 +1,9 @@
-/* Generated from cr001sm.dat
+/* Generated from c/cr001sm.dat
 
 Usage (copy/paste):
 
 //    CR001SM
-include <airfoil/cr001sm.scad>
+include <openscad-airfoil/c/cr001sm.scad>
 af_vec_path   = airfoil_CR001SM_path ();
 af_vec_slice  = airfoil_CR001SM_slice ();
 af_vec_range  = airfoil_CR001SM_range ();

@@ -1,9 +1,9 @@
-/* Generated from rae101.dat
+/* Generated from r/rae101.dat
 
 Usage (copy/paste):
 
 //    RAE101
-include <airfoil/rae101.scad>
+include <openscad-airfoil/r/rae101.scad>
 af_vec_path   = airfoil_RAE101_path ();
 af_vec_slice  = airfoil_RAE101_slice ();
 af_vec_range  = airfoil_RAE101_range ();

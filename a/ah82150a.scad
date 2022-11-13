@@ -1,9 +1,9 @@
-/* Generated from ah82150a.dat
+/* Generated from a/ah82150a.dat
 
 Usage (copy/paste):
 
 //    AH82150A
-include <airfoil/ah82150a.scad>
+include <openscad-airfoil/a/ah82150a.scad>
 af_vec_path   = airfoil_AH82150A_path ();
 af_vec_slice  = airfoil_AH82150A_slice ();
 af_vec_range  = airfoil_AH82150A_range ();

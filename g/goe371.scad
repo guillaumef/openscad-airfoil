@@ -1,9 +1,9 @@
-/* Generated from goe371.dat
+/* Generated from g/goe371.dat
 
 Usage (copy/paste):
 
 //    GOE371
-include <airfoil/goe371.scad>
+include <openscad-airfoil/g/goe371.scad>
 af_vec_path   = airfoil_GOE371_path ();
 af_vec_slice  = airfoil_GOE371_slice ();
 af_vec_range  = airfoil_GOE371_range ();

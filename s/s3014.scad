@@ -1,9 +1,9 @@
-/* Generated from s3014.dat
+/* Generated from s/s3014.dat
 
 Usage (copy/paste):
 
 //    S3014
-include <airfoil/s3014.scad>
+include <openscad-airfoil/s/s3014.scad>
 af_vec_path   = airfoil_S3014_path ();
 af_vec_slice  = airfoil_S3014_slice ();
 af_vec_range  = airfoil_S3014_range ();

@@ -1,9 +1,9 @@
-/* Generated from isa960.dat
+/* Generated from i/isa960.dat
 
 Usage (copy/paste):
 
 //    ISA960
-include <airfoil/isa960.scad>
+include <openscad-airfoil/i/isa960.scad>
 af_vec_path   = airfoil_ISA960_path ();
 af_vec_slice  = airfoil_ISA960_slice ();
 af_vec_range  = airfoil_ISA960_range ();

@@ -1,9 +1,9 @@
-/* Generated from e339.dat
+/* Generated from e/e339.dat
 
 Usage (copy/paste):
 
 //    E339
-include <airfoil/e339.scad>
+include <openscad-airfoil/e/e339.scad>
 af_vec_path   = airfoil_E339_path ();
 af_vec_slice  = airfoil_E339_slice ();
 af_vec_range  = airfoil_E339_range ();

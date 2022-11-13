@@ -1,9 +1,9 @@
-/* Generated from goe777.dat
+/* Generated from g/goe777.dat
 
 Usage (copy/paste):
 
 //    GOE777
-include <airfoil/goe777.scad>
+include <openscad-airfoil/g/goe777.scad>
 af_vec_path   = airfoil_GOE777_path ();
 af_vec_slice  = airfoil_GOE777_slice ();
 af_vec_range  = airfoil_GOE777_range ();

@@ -1,9 +1,9 @@
-/* Generated from n64212ma.dat
+/* Generated from n/n64212ma.dat
 
 Usage (copy/paste):
 
 //    N64212MA
-include <airfoil/n64212ma.scad>
+include <openscad-airfoil/n/n64212ma.scad>
 af_vec_path   = airfoil_N64212MA_path ();
 af_vec_slice  = airfoil_N64212MA_slice ();
 af_vec_range  = airfoil_N64212MA_range ();

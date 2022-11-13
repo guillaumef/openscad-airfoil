@@ -1,9 +1,9 @@
-/* Generated from eiffel371.dat
+/* Generated from e/eiffel371.dat
 
 Usage (copy/paste):
 
 //    EIFFEL371
-include <airfoil/eiffel371.scad>
+include <openscad-airfoil/e/eiffel371.scad>
 af_vec_path   = airfoil_EIFFEL371_path ();
 af_vec_slice  = airfoil_EIFFEL371_slice ();
 af_vec_range  = airfoil_EIFFEL371_range ();

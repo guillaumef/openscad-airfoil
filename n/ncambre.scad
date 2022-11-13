@@ -1,9 +1,9 @@
-/* Generated from ncambre.dat
+/* Generated from n/ncambre.dat
 
 Usage (copy/paste):
 
 //    NCAMBRE
-include <airfoil/ncambre.scad>
+include <openscad-airfoil/n/ncambre.scad>
 af_vec_path   = airfoil_NCAMBRE_path ();
 af_vec_slice  = airfoil_NCAMBRE_slice ();
 af_vec_range  = airfoil_NCAMBRE_range ();

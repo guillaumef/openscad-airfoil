@@ -1,9 +1,9 @@
-/* Generated from raf31.dat
+/* Generated from r/raf31.dat
 
 Usage (copy/paste):
 
 //    RAF31
-include <airfoil/raf31.scad>
+include <openscad-airfoil/r/raf31.scad>
 af_vec_path   = airfoil_RAF31_path ();
 af_vec_slice  = airfoil_RAF31_slice ();
 af_vec_range  = airfoil_RAF31_range ();

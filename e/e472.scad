@@ -1,9 +1,9 @@
-/* Generated from e472.dat
+/* Generated from e/e472.dat
 
 Usage (copy/paste):
 
 //    E472
-include <airfoil/e472.scad>
+include <openscad-airfoil/e/e472.scad>
 af_vec_path   = airfoil_E472_path ();
 af_vec_slice  = airfoil_E472_slice ();
 af_vec_range  = airfoil_E472_range ();

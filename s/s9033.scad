@@ -1,9 +1,9 @@
-/* Generated from s9033.dat
+/* Generated from s/s9033.dat
 
 Usage (copy/paste):
 
 //    S9033
-include <airfoil/s9033.scad>
+include <openscad-airfoil/s/s9033.scad>
 af_vec_path   = airfoil_S9033_path ();
 af_vec_slice  = airfoil_S9033_slice ();
 af_vec_range  = airfoil_S9033_range ();

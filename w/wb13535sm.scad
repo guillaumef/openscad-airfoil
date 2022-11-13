@@ -1,9 +1,9 @@
-/* Generated from wb13535sm.dat
+/* Generated from w/wb13535sm.dat
 
 Usage (copy/paste):
 
 //    WB13535SM
-include <airfoil/wb13535sm.scad>
+include <openscad-airfoil/w/wb13535sm.scad>
 af_vec_path   = airfoil_WB13535SM_path ();
 af_vec_slice  = airfoil_WB13535SM_slice ();
 af_vec_range  = airfoil_WB13535SM_range ();

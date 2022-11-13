@@ -1,9 +1,9 @@
-/* Generated from m5.dat
+/* Generated from m/m5.dat
 
 Usage (copy/paste):
 
 //    M5
-include <airfoil/m5.scad>
+include <openscad-airfoil/m/m5.scad>
 af_vec_path   = airfoil_M5_path ();
 af_vec_slice  = airfoil_M5_slice ();
 af_vec_range  = airfoil_M5_range ();

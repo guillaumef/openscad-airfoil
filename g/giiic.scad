@@ -1,9 +1,9 @@
-/* Generated from giiic.dat
+/* Generated from g/giiic.dat
 
 Usage (copy/paste):
 
 //    GIIIC
-include <airfoil/giiic.scad>
+include <openscad-airfoil/g/giiic.scad>
 af_vec_path   = airfoil_GIIIC_path ();
 af_vec_slice  = airfoil_GIIIC_slice ();
 af_vec_range  = airfoil_GIIIC_range ();

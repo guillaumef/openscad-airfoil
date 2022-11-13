@@ -1,9 +1,9 @@
-/* Generated from lwk80080.dat
+/* Generated from l/lwk80080.dat
 
 Usage (copy/paste):
 
 //    LWK80080
-include <airfoil/lwk80080.scad>
+include <openscad-airfoil/l/lwk80080.scad>
 af_vec_path   = airfoil_LWK80080_path ();
 af_vec_slice  = airfoil_LWK80080_slice ();
 af_vec_range  = airfoil_LWK80080_range ();

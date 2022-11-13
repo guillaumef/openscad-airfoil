@@ -1,9 +1,9 @@
-/* Generated from mh113.dat
+/* Generated from m/mh113.dat
 
 Usage (copy/paste):
 
 //    MH113
-include <airfoil/mh113.scad>
+include <openscad-airfoil/m/mh113.scad>
 af_vec_path   = airfoil_MH113_path ();
 af_vec_slice  = airfoil_MH113_slice ();
 af_vec_range  = airfoil_MH113_range ();

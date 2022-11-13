@@ -1,9 +1,9 @@
-/* Generated from cap21c.dat
+/* Generated from c/cap21c.dat
 
 Usage (copy/paste):
 
 //    CAP21C
-include <airfoil/cap21c.scad>
+include <openscad-airfoil/c/cap21c.scad>
 af_vec_path   = airfoil_CAP21C_path ();
 af_vec_slice  = airfoil_CAP21C_slice ();
 af_vec_range  = airfoil_CAP21C_range ();

@@ -1,9 +1,9 @@
-/* Generated from goe14.dat
+/* Generated from g/goe14.dat
 
 Usage (copy/paste):
 
 //    GOE14
-include <airfoil/goe14.scad>
+include <openscad-airfoil/g/goe14.scad>
 af_vec_path   = airfoil_GOE14_path ();
 af_vec_slice  = airfoil_GOE14_slice ();
 af_vec_range  = airfoil_GOE14_range ();

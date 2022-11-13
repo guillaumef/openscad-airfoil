@@ -1,9 +1,9 @@
-/* Generated from oaf139.dat
+/* Generated from o/oaf139.dat
 
 Usage (copy/paste):
 
 //    OAF139
-include <airfoil/oaf139.scad>
+include <openscad-airfoil/o/oaf139.scad>
 af_vec_path   = airfoil_OAF139_path ();
 af_vec_slice  = airfoil_OAF139_slice ();
 af_vec_range  = airfoil_OAF139_range ();

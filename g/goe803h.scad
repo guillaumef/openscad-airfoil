@@ -1,9 +1,9 @@
-/* Generated from goe803h.dat
+/* Generated from g/goe803h.dat
 
 Usage (copy/paste):
 
 //    GOE803H
-include <airfoil/goe803h.scad>
+include <openscad-airfoil/g/goe803h.scad>
 af_vec_path   = airfoil_GOE803H_path ();
 af_vec_slice  = airfoil_GOE803H_slice ();
 af_vec_range  = airfoil_GOE803H_range ();

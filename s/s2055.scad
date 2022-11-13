@@ -1,9 +1,9 @@
-/* Generated from s2055.dat
+/* Generated from s/s2055.dat
 
 Usage (copy/paste):
 
 //    S2055
-include <airfoil/s2055.scad>
+include <openscad-airfoil/s/s2055.scad>
 af_vec_path   = airfoil_S2055_path ();
 af_vec_slice  = airfoil_S2055_slice ();
 af_vec_range  = airfoil_S2055_range ();

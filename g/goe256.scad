@@ -1,9 +1,9 @@
-/* Generated from goe256.dat
+/* Generated from g/goe256.dat
 
 Usage (copy/paste):
 
 //    GOE256
-include <airfoil/goe256.scad>
+include <openscad-airfoil/g/goe256.scad>
 af_vec_path   = airfoil_GOE256_path ();
 af_vec_slice  = airfoil_GOE256_slice ();
 af_vec_range  = airfoil_GOE256_range ();

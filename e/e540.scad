@@ -1,9 +1,9 @@
-/* Generated from e540.dat
+/* Generated from e/e540.dat
 
 Usage (copy/paste):
 
 //    E540
-include <airfoil/e540.scad>
+include <openscad-airfoil/e/e540.scad>
 af_vec_path   = airfoil_E540_path ();
 af_vec_slice  = airfoil_E540_slice ();
 af_vec_range  = airfoil_E540_range ();

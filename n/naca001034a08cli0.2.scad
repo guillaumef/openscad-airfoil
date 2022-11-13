@@ -1,9 +1,9 @@
-/* Generated from naca001034a08cli0.2.dat
+/* Generated from n/naca001034a08cli0.2.dat
 
 Usage (copy/paste):
 
 //    NACA001034A08CLI0
-include <airfoil/naca001034a08cli0.2.scad>
+include <openscad-airfoil/n/naca001034a08cli0.2.scad>
 af_vec_path   = airfoil_NACA001034A08CLI0_path ();
 af_vec_slice  = airfoil_NACA001034A08CLI0_slice ();
 af_vec_range  = airfoil_NACA001034A08CLI0_range ();

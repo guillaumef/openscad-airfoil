@@ -1,9 +1,9 @@
-/* Generated from marske1.dat
+/* Generated from m/marske1.dat
 
 Usage (copy/paste):
 
 //    MARSKE1
-include <airfoil/marske1.scad>
+include <openscad-airfoil/m/marske1.scad>
 af_vec_path   = airfoil_MARSKE1_path ();
 af_vec_slice  = airfoil_MARSKE1_slice ();
 af_vec_range  = airfoil_MARSKE1_range ();
@@ -48,7 +48,7 @@ function airfoil_MARSKE1_path () = [
     ,[      1.2274 ,     -1.7261 ]
     ,[      1.2934 , -1.7815863789958 ]
     ,[      2.4717 ,     -2.1624 ]
-    ,[      2.5588 , -2.16975028534028 ]
+    ,[      2.5588 , -2.16975028534029 ]
     ,[      4.9677 ,     -2.4651 ]
     ,[        5.08 , -2.48775707745883 ]
     ,[      7.4602 ,     -3.0377 ]
@@ -82,7 +82,7 @@ function airfoil_MARSKE1_slice () = [
     ,[ 1.2274, 3.19540873200041, -1.7261 ]
     ,[ 1.2934, 3.3131, -1.7815863789958 ]
     ,[ 2.4717, 4.43658855132631, -2.1624 ]
-    ,[ 2.5588, 4.4865, -2.16975028534028 ]
+    ,[ 2.5588, 4.4865, -2.16975028534029 ]
     ,[ 4.9677, 6.03695430363014, -2.4651 ]
     ,[ 5.08, 6.1035, -2.48775707745883 ]
     ,[ 7.4602, 7.19971456098956, -3.0377 ]

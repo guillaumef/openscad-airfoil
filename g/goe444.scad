@@ -1,9 +1,9 @@
-/* Generated from goe444.dat
+/* Generated from g/goe444.dat
 
 Usage (copy/paste):
 
 //    GOE444
-include <airfoil/goe444.scad>
+include <openscad-airfoil/g/goe444.scad>
 af_vec_path   = airfoil_GOE444_path ();
 af_vec_slice  = airfoil_GOE444_slice ();
 af_vec_range  = airfoil_GOE444_range ();

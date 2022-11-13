@@ -1,9 +1,9 @@
-/* Generated from mh150.dat
+/* Generated from m/mh150.dat
 
 Usage (copy/paste):
 
 //    MH150
-include <airfoil/mh150.scad>
+include <openscad-airfoil/m/mh150.scad>
 af_vec_path   = airfoil_MH150_path ();
 af_vec_slice  = airfoil_MH150_slice ();
 af_vec_range  = airfoil_MH150_range ();

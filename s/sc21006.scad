@@ -1,9 +1,9 @@
-/* Generated from sc21006.dat
+/* Generated from s/sc21006.dat
 
 Usage (copy/paste):
 
 //    SC21006
-include <airfoil/sc21006.scad>
+include <openscad-airfoil/s/sc21006.scad>
 af_vec_path   = airfoil_SC21006_path ();
 af_vec_slice  = airfoil_SC21006_slice ();
 af_vec_range  = airfoil_SC21006_range ();

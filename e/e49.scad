@@ -1,9 +1,9 @@
-/* Generated from e49.dat
+/* Generated from e/e49.dat
 
 Usage (copy/paste):
 
 //    E49
-include <airfoil/e49.scad>
+include <openscad-airfoil/e/e49.scad>
 af_vec_path   = airfoil_E49_path ();
 af_vec_slice  = airfoil_E49_slice ();
 af_vec_range  = airfoil_E49_range ();

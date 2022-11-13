@@ -1,9 +1,9 @@
-/* Generated from fx76120.dat
+/* Generated from f/fx76120.dat
 
 Usage (copy/paste):
 
 //    FX76120
-include <airfoil/fx76120.scad>
+include <openscad-airfoil/f/fx76120.scad>
 af_vec_path   = airfoil_FX76120_path ();
 af_vec_slice  = airfoil_FX76120_slice ();
 af_vec_range  = airfoil_FX76120_range ();

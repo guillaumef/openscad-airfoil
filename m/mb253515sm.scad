@@ -1,9 +1,9 @@
-/* Generated from mb253515sm.dat
+/* Generated from m/mb253515sm.dat
 
 Usage (copy/paste):
 
 //    MB253515SM
-include <airfoil/mb253515sm.scad>
+include <openscad-airfoil/m/mb253515sm.scad>
 af_vec_path   = airfoil_MB253515SM_path ();
 af_vec_slice  = airfoil_MB253515SM_slice ();
 af_vec_range  = airfoil_MB253515SM_range ();

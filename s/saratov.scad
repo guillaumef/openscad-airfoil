@@ -1,9 +1,9 @@
-/* Generated from saratov.dat
+/* Generated from s/saratov.dat
 
 Usage (copy/paste):
 
 //    SARATOV
-include <airfoil/saratov.scad>
+include <openscad-airfoil/s/saratov.scad>
 af_vec_path   = airfoil_SARATOV_path ();
 af_vec_slice  = airfoil_SARATOV_slice ();
 af_vec_range  = airfoil_SARATOV_range ();

@@ -1,9 +1,9 @@
-/* Generated from giiim.dat
+/* Generated from g/giiim.dat
 
 Usage (copy/paste):
 
 //    GIIIM
-include <airfoil/giiim.scad>
+include <openscad-airfoil/g/giiim.scad>
 af_vec_path   = airfoil_GIIIM_path ();
 af_vec_slice  = airfoil_GIIIM_slice ();
 af_vec_range  = airfoil_GIIIM_range ();

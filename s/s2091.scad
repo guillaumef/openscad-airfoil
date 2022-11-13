@@ -1,9 +1,9 @@
-/* Generated from s2091.dat
+/* Generated from s/s2091.dat
 
 Usage (copy/paste):
 
 //    S2091
-include <airfoil/s2091.scad>
+include <openscad-airfoil/s/s2091.scad>
 af_vec_path   = airfoil_S2091_path ();
 af_vec_slice  = airfoil_S2091_slice ();
 af_vec_range  = airfoil_S2091_range ();

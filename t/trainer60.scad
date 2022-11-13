@@ -1,9 +1,9 @@
-/* Generated from trainer60.dat
+/* Generated from t/trainer60.dat
 
 Usage (copy/paste):
 
 //    TRAINER60
-include <airfoil/trainer60.scad>
+include <openscad-airfoil/t/trainer60.scad>
 af_vec_path   = airfoil_TRAINER60_path ();
 af_vec_slice  = airfoil_TRAINER60_slice ();
 af_vec_range  = airfoil_TRAINER60_range ();

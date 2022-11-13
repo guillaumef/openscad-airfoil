@@ -1,9 +1,9 @@
-/* Generated from eh3012.dat
+/* Generated from e/eh3012.dat
 
 Usage (copy/paste):
 
 //    EH3012
-include <airfoil/eh3012.scad>
+include <openscad-airfoil/e/eh3012.scad>
 af_vec_path   = airfoil_EH3012_path ();
 af_vec_slice  = airfoil_EH3012_slice ();
 af_vec_range  = airfoil_EH3012_range ();

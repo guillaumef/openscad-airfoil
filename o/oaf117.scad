@@ -1,9 +1,9 @@
-/* Generated from oaf117.dat
+/* Generated from o/oaf117.dat
 
 Usage (copy/paste):
 
 //    OAF117
-include <airfoil/oaf117.scad>
+include <openscad-airfoil/o/oaf117.scad>
 af_vec_path   = airfoil_OAF117_path ();
 af_vec_slice  = airfoil_OAF117_slice ();
 af_vec_range  = airfoil_OAF117_range ();

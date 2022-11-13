@@ -1,9 +1,9 @@
-/* Generated from vr1.dat
+/* Generated from v/vr1.dat
 
 Usage (copy/paste):
 
 //    VR1
-include <airfoil/vr1.scad>
+include <openscad-airfoil/v/vr1.scad>
 af_vec_path   = airfoil_VR1_path ();
 af_vec_slice  = airfoil_VR1_slice ();
 af_vec_range  = airfoil_VR1_range ();

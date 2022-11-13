@@ -1,9 +1,9 @@
-/* Generated from ls417.dat
+/* Generated from l/ls417.dat
 
 Usage (copy/paste):
 
 //    LS417
-include <airfoil/ls417.scad>
+include <openscad-airfoil/l/ls417.scad>
 af_vec_path   = airfoil_LS417_path ();
 af_vec_slice  = airfoil_LS417_slice ();
 af_vec_range  = airfoil_LS417_range ();

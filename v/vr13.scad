@@ -1,9 +1,9 @@
-/* Generated from vr13.dat
+/* Generated from v/vr13.dat
 
 Usage (copy/paste):
 
 //    VR13
-include <airfoil/vr13.scad>
+include <openscad-airfoil/v/vr13.scad>
 af_vec_path   = airfoil_VR13_path ();
 af_vec_slice  = airfoil_VR13_slice ();
 af_vec_range  = airfoil_VR13_range ();

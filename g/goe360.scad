@@ -1,9 +1,9 @@
-/* Generated from goe360.dat
+/* Generated from g/goe360.dat
 
 Usage (copy/paste):
 
 //    GOE360
-include <airfoil/goe360.scad>
+include <openscad-airfoil/g/goe360.scad>
 af_vec_path   = airfoil_GOE360_path ();
 af_vec_slice  = airfoil_GOE360_slice ();
 af_vec_range  = airfoil_GOE360_range ();

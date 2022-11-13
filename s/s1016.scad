@@ -1,9 +1,9 @@
-/* Generated from s1016.dat
+/* Generated from s/s1016.dat
 
 Usage (copy/paste):
 
 //    S1016
-include <airfoil/s1016.scad>
+include <openscad-airfoil/s/s1016.scad>
 af_vec_path   = airfoil_S1016_path ();
 af_vec_slice  = airfoil_S1016_slice ();
 af_vec_range  = airfoil_S1016_range ();

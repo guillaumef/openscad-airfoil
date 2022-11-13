@@ -1,9 +1,9 @@
-/* Generated from lwk80150k25.dat
+/* Generated from l/lwk80150k25.dat
 
 Usage (copy/paste):
 
 //    LWK80150K25
-include <airfoil/lwk80150k25.scad>
+include <openscad-airfoil/l/lwk80150k25.scad>
 af_vec_path   = airfoil_LWK80150K25_path ();
 af_vec_slice  = airfoil_LWK80150K25_slice ();
 af_vec_range  = airfoil_LWK80150K25_range ();

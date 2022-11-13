@@ -1,9 +1,9 @@
-/* Generated from ht23.dat
+/* Generated from h/ht23.dat
 
 Usage (copy/paste):
 
 //    HT23
-include <airfoil/ht23.scad>
+include <openscad-airfoil/h/ht23.scad>
 af_vec_path   = airfoil_HT23_path ();
 af_vec_slice  = airfoil_HT23_slice ();
 af_vec_range  = airfoil_HT23_range ();

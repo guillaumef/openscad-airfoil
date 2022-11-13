@@ -1,9 +1,9 @@
-/* Generated from s4110.dat
+/* Generated from s/s4110.dat
 
 Usage (copy/paste):
 
 //    S4110
-include <airfoil/s4110.scad>
+include <openscad-airfoil/s/s4110.scad>
 af_vec_path   = airfoil_S4110_path ();
 af_vec_slice  = airfoil_S4110_slice ();
 af_vec_range  = airfoil_S4110_range ();

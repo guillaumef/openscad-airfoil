@@ -1,9 +1,9 @@
-/* Generated from rc12n1.dat
+/* Generated from r/rc12n1.dat
 
 Usage (copy/paste):
 
 //    RC12N1
-include <airfoil/rc12n1.scad>
+include <openscad-airfoil/r/rc12n1.scad>
 af_vec_path   = airfoil_RC12N1_path ();
 af_vec_slice  = airfoil_RC12N1_slice ();
 af_vec_range  = airfoil_RC12N1_range ();

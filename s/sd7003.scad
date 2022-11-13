@@ -1,9 +1,9 @@
-/* Generated from sd7003.dat
+/* Generated from s/sd7003.dat
 
 Usage (copy/paste):
 
 //    SD7003
-include <airfoil/sd7003.scad>
+include <openscad-airfoil/s/sd7003.scad>
 af_vec_path   = airfoil_SD7003_path ();
 af_vec_slice  = airfoil_SD7003_slice ();
 af_vec_range  = airfoil_SD7003_range ();

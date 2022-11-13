@@ -1,9 +1,9 @@
-/* Generated from giiig.dat
+/* Generated from g/giiig.dat
 
 Usage (copy/paste):
 
 //    GIIIG
-include <airfoil/giiig.scad>
+include <openscad-airfoil/g/giiig.scad>
 af_vec_path   = airfoil_GIIIG_path ();
 af_vec_slice  = airfoil_GIIIG_slice ();
 af_vec_range  = airfoil_GIIIG_range ();

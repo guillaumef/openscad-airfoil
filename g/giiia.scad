@@ -1,9 +1,9 @@
-/* Generated from giiia.dat
+/* Generated from g/giiia.dat
 
 Usage (copy/paste):
 
 //    GIIIA
-include <airfoil/giiia.scad>
+include <openscad-airfoil/g/giiia.scad>
 af_vec_path   = airfoil_GIIIA_path ();
 af_vec_slice  = airfoil_GIIIA_slice ();
 af_vec_range  = airfoil_GIIIA_range ();

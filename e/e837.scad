@@ -1,9 +1,9 @@
-/* Generated from e837.dat
+/* Generated from e/e837.dat
 
 Usage (copy/paste):
 
 //    E837
-include <airfoil/e837.scad>
+include <openscad-airfoil/e/e837.scad>
 af_vec_path   = airfoil_E837_path ();
 af_vec_slice  = airfoil_E837_slice ();
 af_vec_range  = airfoil_E837_range ();

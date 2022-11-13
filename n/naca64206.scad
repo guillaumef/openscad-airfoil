@@ -1,9 +1,9 @@
-/* Generated from naca64206.dat
+/* Generated from n/naca64206.dat
 
 Usage (copy/paste):
 
 //    NACA64206
-include <airfoil/naca64206.scad>
+include <openscad-airfoil/n/naca64206.scad>
 af_vec_path   = airfoil_NACA64206_path ();
 af_vec_slice  = airfoil_NACA64206_slice ();
 af_vec_range  = airfoil_NACA64206_range ();

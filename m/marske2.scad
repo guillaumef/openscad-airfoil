@@ -1,9 +1,9 @@
-/* Generated from marske2.dat
+/* Generated from m/marske2.dat
 
 Usage (copy/paste):
 
 //    MARSKE2
-include <airfoil/marske2.scad>
+include <openscad-airfoil/m/marske2.scad>
 af_vec_path   = airfoil_MARSKE2_path ();
 af_vec_slice  = airfoil_MARSKE2_slice ();
 af_vec_range  = airfoil_MARSKE2_range ();

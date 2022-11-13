@@ -1,9 +1,9 @@
-/* Generated from dh4009sm.dat
+/* Generated from d/dh4009sm.dat
 
 Usage (copy/paste):
 
 //    DH4009SM
-include <airfoil/dh4009sm.scad>
+include <openscad-airfoil/d/dh4009sm.scad>
 af_vec_path   = airfoil_DH4009SM_path ();
 af_vec_slice  = airfoil_DH4009SM_slice ();
 af_vec_range  = airfoil_DH4009SM_range ();

@@ -1,9 +1,9 @@
-/* Generated from ag38.dat
+/* Generated from a/ag38.dat
 
 Usage (copy/paste):
 
 //    AG38
-include <airfoil/ag38.scad>
+include <openscad-airfoil/a/ag38.scad>
 af_vec_path   = airfoil_AG38_path ();
 af_vec_slice  = airfoil_AG38_slice ();
 af_vec_range  = airfoil_AG38_range ();

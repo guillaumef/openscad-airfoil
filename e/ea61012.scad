@@ -1,9 +1,9 @@
-/* Generated from ea61012.dat
+/* Generated from e/ea61012.dat
 
 Usage (copy/paste):
 
 //    EA61012
-include <airfoil/ea61012.scad>
+include <openscad-airfoil/e/ea61012.scad>
 af_vec_path   = airfoil_EA61012_path ();
 af_vec_slice  = airfoil_EA61012_slice ();
 af_vec_range  = airfoil_EA61012_range ();

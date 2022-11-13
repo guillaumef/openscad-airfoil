@@ -1,9 +1,9 @@
-/* Generated from s6061.dat
+/* Generated from s/s6061.dat
 
 Usage (copy/paste):
 
 //    S6061
-include <airfoil/s6061.scad>
+include <openscad-airfoil/s/s6061.scad>
 af_vec_path   = airfoil_S6061_path ();
 af_vec_slice  = airfoil_S6061_slice ();
 af_vec_range  = airfoil_S6061_range ();

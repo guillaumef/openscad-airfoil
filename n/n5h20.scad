@@ -1,9 +1,9 @@
-/* Generated from n5h20.dat
+/* Generated from n/n5h20.dat
 
 Usage (copy/paste):
 
 //    N5H20
-include <airfoil/n5h20.scad>
+include <openscad-airfoil/n/n5h20.scad>
 af_vec_path   = airfoil_N5H20_path ();
 af_vec_slice  = airfoil_N5H20_slice ();
 af_vec_range  = airfoil_N5H20_range ();

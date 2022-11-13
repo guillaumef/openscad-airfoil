@@ -1,9 +1,9 @@
-/* Generated from arad20.dat
+/* Generated from a/arad20.dat
 
 Usage (copy/paste):
 
 //    ARAD20
-include <airfoil/arad20.scad>
+include <openscad-airfoil/a/arad20.scad>
 af_vec_path   = airfoil_ARAD20_path ();
 af_vec_slice  = airfoil_ARAD20_slice ();
 af_vec_range  = airfoil_ARAD20_range ();

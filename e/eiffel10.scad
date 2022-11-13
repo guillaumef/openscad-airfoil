@@ -1,9 +1,9 @@
-/* Generated from eiffel10.dat
+/* Generated from e/eiffel10.dat
 
 Usage (copy/paste):
 
 //    EIFFEL10
-include <airfoil/eiffel10.scad>
+include <openscad-airfoil/e/eiffel10.scad>
 af_vec_path   = airfoil_EIFFEL10_path ();
 af_vec_slice  = airfoil_EIFFEL10_slice ();
 af_vec_range  = airfoil_EIFFEL10_range ();

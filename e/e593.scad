@@ -1,9 +1,9 @@
-/* Generated from e593.dat
+/* Generated from e/e593.dat
 
 Usage (copy/paste):
 
 //    E593
-include <airfoil/e593.scad>
+include <openscad-airfoil/e/e593.scad>
 af_vec_path   = airfoil_E593_path ();
 af_vec_slice  = airfoil_E593_slice ();
 af_vec_range  = airfoil_E593_range ();

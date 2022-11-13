@@ -1,9 +1,9 @@
-/* Generated from mh42.dat
+/* Generated from m/mh42.dat
 
 Usage (copy/paste):
 
 //    MH42
-include <airfoil/mh42.scad>
+include <openscad-airfoil/m/mh42.scad>
 af_vec_path   = airfoil_MH42_path ();
 af_vec_slice  = airfoil_MH42_slice ();
 af_vec_range  = airfoil_MH42_range ();

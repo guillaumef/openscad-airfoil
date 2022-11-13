@@ -1,9 +1,9 @@
-/* Generated from e1214.dat
+/* Generated from e/e1214.dat
 
 Usage (copy/paste):
 
 //    E1214
-include <airfoil/e1214.scad>
+include <openscad-airfoil/e/e1214.scad>
 af_vec_path   = airfoil_E1214_path ();
 af_vec_slice  = airfoil_E1214_slice ();
 af_vec_range  = airfoil_E1214_range ();

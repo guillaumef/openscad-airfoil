@@ -1,9 +1,9 @@
-/* Generated from ea81006.dat
+/* Generated from e/ea81006.dat
 
 Usage (copy/paste):
 
 //    EA81006
-include <airfoil/ea81006.scad>
+include <openscad-airfoil/e/ea81006.scad>
 af_vec_path   = airfoil_EA81006_path ();
 af_vec_slice  = airfoil_EA81006_slice ();
 af_vec_range  = airfoil_EA81006_range ();

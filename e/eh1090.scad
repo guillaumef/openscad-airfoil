@@ -1,9 +1,9 @@
-/* Generated from eh1090.dat
+/* Generated from e/eh1090.dat
 
 Usage (copy/paste):
 
 //    EH1090
-include <airfoil/eh1090.scad>
+include <openscad-airfoil/e/eh1090.scad>
 af_vec_path   = airfoil_EH1090_path ();
 af_vec_slice  = airfoil_EH1090_slice ();
 af_vec_range  = airfoil_EH1090_range ();

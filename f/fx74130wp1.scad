@@ -1,9 +1,9 @@
-/* Generated from fx74130wp1.dat
+/* Generated from f/fx74130wp1.dat
 
 Usage (copy/paste):
 
 //    FX74130WP1
-include <airfoil/fx74130wp1.scad>
+include <openscad-airfoil/f/fx74130wp1.scad>
 af_vec_path   = airfoil_FX74130WP1_path ();
 af_vec_slice  = airfoil_FX74130WP1_slice ();
 af_vec_range  = airfoil_FX74130WP1_range ();

@@ -1,9 +1,9 @@
-/* Generated from sd2030.dat
+/* Generated from s/sd2030.dat
 
 Usage (copy/paste):
 
 //    SD2030
-include <airfoil/sd2030.scad>
+include <openscad-airfoil/s/sd2030.scad>
 af_vec_path   = airfoil_SD2030_path ();
 af_vec_slice  = airfoil_SD2030_slice ();
 af_vec_range  = airfoil_SD2030_range ();

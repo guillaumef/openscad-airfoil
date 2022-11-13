@@ -1,9 +1,9 @@
-/* Generated from ultimate.dat
+/* Generated from u/ultimate.dat
 
 Usage (copy/paste):
 
 //    ULTIMATE
-include <airfoil/ultimate.scad>
+include <openscad-airfoil/u/ultimate.scad>
 af_vec_path   = airfoil_ULTIMATE_path ();
 af_vec_slice  = airfoil_ULTIMATE_slice ();
 af_vec_range  = airfoil_ULTIMATE_range ();

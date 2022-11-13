@@ -1,9 +1,9 @@
-/* Generated from e374.dat
+/* Generated from e/e374.dat
 
 Usage (copy/paste):
 
 //    E374
-include <airfoil/e374.scad>
+include <openscad-airfoil/e/e374.scad>
 af_vec_path   = airfoil_E374_path ();
 af_vec_slice  = airfoil_E374_slice ();
 af_vec_range  = airfoil_E374_range ();

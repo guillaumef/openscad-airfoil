@@ -1,9 +1,9 @@
-/* Generated from ag19.dat
+/* Generated from a/ag19.dat
 
 Usage (copy/paste):
 
 //    AG19
-include <airfoil/ag19.scad>
+include <openscad-airfoil/a/ag19.scad>
 af_vec_path   = airfoil_AG19_path ();
 af_vec_slice  = airfoil_AG19_slice ();
 af_vec_range  = airfoil_AG19_range ();

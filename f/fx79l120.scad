@@ -1,9 +1,9 @@
-/* Generated from fx79l120.dat
+/* Generated from f/fx79l120.dat
 
 Usage (copy/paste):
 
 //    FX79L120
-include <airfoil/fx79l120.scad>
+include <openscad-airfoil/f/fx79l120.scad>
 af_vec_path   = airfoil_FX79L120_path ();
 af_vec_slice  = airfoil_FX79L120_slice ();
 af_vec_range  = airfoil_FX79L120_range ();

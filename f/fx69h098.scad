@@ -1,9 +1,9 @@
-/* Generated from fx69h098.dat
+/* Generated from f/fx69h098.dat
 
 Usage (copy/paste):
 
 //    FX69H098
-include <airfoil/fx69h098.scad>
+include <openscad-airfoil/f/fx69h098.scad>
 af_vec_path   = airfoil_FX69H098_path ();
 af_vec_slice  = airfoil_FX69H098_slice ();
 af_vec_range  = airfoil_FX69H098_range ();

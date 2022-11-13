@@ -1,9 +1,9 @@
-/* Generated from e864.dat
+/* Generated from e/e864.dat
 
 Usage (copy/paste):
 
 //    E864
-include <airfoil/e864.scad>
+include <openscad-airfoil/e/e864.scad>
 af_vec_path   = airfoil_E864_path ();
 af_vec_slice  = airfoil_E864_slice ();
 af_vec_range  = airfoil_E864_range ();

@@ -1,9 +1,9 @@
-/* Generated from doa5.dat
+/* Generated from d/doa5.dat
 
 Usage (copy/paste):
 
 //    DOA5
-include <airfoil/doa5.scad>
+include <openscad-airfoil/d/doa5.scad>
 af_vec_path   = airfoil_DOA5_path ();
 af_vec_slice  = airfoil_DOA5_slice ();
 af_vec_range  = airfoil_DOA5_range ();

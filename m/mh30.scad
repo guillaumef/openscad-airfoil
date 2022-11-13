@@ -1,9 +1,9 @@
-/* Generated from mh30.dat
+/* Generated from m/mh30.dat
 
 Usage (copy/paste):
 
 //    MH30
-include <airfoil/mh30.scad>
+include <openscad-airfoil/m/mh30.scad>
 af_vec_path   = airfoil_MH30_path ();
 af_vec_slice  = airfoil_MH30_slice ();
 af_vec_range  = airfoil_MH30_range ();

@@ -1,9 +1,9 @@
-/* Generated from usnps4.dat
+/* Generated from u/usnps4.dat
 
 Usage (copy/paste):
 
 //    USNPS4
-include <airfoil/usnps4.scad>
+include <openscad-airfoil/u/usnps4.scad>
 af_vec_path   = airfoil_USNPS4_path ();
 af_vec_slice  = airfoil_USNPS4_slice ();
 af_vec_range  = airfoil_USNPS4_range ();

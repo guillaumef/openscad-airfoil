@@ -1,9 +1,9 @@
-/* Generated from ms317.dat
+/* Generated from m/ms317.dat
 
 Usage (copy/paste):
 
 //    MS317
-include <airfoil/ms317.scad>
+include <openscad-airfoil/m/ms317.scad>
 af_vec_path   = airfoil_MS317_path ();
 af_vec_slice  = airfoil_MS317_slice ();
 af_vec_range  = airfoil_MS317_range ();

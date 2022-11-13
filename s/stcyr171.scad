@@ -1,9 +1,9 @@
-/* Generated from stcyr171.dat
+/* Generated from s/stcyr171.dat
 
 Usage (copy/paste):
 
 //    STCYR171
-include <airfoil/stcyr171.scad>
+include <openscad-airfoil/s/stcyr171.scad>
 af_vec_path   = airfoil_STCYR171_path ();
 af_vec_slice  = airfoil_STCYR171_slice ();
 af_vec_range  = airfoil_STCYR171_range ();

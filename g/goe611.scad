@@ -1,9 +1,9 @@
-/* Generated from goe611.dat
+/* Generated from g/goe611.dat
 
 Usage (copy/paste):
 
 //    GOE611
-include <airfoil/goe611.scad>
+include <openscad-airfoil/g/goe611.scad>
 af_vec_path   = airfoil_GOE611_path ();
 af_vec_slice  = airfoil_GOE611_slice ();
 af_vec_range  = airfoil_GOE611_range ();

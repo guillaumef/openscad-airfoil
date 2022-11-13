@@ -1,9 +1,9 @@
-/* Generated from ah94w301.dat
+/* Generated from a/ah94w301.dat
 
 Usage (copy/paste):
 
 //    AH94W301
-include <airfoil/ah94w301.scad>
+include <openscad-airfoil/a/ah94w301.scad>
 af_vec_path   = airfoil_AH94W301_path ();
 af_vec_slice  = airfoil_AH94W301_slice ();
 af_vec_range  = airfoil_AH94W301_range ();

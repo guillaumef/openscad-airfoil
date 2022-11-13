@@ -1,9 +1,9 @@
-/* Generated from e221.dat
+/* Generated from e/e221.dat
 
 Usage (copy/paste):
 
 //    E221
-include <airfoil/e221.scad>
+include <openscad-airfoil/e/e221.scad>
 af_vec_path   = airfoil_E221_path ();
 af_vec_slice  = airfoil_E221_slice ();
 af_vec_range  = airfoil_E221_range ();

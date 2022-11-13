@@ -1,9 +1,9 @@
-/* Generated from r1080.dat
+/* Generated from r/r1080.dat
 
 Usage (copy/paste):
 
 //    R1080
-include <airfoil/r1080.scad>
+include <openscad-airfoil/r/r1080.scad>
 af_vec_path   = airfoil_R1080_path ();
 af_vec_slice  = airfoil_R1080_slice ();
 af_vec_range  = airfoil_R1080_range ();

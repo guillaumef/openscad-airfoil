@@ -1,9 +1,9 @@
-/* Generated from e333.dat
+/* Generated from e/e333.dat
 
 Usage (copy/paste):
 
 //    E333
-include <airfoil/e333.scad>
+include <openscad-airfoil/e/e333.scad>
 af_vec_path   = airfoil_E333_path ();
 af_vec_slice  = airfoil_E333_slice ();
 af_vec_range  = airfoil_E333_range ();

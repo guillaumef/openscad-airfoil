@@ -1,9 +1,9 @@
-/* Generated from vr12.dat
+/* Generated from v/vr12.dat
 
 Usage (copy/paste):
 
 //    VR12
-include <airfoil/vr12.scad>
+include <openscad-airfoil/v/vr12.scad>
 af_vec_path   = airfoil_VR12_path ();
 af_vec_slice  = airfoil_VR12_slice ();
 af_vec_range  = airfoil_VR12_range ();

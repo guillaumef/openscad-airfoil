@@ -1,9 +1,9 @@
-/* Generated from lnv109a.dat
+/* Generated from l/lnv109a.dat
 
 Usage (copy/paste):
 
 //    LNV109A
-include <airfoil/lnv109a.scad>
+include <openscad-airfoil/l/lnv109a.scad>
 af_vec_path   = airfoil_LNV109A_path ();
 af_vec_slice  = airfoil_LNV109A_slice ();
 af_vec_range  = airfoil_LNV109A_range ();

@@ -1,9 +1,9 @@
-/* Generated from goe207.dat
+/* Generated from g/goe207.dat
 
 Usage (copy/paste):
 
 //    GOE207
-include <airfoil/goe207.scad>
+include <openscad-airfoil/g/goe207.scad>
 af_vec_path   = airfoil_GOE207_path ();
 af_vec_slice  = airfoil_GOE207_slice ();
 af_vec_range  = airfoil_GOE207_range ();

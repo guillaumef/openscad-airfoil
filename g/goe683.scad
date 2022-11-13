@@ -1,9 +1,9 @@
-/* Generated from goe683.dat
+/* Generated from g/goe683.dat
 
 Usage (copy/paste):
 
 //    GOE683
-include <airfoil/goe683.scad>
+include <openscad-airfoil/g/goe683.scad>
 af_vec_path   = airfoil_GOE683_path ();
 af_vec_slice  = airfoil_GOE683_slice ();
 af_vec_range  = airfoil_GOE683_range ();

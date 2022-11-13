@@ -1,9 +1,9 @@
-/* Generated from l188root.dat
+/* Generated from l/l188root.dat
 
 Usage (copy/paste):
 
 //    L188ROOT
-include <airfoil/l188root.scad>
+include <openscad-airfoil/l/l188root.scad>
 af_vec_path   = airfoil_L188ROOT_path ();
 af_vec_slice  = airfoil_L188ROOT_slice ();
 af_vec_range  = airfoil_L188ROOT_range ();

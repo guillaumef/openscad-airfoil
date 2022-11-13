@@ -1,9 +1,9 @@
-/* Generated from ui1720.dat
+/* Generated from u/ui1720.dat
 
 Usage (copy/paste):
 
 //    UI1720
-include <airfoil/ui1720.scad>
+include <openscad-airfoil/u/ui1720.scad>
 af_vec_path   = airfoil_UI1720_path ();
 af_vec_slice  = airfoil_UI1720_slice ();
 af_vec_range  = airfoil_UI1720_range ();

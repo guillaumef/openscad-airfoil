@@ -1,9 +1,9 @@
-/* Generated from fxl142k.dat
+/* Generated from f/fxl142k.dat
 
 Usage (copy/paste):
 
 //    FXL142K
-include <airfoil/fxl142k.scad>
+include <openscad-airfoil/f/fxl142k.scad>
 af_vec_path   = airfoil_FXL142K_path ();
 af_vec_slice  = airfoil_FXL142K_slice ();
 af_vec_range  = airfoil_FXL142K_range ();

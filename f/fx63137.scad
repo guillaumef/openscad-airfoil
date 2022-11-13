@@ -1,9 +1,9 @@
-/* Generated from fx63137.dat
+/* Generated from f/fx63137.dat
 
 Usage (copy/paste):
 
 //    FX63137
-include <airfoil/fx63137.scad>
+include <openscad-airfoil/f/fx63137.scad>
 af_vec_path   = airfoil_FX63137_path ();
 af_vec_slice  = airfoil_FX63137_slice ();
 af_vec_range  = airfoil_FX63137_range ();

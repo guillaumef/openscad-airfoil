@@ -1,9 +1,9 @@
-/* Generated from fg4.dat
+/* Generated from f/fg4.dat
 
 Usage (copy/paste):
 
 //    FG4
-include <airfoil/fg4.scad>
+include <openscad-airfoil/f/fg4.scad>
 af_vec_path   = airfoil_FG4_path ();
 af_vec_slice  = airfoil_FG4_slice ();
 af_vec_range  = airfoil_FG4_range ();

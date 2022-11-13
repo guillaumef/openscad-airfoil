@@ -1,9 +1,9 @@
-/* Generated from df101.dat
+/* Generated from d/df101.dat
 
 Usage (copy/paste):
 
 //    DF101
-include <airfoil/df101.scad>
+include <openscad-airfoil/d/df101.scad>
 af_vec_path   = airfoil_DF101_path ();
 af_vec_slice  = airfoil_DF101_slice ();
 af_vec_range  = airfoil_DF101_range ();

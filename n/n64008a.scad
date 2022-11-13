@@ -1,9 +1,9 @@
-/* Generated from n64008a.dat
+/* Generated from n/n64008a.dat
 
 Usage (copy/paste):
 
 //    N64008A
-include <airfoil/n64008a.scad>
+include <openscad-airfoil/n/n64008a.scad>
 af_vec_path   = airfoil_N64008A_path ();
 af_vec_slice  = airfoil_N64008A_slice ();
 af_vec_range  = airfoil_N64008A_range ();

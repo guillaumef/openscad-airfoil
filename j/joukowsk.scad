@@ -1,9 +1,9 @@
-/* Generated from joukowsk.dat
+/* Generated from j/joukowsk.dat
 
 Usage (copy/paste):
 
 //    JOUKOWSK
-include <airfoil/joukowsk.scad>
+include <openscad-airfoil/j/joukowsk.scad>
 af_vec_path   = airfoil_JOUKOWSK_path ();
 af_vec_slice  = airfoil_JOUKOWSK_slice ();
 af_vec_range  = airfoil_JOUKOWSK_range ();

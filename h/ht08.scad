@@ -1,9 +1,9 @@
-/* Generated from ht08.dat
+/* Generated from h/ht08.dat
 
 Usage (copy/paste):
 
 //    HT08
-include <airfoil/ht08.scad>
+include <openscad-airfoil/h/ht08.scad>
 af_vec_path   = airfoil_HT08_path ();
 af_vec_slice  = airfoil_HT08_slice ();
 af_vec_range  = airfoil_HT08_range ();

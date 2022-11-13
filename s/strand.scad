@@ -1,9 +1,9 @@
-/* Generated from strand.dat
+/* Generated from s/strand.dat
 
 Usage (copy/paste):
 
 //    STRAND
-include <airfoil/strand.scad>
+include <openscad-airfoil/s/strand.scad>
 af_vec_path   = airfoil_STRAND_path ();
 af_vec_slice  = airfoil_STRAND_slice ();
 af_vec_range  = airfoil_STRAND_range ();

@@ -1,9 +1,9 @@
-/* Generated from mrc-20.dat
+/* Generated from m/mrc-20.dat
 
 Usage (copy/paste):
 
 //    MRC20
-include <airfoil/mrc-20.scad>
+include <openscad-airfoil/m/mrc-20.scad>
 af_vec_path   = airfoil_MRC20_path ();
 af_vec_slice  = airfoil_MRC20_slice ();
 af_vec_range  = airfoil_MRC20_range ();

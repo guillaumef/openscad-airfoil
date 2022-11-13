@@ -1,9 +1,9 @@
-/* Generated from raf89.dat
+/* Generated from r/raf89.dat
 
 Usage (copy/paste):
 
 //    RAF89
-include <airfoil/raf89.scad>
+include <openscad-airfoil/r/raf89.scad>
 af_vec_path   = airfoil_RAF89_path ();
 af_vec_slice  = airfoil_RAF89_slice ();
 af_vec_range  = airfoil_RAF89_range ();

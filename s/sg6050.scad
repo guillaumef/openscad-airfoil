@@ -1,9 +1,9 @@
-/* Generated from sg6050.dat
+/* Generated from s/sg6050.dat
 
 Usage (copy/paste):
 
 //    SG6050
-include <airfoil/sg6050.scad>
+include <openscad-airfoil/s/sg6050.scad>
 af_vec_path   = airfoil_SG6050_path ();
 af_vec_slice  = airfoil_SG6050_slice ();
 af_vec_range  = airfoil_SG6050_range ();

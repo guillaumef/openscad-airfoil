@@ -1,9 +1,9 @@
-/* Generated from fx72150a.dat
+/* Generated from f/fx72150a.dat
 
 Usage (copy/paste):
 
 //    FX72150A
-include <airfoil/fx72150a.scad>
+include <openscad-airfoil/f/fx72150a.scad>
 af_vec_path   = airfoil_FX72150A_path ();
 af_vec_slice  = airfoil_FX72150A_slice ();
 af_vec_range  = airfoil_FX72150A_range ();

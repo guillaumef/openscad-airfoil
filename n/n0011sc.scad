@@ -1,9 +1,9 @@
-/* Generated from n0011sc.dat
+/* Generated from n/n0011sc.dat
 
 Usage (copy/paste):
 
 //    N0011SC
-include <airfoil/n0011sc.scad>
+include <openscad-airfoil/n/n0011sc.scad>
 af_vec_path   = airfoil_N0011SC_path ();
 af_vec_slice  = airfoil_N0011SC_slice ();
 af_vec_range  = airfoil_N0011SC_range ();

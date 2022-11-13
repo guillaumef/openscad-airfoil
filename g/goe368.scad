@@ -1,9 +1,9 @@
-/* Generated from goe368.dat
+/* Generated from g/goe368.dat
 
 Usage (copy/paste):
 
 //    GOE368
-include <airfoil/goe368.scad>
+include <openscad-airfoil/g/goe368.scad>
 af_vec_path   = airfoil_GOE368_path ();
 af_vec_slice  = airfoil_GOE368_slice ();
 af_vec_range  = airfoil_GOE368_range ();

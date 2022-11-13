@@ -1,9 +1,9 @@
-/* Generated from oa209.dat
+/* Generated from o/oa209.dat
 
 Usage (copy/paste):
 
 //    OA209
-include <airfoil/oa209.scad>
+include <openscad-airfoil/o/oa209.scad>
 af_vec_path   = airfoil_OA209_path ();
 af_vec_slice  = airfoil_OA209_slice ();
 af_vec_range  = airfoil_OA209_range ();

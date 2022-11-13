@@ -1,9 +1,9 @@
-/* Generated from ag18.dat
+/* Generated from a/ag18.dat
 
 Usage (copy/paste):
 
 //    AG18
-include <airfoil/ag18.scad>
+include <openscad-airfoil/a/ag18.scad>
 af_vec_path   = airfoil_AG18_path ();
 af_vec_slice  = airfoil_AG18_slice ();
 af_vec_range  = airfoil_AG18_range ();

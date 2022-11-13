@@ -1,9 +1,9 @@
-/* Generated from l188tip.dat
+/* Generated from l/l188tip.dat
 
 Usage (copy/paste):
 
 //    L188TIP
-include <airfoil/l188tip.scad>
+include <openscad-airfoil/l/l188tip.scad>
 af_vec_path   = airfoil_L188TIP_path ();
 af_vec_slice  = airfoil_L188TIP_slice ();
 af_vec_range  = airfoil_L188TIP_range ();

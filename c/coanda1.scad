@@ -1,9 +1,9 @@
-/* Generated from coanda1.dat
+/* Generated from c/coanda1.dat
 
 Usage (copy/paste):
 
 //    COANDA1
-include <airfoil/coanda1.scad>
+include <openscad-airfoil/c/coanda1.scad>
 af_vec_path   = airfoil_COANDA1_path ();
 af_vec_slice  = airfoil_COANDA1_slice ();
 af_vec_range  = airfoil_COANDA1_range ();

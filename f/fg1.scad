@@ -1,9 +1,9 @@
-/* Generated from fg1.dat
+/* Generated from f/fg1.dat
 
 Usage (copy/paste):
 
 //    FG1
-include <airfoil/fg1.scad>
+include <openscad-airfoil/f/fg1.scad>
 af_vec_path   = airfoil_FG1_path ();
 af_vec_slice  = airfoil_FG1_slice ();
 af_vec_range  = airfoil_FG1_range ();

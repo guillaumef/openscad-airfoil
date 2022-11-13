@@ -1,9 +1,9 @@
-/* Generated from nlr1t.dat
+/* Generated from n/nlr1t.dat
 
 Usage (copy/paste):
 
 //    NLR1T
-include <airfoil/nlr1t.scad>
+include <openscad-airfoil/n/nlr1t.scad>
 af_vec_path   = airfoil_NLR1T_path ();
 af_vec_slice  = airfoil_NLR1T_slice ();
 af_vec_range  = airfoil_NLR1T_range ();

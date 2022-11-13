@@ -1,9 +1,9 @@
-/* Generated from clarym18.dat
+/* Generated from c/clarym18.dat
 
 Usage (copy/paste):
 
 //    CLARYM18
-include <airfoil/clarym18.scad>
+include <openscad-airfoil/c/clarym18.scad>
 af_vec_path   = airfoil_CLARYM18_path ();
 af_vec_slice  = airfoil_CLARYM18_slice ();
 af_vec_range  = airfoil_CLARYM18_range ();

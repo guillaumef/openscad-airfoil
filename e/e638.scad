@@ -1,9 +1,9 @@
-/* Generated from e638.dat
+/* Generated from e/e638.dat
 
 Usage (copy/paste):
 
 //    E638
-include <airfoil/e638.scad>
+include <openscad-airfoil/e/e638.scad>
 af_vec_path   = airfoil_E638_path ();
 af_vec_slice  = airfoil_E638_slice ();
 af_vec_range  = airfoil_E638_range ();

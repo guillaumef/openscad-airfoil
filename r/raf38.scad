@@ -1,9 +1,9 @@
-/* Generated from raf38.dat
+/* Generated from r/raf38.dat
 
 Usage (copy/paste):
 
 //    RAF38
-include <airfoil/raf38.scad>
+include <openscad-airfoil/r/raf38.scad>
 af_vec_path   = airfoil_RAF38_path ();
 af_vec_slice  = airfoil_RAF38_slice ();
 af_vec_range  = airfoil_RAF38_range ();

@@ -1,9 +1,9 @@
-/* Generated from e266.dat
+/* Generated from e/e266.dat
 
 Usage (copy/paste):
 
 //    E266
-include <airfoil/e266.scad>
+include <openscad-airfoil/e/e266.scad>
 af_vec_path   = airfoil_E266_path ();
 af_vec_slice  = airfoil_E266_slice ();
 af_vec_range  = airfoil_E266_range ();

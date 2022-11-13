@@ -1,9 +1,9 @@
-/* Generated from miley.dat
+/* Generated from m/miley.dat
 
 Usage (copy/paste):
 
 //    MILEY
-include <airfoil/miley.scad>
+include <openscad-airfoil/m/miley.scad>
 af_vec_path   = airfoil_MILEY_path ();
 af_vec_slice  = airfoil_MILEY_slice ();
 af_vec_range  = airfoil_MILEY_range ();
